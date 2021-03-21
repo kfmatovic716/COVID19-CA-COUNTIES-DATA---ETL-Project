@@ -8,7 +8,6 @@
 ## SUBJECT OF DATA EXPLORATION
 ## COVID-19 vaccinations, test cases, hospitalizations, mortality and unemployment  in California Counties
 <hr>
-<br>
 
 ## MAIN OBJECTIVES
 <ul>
@@ -17,9 +16,7 @@
     <li>To upload the files in a database in preparation for more thorough analysis</li>
     <li>To formulate ideas on what types of questions or analyses can be drawn from the datasets</li>
 </ul>
-
 <hr>
-<br>
 
 ## DATA SOURCES
 <ul>
@@ -37,7 +34,6 @@
     </ul>
 </ul> 
 <hr>
-<br>
 
 ## DATA DESCRIPTIONS
 <ol> 
@@ -60,23 +56,25 @@
     </ul>
 <li>COVID-19 Test Cases Data - covid19cases_test.csv</li>
     <ul>
-    <li>There were <strong>26,962 total records</strong> collected from <strong>January 1, 2020 through  March 16, 2021</strong>. The number of test cases are recorded for each county on a daily basis with the most recent dates added at the top of the table. The following data were collected for each county per day:
-    </li>
-    <ul>
-        <li>area or county name </li>
-        <li>area type</li>
-        <li>the number of population by county</li>
-        <li>total number of new & cumulative </li>
-            <ul>
-            <li>laboratory-confirmed COVID-19 cases</li>
-            <li>confirmed COVID-19-related deaths</li>
-            <li>PCR tests performed by laboratories</li>
-            <li>PCR tests with positive results</li>
-            <li>reported cases to the CA Department of Public Health</li>
-            <li>reported deaths to the CA Department of Public Health</li>
-            <li>reported PCR tests</li>
-            </ul>
-        </ul>
+        <li>There were <strong>26,962 total records</strong> collected from <strong>January 1, 2020 through  March 16, 2021</strong>. The number of test cases are recorded for each county on a daily basis with the most recent dates added at the top of the table. The following data were collected for each county per day:
+        </li>
+        <ul>
+            <li>area or county name </li>
+            <li>area type</li>
+            <li>the number of population by county</li>
+            <li>total number of new & cumulative </li>
+                <ul>
+                <li>laboratory-confirmed COVID-19 cases</li>
+                <li>confirmed COVID-19-related deaths</li>
+                <li>PCR tests performed by laboratories</li>
+                <li>PCR tests with positive results</li>
+                <li>reported cases to the CA Department of Public Health</li>
+                <li>reported deaths to the CA Department of Public Health</li>
+                <li>reported PCR tests</li>
+                </ul>
+        </ul>        
+    <li>There were some negative numbers in the column “reported_deaths”. Based on the CHHS Open Data Portal field documentation, these were corrections from the previous day’s report (i.e. if the cause of death was determined to be non-COVID related)</li>
+    </ul>
     
 <li>Employment/Unemployment Data - employment_dataset.csv</li>
     <ul>
@@ -84,7 +82,6 @@
     </ul>
 </ol>
 <hr>
-<br>
 
 ## ASSUMPTIONS & LIMITATIONS
 <ul>
@@ -93,7 +90,6 @@
 </ul>
 
 <hr>
-<br>
 
 ## LIBRARIES
 <ul>
@@ -102,10 +98,8 @@
     <li></li>
 </ul>
 <hr>
-<br>
 
 ## ETL Methodologies
-<br>
 
 ## A. DATA EXTRACTION
 <ol>
@@ -116,16 +110,28 @@
 </ol>
 
 ## B. DATA TRANSFORMATION
-<ul>
-    <li>Dataset1: covid19vaccinesbycounty.csv </li>
-    <li>Dataset2: covid19hospitalbycounty.csv</li>
+<ol>
+    <li><strong>Data Cleaning & Filtering</strong></li>
         <ul>
-            <li>Based on the CHHS Open Data Portal field documentation, the number of all hospital beds (field_name) also include post-surgical, labor, delivery and observation beds, which were not related to COVID-19 patients. Therefore, this column was <strong>deleted</strong>.</li>
-            <li>There were missing data on the number of hospitalized COVID-19 patients from March 29,2020 through April 20,2020. The column “hospitalized_covid_patients” is equal to the sum of the columns "hospitalized_confirmed" and "hospitalized_suspected". The records with missing data were populated with the calculated sum.</li>
+            <li>Dataset1: covid19vaccinesbycounty.csv </li>
+            <li>Dataset2: covid19hospitalbycounty.csv</li>
+                <ul>
+                    <li>Based on the CHHS Open Data Portal field documentation, the number of all hospital beds (field_name) also include post-surgical, labor, delivery and observation beds, which were not related to COVID-19 patients. Therefore, this column was <strong>deleted</strong>.</li>
+                    <li>There were missing data on the number of hospitalized COVID-19 patients from March 29,2020 through April 20,2020. The column “hospitalized_covid_patients” is equal to the sum of the columns "hospitalized_confirmed" and "hospitalized_suspected". The records with missing data were populated with the calculated sum.</li>
+                </ul>
+            <li>Dataset3: covid19cases_test.csv</li>
+                <ul>
+                    <li>The column “area” are generally county names but there are records of California, Out of State and Unknown. Since we are focusing on counties, these records have been <strong>deleted</strong>.</li>
+                    <li>The column “area_type” indicates either “County” or “State”. In reference to the first bullet above, California has been deleted so there will be no records with "State" and only "County" were left in this columns. There’s no need to keep a column that just contains one information. Therefore, this column has been <strong>deleted</strong>.</li>
+                    <li></li>
+                </ul>
+            <li>Dataset4: employment_dataset.csv</li>
+                <ul>
+                    <li>There were records of “State”, “Sub-County Place”, “MSA”, “Metropolitan Area” and “Metro Division” in column area_type. These records have been <strong>deleted</strong> because our focus is on counties.</li>
+                    <li>Dates were formatted in UTC time. Therefore, the dates have been changed to reflect an mm/dd/yyyy format. </li>
+                </ul>
         </ul>
-    <li>Dataset3: covid19cases_test.csv</li>
-    <li>Dataset4: employment_dataset.csv</li>
-</ul>
-
+    <li><strong>Data Normalization</strong></li>
+</ol>
 
 ## C. DATA LOADING
