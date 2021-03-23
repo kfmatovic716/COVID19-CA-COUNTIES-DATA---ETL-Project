@@ -1,0 +1,5213 @@
+county,date,total_doses
+Stanislaus,3/16/2021,2
+Alameda,3/15/2021,6028
+Alpine,3/15/2021,19
+Amador,3/15/2021,15
+Butte,3/15/2021,881
+Calaveras,3/15/2021,46
+Colusa,3/15/2021,25
+Contra Costa,3/15/2021,2993
+Del Norte,3/15/2021,30
+El Dorado,3/15/2021,168
+Fresno,3/15/2021,1892
+Glenn,3/15/2021,36
+Humboldt,3/15/2021,53
+Imperial,3/15/2021,107
+Inyo,3/15/2021,35
+Kern,3/15/2021,2149
+Kings,3/15/2021,215
+Lake,3/15/2021,23
+Lassen,3/15/2021,20
+Los Angeles,3/15/2021,29850
+Madera,3/15/2021,303
+Marin,3/15/2021,1109
+Mariposa,3/15/2021,24
+Mendocino,3/15/2021,30
+Merced,3/15/2021,523
+Modoc,3/15/2021,9
+Mono,3/15/2021,1
+Monterey,3/15/2021,1353
+Napa,3/15/2021,278
+Nevada,3/15/2021,223
+Orange,3/15/2021,11660
+Outside California,3/15/2021,2024
+Placer,3/15/2021,594
+Plumas,3/15/2021,9
+Riverside,3/15/2021,10840
+Sacramento,3/15/2021,2415
+San Benito,3/15/2021,142
+San Bernardino,3/15/2021,5083
+San Diego,3/15/2021,7368
+San Francisco,3/15/2021,6248
+San Joaquin,3/15/2021,1633
+San Luis Obispo,3/15/2021,1799
+San Mateo,3/15/2021,2381
+Santa Barbara,3/15/2021,1036
+Santa Clara,3/15/2021,6316
+Santa Cruz,3/15/2021,404
+Shasta,3/15/2021,102
+Siskiyou,3/15/2021,302
+Solano,3/15/2021,596
+Sonoma,3/15/2021,1478
+Stanislaus,3/15/2021,1817
+Sutter,3/15/2021,85
+Tehama,3/15/2021,61
+Trinity,3/15/2021,1
+Tulare,3/15/2021,1226
+Tuolumne,3/15/2021,80
+Ventura,3/15/2021,1216
+Yolo,3/15/2021,409
+Yuba,3/15/2021,33
+Alameda,3/14/2021,9641
+Amador,3/14/2021,59
+Butte,3/14/2021,112
+Calaveras,3/14/2021,84
+Colusa,3/14/2021,11
+Contra Costa,3/14/2021,3736
+Del Norte,3/14/2021,1
+El Dorado,3/14/2021,546
+Fresno,3/14/2021,1088
+Glenn,3/14/2021,3
+Humboldt,3/14/2021,83
+Imperial,3/14/2021,137
+Inyo,3/14/2021,430
+Kern,3/14/2021,1770
+Kings,3/14/2021,141
+Lake,3/14/2021,11
+Lassen,3/14/2021,7
+Los Angeles,3/14/2021,29238
+Madera,3/14/2021,109
+Marin,3/14/2021,2012
+Mariposa,3/14/2021,14
+Mendocino,3/14/2021,61
+Merced,3/14/2021,160
+Modoc,3/14/2021,1
+Mono,3/14/2021,4
+Monterey,3/14/2021,515
+Napa,3/14/2021,386
+Nevada,3/14/2021,93
+Orange,3/14/2021,15702
+Outside California,3/14/2021,1915
+Placer,3/14/2021,1147
+Plumas,3/14/2021,11
+Riverside,3/14/2021,3022
+Sacramento,3/14/2021,4633
+San Benito,3/14/2021,75
+San Bernardino,3/14/2021,1971
+San Diego,3/14/2021,10692
+San Francisco,3/14/2021,7132
+San Joaquin,3/14/2021,1565
+San Luis Obispo,3/14/2021,320
+San Mateo,3/14/2021,4393
+Santa Barbara,3/14/2021,433
+Santa Clara,3/14/2021,4529
+Santa Cruz,3/14/2021,631
+Shasta,3/14/2021,179
+Siskiyou,3/14/2021,17
+Solano,3/14/2021,991
+Sonoma,3/14/2021,997
+Stanislaus,3/14/2021,685
+Sutter,3/14/2021,74
+Tehama,3/14/2021,25
+Tulare,3/14/2021,1548
+Tuolumne,3/14/2021,81
+Unknown,3/14/2021,118
+Ventura,3/14/2021,1164
+Yolo,3/14/2021,490
+Yuba,3/14/2021,66
+Alameda,3/13/2021,12046
+Amador,3/13/2021,63
+Butte,3/13/2021,146
+Calaveras,3/13/2021,85
+Colusa,3/13/2021,26
+Contra Costa,3/13/2021,6031
+Del Norte,3/13/2021,91
+El Dorado,3/13/2021,743
+Fresno,3/13/2021,5959
+Glenn,3/13/2021,10
+Humboldt,3/13/2021,771
+Imperial,3/13/2021,896
+Inyo,3/13/2021,502
+Kern,3/13/2021,3417
+Kings,3/13/2021,274
+Lake,3/13/2021,161
+Lassen,3/13/2021,12
+Los Angeles,3/13/2021,42561
+Madera,3/13/2021,731
+Marin,3/13/2021,2547
+Mariposa,3/13/2021,20
+Mendocino,3/13/2021,559
+Merced,3/13/2021,553
+Modoc,3/13/2021,4
+Mono,3/13/2021,6
+Monterey,3/13/2021,1940
+Napa,3/13/2021,414
+Nevada,3/13/2021,174
+Orange,3/13/2021,17988
+Outside California,3/13/2021,2987
+Placer,3/13/2021,1461
+Plumas,3/13/2021,20
+Riverside,3/13/2021,5496
+Sacramento,3/13/2021,6421
+San Benito,3/13/2021,138
+San Bernardino,3/13/2021,4399
+San Diego,3/13/2021,22583
+San Francisco,3/13/2021,5426
+San Joaquin,3/13/2021,2489
+San Luis Obispo,3/13/2021,542
+San Mateo,3/13/2021,5493
+Santa Barbara,3/13/2021,2236
+Santa Clara,3/13/2021,7817
+Santa Cruz,3/13/2021,1244
+Shasta,3/13/2021,170
+Sierra,3/13/2021,13
+Siskiyou,3/13/2021,327
+Solano,3/13/2021,1311
+Sonoma,3/13/2021,1972
+Stanislaus,3/13/2021,3213
+Sutter,3/13/2021,203
+Tehama,3/13/2021,19
+Trinity,3/13/2021,5
+Tulare,3/13/2021,2518
+Tuolumne,3/13/2021,58
+Unknown,3/13/2021,93
+Ventura,3/13/2021,2005
+Yolo,3/13/2021,868
+Yuba,3/13/2021,100
+Alameda,3/12/2021,16913
+Alpine,3/12/2021,20
+Amador,3/12/2021,252
+Butte,3/12/2021,933
+Calaveras,3/12/2021,325
+Colusa,3/12/2021,69
+Contra Costa,3/12/2021,10440
+Del Norte,3/12/2021,158
+El Dorado,3/12/2021,1069
+Fresno,3/12/2021,7391
+Glenn,3/12/2021,395
+Humboldt,3/12/2021,638
+Imperial,3/12/2021,967
+Inyo,3/12/2021,96
+Kern,3/12/2021,5345
+Kings,3/12/2021,826
+Lake,3/12/2021,236
+Lassen,3/12/2021,29
+Los Angeles,3/12/2021,57052
+Madera,3/12/2021,848
+Marin,3/12/2021,2451
+Mariposa,3/12/2021,62
+Mendocino,3/12/2021,799
+Merced,3/12/2021,1891
+Modoc,3/12/2021,7
+Mono,3/12/2021,7
+Monterey,3/12/2021,2604
+Napa,3/12/2021,858
+Nevada,3/12/2021,848
+Orange,3/12/2021,22445
+Outside California,3/12/2021,5211
+Oxford,3/12/2021,2
+Placer,3/12/2021,2298
+Plumas,3/12/2021,521
+Riverside,3/12/2021,14230
+Sacramento,3/12/2021,9977
+San Benito,3/12/2021,393
+San Bernardino,3/12/2021,8943
+San Diego,3/12/2021,23693
+San Francisco,3/12/2021,8772
+San Joaquin,3/12/2021,5010
+San Luis Obispo,3/12/2021,2551
+San Mateo,3/12/2021,6995
+Santa Barbara,3/12/2021,2729
+Santa Clara,3/12/2021,12886
+Santa Cruz,3/12/2021,2332
+Shasta,3/12/2021,477
+Sierra,3/12/2021,20
+Siskiyou,3/12/2021,410
+Skagit,3/12/2021,1
+Solano,3/12/2021,2616
+Sonoma,3/12/2021,4321
+Stanislaus,3/12/2021,5297
+Sutter,3/12/2021,334
+Tehama,3/12/2021,228
+Trinity,3/12/2021,319
+Tulare,3/12/2021,3052
+Tuolumne,3/12/2021,177
+Unknown,3/12/2021,120
+Ventura,3/12/2021,2245
+Yolo,3/12/2021,1255
+Yuba,3/12/2021,203
+Alameda,3/11/2021,16860
+Alpine,3/11/2021,35
+Amador,3/11/2021,152
+Butte,3/11/2021,1550
+Calaveras,3/11/2021,590
+Colusa,3/11/2021,255
+Contra Costa,3/11/2021,10467
+Del Norte,3/11/2021,119
+El Dorado,3/11/2021,1095
+Fresno,3/11/2021,8721
+Glenn,3/11/2021,482
+Humboldt,3/11/2021,623
+Imperial,3/11/2021,519
+Inyo,3/11/2021,178
+Kern,3/11/2021,4945
+Kings,3/11/2021,564
+Lake,3/11/2021,105
+Lassen,3/11/2021,143
+Los Angeles,3/11/2021,63798
+Madera,3/11/2021,803
+Marin,3/11/2021,2948
+Mariposa,3/11/2021,24
+Mendocino,3/11/2021,660
+Merced,3/11/2021,1504
+Modoc,3/11/2021,164
+Mono,3/11/2021,12
+Monterey,3/11/2021,2140
+Napa,3/11/2021,991
+Nevada,3/11/2021,827
+Orange,3/11/2021,24830
+Outside California,3/11/2021,5750
+Placer,3/11/2021,2176
+Plumas,3/11/2021,150
+Riverside,3/11/2021,11709
+Sacramento,3/11/2021,9262
+San Benito,3/11/2021,345
+San Bernardino,3/11/2021,7811
+San Diego,3/11/2021,27041
+San Francisco,3/11/2021,8417
+San Joaquin,3/11/2021,3573
+San Luis Obispo,3/11/2021,2554
+San Mateo,3/11/2021,6748
+Santa Barbara,3/11/2021,4046
+Santa Clara,3/11/2021,13538
+Santa Cruz,3/11/2021,2389
+Shasta,3/11/2021,755
+Sierra,3/11/2021,148
+Siskiyou,3/11/2021,332
+Solano,3/11/2021,2771
+Sonoma,3/11/2021,4626
+Stanislaus,3/11/2021,5370
+Sutter,3/11/2021,355
+Tehama,3/11/2021,420
+Trinity,3/11/2021,10
+Tulare,3/11/2021,2785
+Tuolumne,3/11/2021,1195
+Unknown,3/11/2021,158
+Ventura,3/11/2021,2494
+Yolo,3/11/2021,1271
+Yuba,3/11/2021,175
+Alameda,3/10/2021,15101
+Alpine,3/10/2021,72
+Amador,3/10/2021,135
+Butte,3/10/2021,1370
+Calaveras,3/10/2021,389
+Colusa,3/10/2021,192
+Contra Costa,3/10/2021,9820
+Cottonwood,3/10/2021,1
+Del Norte,3/10/2021,92
+El Dorado,3/10/2021,682
+Fresno,3/10/2021,4858
+Glenn,3/10/2021,99
+Humboldt,3/10/2021,573
+Imperial,3/10/2021,301
+Inyo,3/10/2021,48
+Kern,3/10/2021,5128
+Kings,3/10/2021,351
+Lake,3/10/2021,157
+Lassen,3/10/2021,150
+Los Angeles,3/10/2021,55307
+Madera,3/10/2021,797
+Marin,3/10/2021,2919
+Mariposa,3/10/2021,16
+Mendocino,3/10/2021,816
+Merced,3/10/2021,1783
+Modoc,3/10/2021,5
+Mono,3/10/2021,4
+Monterey,3/10/2021,1871
+Napa,3/10/2021,841
+Nevada,3/10/2021,651
+Orange,3/10/2021,17673
+Outside California,3/10/2021,4401
+Placer,3/10/2021,1991
+Plumas,3/10/2021,195
+Riverside,3/10/2021,9540
+Sacramento,3/10/2021,8342
+San Benito,3/10/2021,338
+San Bernardino,3/10/2021,8047
+San Diego,3/10/2021,24019
+San Francisco,3/10/2021,9003
+San Joaquin,3/10/2021,4256
+San Luis Obispo,3/10/2021,2509
+San Mateo,3/10/2021,4826
+Santa Barbara,3/10/2021,1195
+Santa Clara,3/10/2021,11110
+Santa Cruz,3/10/2021,2304
+Shasta,3/10/2021,531
+Sierra,3/10/2021,4
+Siskiyou,3/10/2021,145
+Solano,3/10/2021,1823
+Sonoma,3/10/2021,3934
+Stanislaus,3/10/2021,5115
+Sutter,3/10/2021,174
+Tarrant,3/10/2021,3
+Tehama,3/10/2021,301
+Trinity,3/10/2021,107
+Tulare,3/10/2021,2078
+Tuolumne,3/10/2021,76
+Unknown,3/10/2021,192
+Ventura,3/10/2021,1971
+Windham,3/10/2021,1
+Yolo,3/10/2021,952
+Yuba,3/10/2021,145
+Alameda,3/9/2021,10509
+Alpine,3/9/2021,1
+Amador,3/9/2021,92
+Butte,3/9/2021,1651
+Calaveras,3/9/2021,184
+Clallam,3/9/2021,1
+Colusa,3/9/2021,196
+Contra Costa,3/9/2021,7923
+Del Norte,3/9/2021,100
+El Dorado,3/9/2021,735
+Fresno,3/9/2021,5460
+Glenn,3/9/2021,55
+Humboldt,3/9/2021,399
+Imperial,3/9/2021,402
+Inyo,3/9/2021,176
+Kern,3/9/2021,3026
+Kings,3/9/2021,316
+Lake,3/9/2021,169
+Lassen,3/9/2021,110
+Los Angeles,3/9/2021,46127
+Madera,3/9/2021,366
+Marin,3/9/2021,1395
+Mariposa,3/9/2021,22
+Mendocino,3/9/2021,321
+Merced,3/9/2021,1166
+Modoc,3/9/2021,113
+Mono,3/9/2021,5
+Monterey,3/9/2021,1478
+Napa,3/9/2021,496
+Nevada,3/9/2021,434
+Orange,3/9/2021,17542
+Outside California,3/9/2021,3812
+Placer,3/9/2021,1798
+Plumas,3/9/2021,123
+Riverside,3/9/2021,8874
+Sacramento,3/9/2021,6748
+San Benito,3/9/2021,223
+San Bernardino,3/9/2021,7917
+San Diego,3/9/2021,24711
+San Francisco,3/9/2021,6374
+San Joaquin,3/9/2021,3672
+San Luis Obispo,3/9/2021,2671
+San Mateo,3/9/2021,4222
+Santa Barbara,3/9/2021,1249
+Santa Clara,3/9/2021,10359
+Santa Cruz,3/9/2021,1339
+Shasta,3/9/2021,448
+Sierra,3/9/2021,53
+Siskiyou,3/9/2021,70
+Snohomish,3/9/2021,1
+Solano,3/9/2021,1656
+Sonoma,3/9/2021,3838
+Stanislaus,3/9/2021,2365
+Sutter,3/9/2021,214
+Tehama,3/9/2021,266
+Trinity,3/9/2021,92
+Tulare,3/9/2021,1694
+Tuolumne,3/9/2021,857
+Unknown,3/9/2021,177
+Ventura,3/9/2021,2338
+Yolo,3/9/2021,749
+Yuba,3/9/2021,127
+Alameda,3/8/2021,10405
+Alpine,3/8/2021,27
+Amador,3/8/2021,128
+Butte,3/8/2021,1105
+Calaveras,3/8/2021,84
+Colusa,3/8/2021,77
+Contra Costa,3/8/2021,7056
+Del Norte,3/8/2021,23
+El Dorado,3/8/2021,1029
+Fresno,3/8/2021,3912
+Glenn,3/8/2021,19
+Humboldt,3/8/2021,161
+Imperial,3/8/2021,272
+Inyo,3/8/2021,109
+Kern,3/8/2021,2330
+Kings,3/8/2021,262
+Lake,3/8/2021,198
+Lassen,3/8/2021,85
+Los Angeles,3/8/2021,37363
+Madera,3/8/2021,484
+Marin,3/8/2021,1299
+Mariposa,3/8/2021,34
+Mendocino,3/8/2021,108
+Merced,3/8/2021,973
+Modoc,3/8/2021,5
+Mono,3/8/2021,9
+Monterey,3/8/2021,1216
+Napa,3/8/2021,595
+Nevada,3/8/2021,659
+Orange,3/8/2021,11031
+Outside California,3/8/2021,2749
+Placer,3/8/2021,2398
+Plumas,3/8/2021,31
+Riverside,3/8/2021,6060
+Sacramento,3/8/2021,7283
+San Benito,3/8/2021,246
+San Bernardino,3/8/2021,5884
+San Diego,3/8/2021,21985
+San Francisco,3/8/2021,6479
+San Joaquin,3/8/2021,2505
+San Luis Obispo,3/8/2021,2314
+San Mateo,3/8/2021,3733
+Santa Barbara,3/8/2021,960
+Santa Clara,3/8/2021,11611
+Santa Cruz,3/8/2021,843
+Shasta,3/8/2021,449
+Sierra,3/8/2021,3
+Siskiyou,3/8/2021,317
+Solano,3/8/2021,1249
+Sonoma,3/8/2021,3160
+Stanislaus,3/8/2021,1671
+Sutter,3/8/2021,137
+Tehama,3/8/2021,45
+Trinity,3/8/2021,3
+Tulare,3/8/2021,1106
+Tuolumne,3/8/2021,166
+Unknown,3/8/2021,142
+Ventura,3/8/2021,4844
+Yolo,3/8/2021,825
+Yuba,3/8/2021,106
+Alameda,3/7/2021,9084
+Amador,3/7/2021,62
+Butte,3/7/2021,57
+Calaveras,3/7/2021,62
+Colusa,3/7/2021,7
+Contra Costa,3/7/2021,3443
+Del Norte,3/7/2021,3
+El Dorado,3/7/2021,390
+Fresno,3/7/2021,1061
+Glenn,3/7/2021,1
+Humboldt,3/7/2021,343
+Imperial,3/7/2021,76
+Inyo,3/7/2021,6
+Kern,3/7/2021,1914
+Kings,3/7/2021,211
+Lake,3/7/2021,6
+Lassen,3/7/2021,55
+Los Angeles,3/7/2021,22741
+Madera,3/7/2021,127
+Marin,3/7/2021,1332
+Mariposa,3/7/2021,1
+Mendocino,3/7/2021,482
+Merced,3/7/2021,197
+Modoc,3/7/2021,6
+Mono,3/7/2021,1
+Monterey,3/7/2021,451
+Napa,3/7/2021,426
+Nevada,3/7/2021,187
+Orange,3/7/2021,13588
+Outside California,3/7/2021,2072
+Placer,3/7/2021,1203
+Plumas,3/7/2021,10
+Riverside,3/7/2021,3478
+Sacramento,3/7/2021,7208
+San Benito,3/7/2021,620
+San Bernardino,3/7/2021,1386
+San Diego,3/7/2021,17133
+San Francisco,3/7/2021,4902
+San Joaquin,3/7/2021,1117
+San Luis Obispo,3/7/2021,194
+San Mateo,3/7/2021,3351
+Santa Barbara,3/7/2021,494
+Santa Clara,3/7/2021,6124
+Santa Cruz,3/7/2021,1321
+Shasta,3/7/2021,76
+Siskiyou,3/7/2021,10
+Solano,3/7/2021,2640
+Sonoma,3/7/2021,1574
+Stanislaus,3/7/2021,804
+Sutter,3/7/2021,56
+Tehama,3/7/2021,5
+Trinity,3/7/2021,3
+Tulare,3/7/2021,1002
+Tuolumne,3/7/2021,29
+Unknown,3/7/2021,56
+Ventura,3/7/2021,1483
+Yolo,3/7/2021,445
+Yuba,3/7/2021,45
+Alameda,3/6/2021,11491
+Amador,3/6/2021,72
+Butte,3/6/2021,141
+Calaveras,3/6/2021,81
+Colusa,3/6/2021,235
+Contra Costa,3/6/2021,6350
+Del Norte,3/6/2021,425
+El Dorado,3/6/2021,521
+Fresno,3/6/2021,5438
+Glenn,3/6/2021,24
+Humboldt,3/6/2021,1174
+Imperial,3/6/2021,642
+Inyo,3/6/2021,29
+Kern,3/6/2021,3801
+Kings,3/6/2021,442
+Lake,3/6/2021,28
+Lassen,3/6/2021,45
+Los Angeles,3/6/2021,52638
+Madera,3/6/2021,618
+Marin,3/6/2021,2242
+Mariposa,3/6/2021,5
+Mendocino,3/6/2021,224
+Merced,3/6/2021,820
+Modoc,3/6/2021,8
+Mono,3/6/2021,319
+Monterey,3/6/2021,2479
+Napa,3/6/2021,497
+Nevada,3/6/2021,293
+Orange,3/6/2021,16025
+Outside California,3/6/2021,4749
+Placer,3/6/2021,2063
+Plumas,3/6/2021,10
+Riverside,3/6/2021,6711
+Sacramento,3/6/2021,5390
+San Benito,3/6/2021,147
+San Bernardino,3/6/2021,7100
+San Diego,3/6/2021,22241
+San Francisco,3/6/2021,5909
+San Joaquin,3/6/2021,2772
+San Luis Obispo,3/6/2021,666
+San Mateo,3/6/2021,7142
+Santa Barbara,3/6/2021,1870
+Santa Clara,3/6/2021,8089
+Santa Cruz,3/6/2021,3539
+Shasta,3/6/2021,713
+Siskiyou,3/6/2021,22
+Solano,3/6/2021,3330
+Sonoma,3/6/2021,2340
+Stanislaus,3/6/2021,3307
+Sutter,3/6/2021,535
+Tehama,3/6/2021,269
+Trinity,3/6/2021,181
+Tulare,3/6/2021,2244
+Tuolumne,3/6/2021,1024
+Unknown,3/6/2021,120
+Ventura,3/6/2021,4802
+Yolo,3/6/2021,532
+Yuba,3/6/2021,260
+Alameda,3/5/2021,13464
+Alpine,3/5/2021,29
+Amador,3/5/2021,476
+Butte,3/5/2021,1253
+Calaveras,3/5/2021,442
+Colusa,3/5/2021,84
+Contra Costa,3/5/2021,9494
+Del Norte,3/5/2021,68
+El Dorado,3/5/2021,1090
+Fresno,3/5/2021,6650
+Glenn,3/5/2021,329
+Humboldt,3/5/2021,857
+Imperial,3/5/2021,2539
+Inyo,3/5/2021,149
+Kern,3/5/2021,5680
+Kings,3/5/2021,845
+Lake,3/5/2021,790
+Lassen,3/5/2021,44
+Los Angeles,3/5/2021,72948
+Madera,3/5/2021,1093
+Marin,3/5/2021,2478
+Mariposa,3/5/2021,32
+Mendocino,3/5/2021,165
+Merced,3/5/2021,1925
+Modoc,3/5/2021,3
+Mono,3/5/2021,30
+Monterey,3/5/2021,2677
+Morgan,3/5/2021,1
+Napa,3/5/2021,1583
+Nevada,3/5/2021,680
+Orange,3/5/2021,16723
+Outside California,3/5/2021,5562
+Placer,3/5/2021,2482
+Plumas,3/5/2021,370
+Riverside,3/5/2021,13804
+Sacramento,3/5/2021,7722
+San Benito,3/5/2021,404
+San Bernardino,3/5/2021,11219
+San Diego,3/5/2021,27800
+San Francisco,3/5/2021,7569
+San Joaquin,3/5/2021,3989
+San Luis Obispo,3/5/2021,2067
+San Mateo,3/5/2021,7934
+Santa Barbara,3/5/2021,3684
+Santa Clara,3/5/2021,12995
+Santa Cruz,3/5/2021,2223
+Shasta,3/5/2021,899
+Sierra,3/5/2021,12
+Siskiyou,3/5/2021,193
+Solano,3/5/2021,3421
+Sonoma,3/5/2021,4946
+Stanislaus,3/5/2021,3785
+Sutter,3/5/2021,255
+Tehama,3/5/2021,340
+Trinity,3/5/2021,282
+Tulare,3/5/2021,2890
+Tuolumne,3/5/2021,74
+Unknown,3/5/2021,184
+Ventura,3/5/2021,8848
+Yolo,3/5/2021,1278
+Yuba,3/5/2021,260
+Alameda,3/4/2021,14930
+Alpine,3/4/2021,11
+Amador,3/4/2021,466
+Butte,3/4/2021,2609
+Calaveras,3/4/2021,529
+Colusa,3/4/2021,109
+Contra Costa,3/4/2021,10433
+Del Norte,3/4/2021,120
+El Dorado,3/4/2021,2100
+Fresno,3/4/2021,7384
+Glenn,3/4/2021,382
+Hamilton,3/4/2021,1
+Humboldt,3/4/2021,827
+Imperial,3/4/2021,683
+Inyo,3/4/2021,120
+Kern,3/4/2021,4620
+Kings,3/4/2021,546
+La Paz,3/4/2021,2
+Lake,3/4/2021,505
+Lassen,3/4/2021,139
+Los Angeles,3/4/2021,79018
+Madera,3/4/2021,1080
+Marin,3/4/2021,2681
+Mariposa,3/4/2021,16
+Mendocino,3/4/2021,1071
+Merced,3/4/2021,2668
+Modoc,3/4/2021,155
+Mono,3/4/2021,7
+Monterey,3/4/2021,4040
+Napa,3/4/2021,1274
+Nevada,3/4/2021,975
+Orange,3/4/2021,18638
+Outside California,3/4/2021,7248
+Placer,3/4/2021,3031
+Plumas,3/4/2021,211
+Riverside,3/4/2021,14437
+Sacramento,3/4/2021,9334
+San Benito,3/4/2021,286
+San Bernardino,3/4/2021,10634
+San Diego,3/4/2021,27329
+San Francisco,3/4/2021,7521
+San Joaquin,3/4/2021,4594
+San Luis Obispo,3/4/2021,1940
+San Mateo,3/4/2021,7170
+Santa Barbara,3/4/2021,3092
+Santa Clara,3/4/2021,12911
+Santa Cruz,3/4/2021,2508
+Shasta,3/4/2021,992
+Sierra,3/4/2021,100
+Siskiyou,3/4/2021,659
+Solano,3/4/2021,2554
+Sonoma,3/4/2021,4754
+Stanislaus,3/4/2021,5193
+Sutter,3/4/2021,1154
+Tehama,3/4/2021,511
+Trinity,3/4/2021,15
+Tulare,3/4/2021,2608
+Tuolumne,3/4/2021,1132
+Unknown,3/4/2021,58
+Ventura,3/4/2021,7718
+Walla Walla,3/4/2021,1
+Yolo,3/4/2021,1588
+Yuba,3/4/2021,444
+Alameda,3/3/2021,13687
+Alpine,3/3/2021,30
+Amador,3/3/2021,211
+Bennington,3/3/2021,1
+Butte,3/3/2021,2318
+Calaveras,3/3/2021,477
+Clallam,3/3/2021,1
+Colusa,3/3/2021,211
+Contra Costa,3/3/2021,9786
+Del Norte,3/3/2021,150
+El Dorado,3/3/2021,1301
+Fresno,3/3/2021,5209
+Glenn,3/3/2021,169
+Humboldt,3/3/2021,1429
+Imperial,3/3/2021,847
+Inyo,3/3/2021,82
+Jackson,3/3/2021,1
+Kern,3/3/2021,5395
+Kings,3/3/2021,526
+Lake,3/3/2021,324
+Lassen,3/3/2021,156
+Los Angeles,3/3/2021,75890
+Madera,3/3/2021,1144
+Marin,3/3/2021,3872
+Mariposa,3/3/2021,7
+Mendocino,3/3/2021,1542
+Merced,3/3/2021,2010
+Modoc,3/3/2021,10
+Mono,3/3/2021,82
+Monterey,3/3/2021,2686
+Napa,3/3/2021,1210
+Nevada,3/3/2021,879
+Orange,3/3/2021,18170
+Outside California,3/3/2021,8842
+Placer,3/3/2021,2793
+Plumas,3/3/2021,138
+Riverside,3/3/2021,15625
+Sacramento,3/3/2021,9027
+San Benito,3/3/2021,354
+San Bernardino,3/3/2021,11652
+San Diego,3/3/2021,32270
+San Francisco,3/3/2021,9975
+San Joaquin,3/3/2021,5165
+San Luis Obispo,3/3/2021,2059
+San Mateo,3/3/2021,7449
+Santa Barbara,3/3/2021,4406
+Santa Clara,3/3/2021,16052
+Santa Cruz,3/3/2021,2155
+Shasta,3/3/2021,531
+Sierra,3/3/2021,2
+Siskiyou,3/3/2021,328
+Solano,3/3/2021,1653
+Sonoma,3/3/2021,4065
+Stanislaus,3/3/2021,3408
+Sutter,3/3/2021,1329
+Tehama,3/3/2021,82
+Trinity,3/3/2021,5
+Tulare,3/3/2021,3186
+Tuolumne,3/3/2021,77
+Unknown,3/3/2021,23
+Ventura,3/3/2021,8043
+Yolo,3/3/2021,1681
+Yuba,3/3/2021,594
+Alameda,3/2/2021,12723
+Alpine,3/2/2021,1
+Amador,3/2/2021,370
+Butte,3/2/2021,1362
+Calaveras,3/2/2021,232
+Carson City,3/2/2021,1
+Colusa,3/2/2021,45
+Contra Costa,3/2/2021,8793
+Del Norte,3/2/2021,210
+El Dorado,3/2/2021,804
+Fresno,3/2/2021,7427
+Glenn,3/2/2021,31
+Hawaii,3/2/2021,1
+Humboldt,3/2/2021,232
+Imperial,3/2/2021,674
+Inyo,3/2/2021,176
+Kern,3/2/2021,3752
+Kings,3/2/2021,425
+Lake,3/2/2021,710
+Lassen,3/2/2021,100
+Los Angeles,3/2/2021,66355
+Madera,3/2/2021,591
+Marin,3/2/2021,2267
+Mariposa,3/2/2021,6
+Mendocino,3/2/2021,62
+Merced,3/2/2021,1544
+Modoc,3/2/2021,187
+Mono,3/2/2021,6
+Monterey,3/2/2021,2547
+Napa,3/2/2021,1274
+Nevada,3/2/2021,648
+Orange,3/2/2021,13403
+Outside California,3/2/2021,7158
+Placer,3/2/2021,2703
+Plumas,3/2/2021,8
+Riverside,3/2/2021,13465
+Sacramento,3/2/2021,8053
+San Benito,3/2/2021,237
+San Bernardino,3/2/2021,12717
+San Diego,3/2/2021,24959
+San Francisco,3/2/2021,8225
+San Joaquin,3/2/2021,3807
+San Luis Obispo,3/2/2021,2721
+San Mateo,3/2/2021,5141
+Santa Barbara,3/2/2021,2363
+Santa Clara,3/2/2021,12075
+Santa Cruz,3/2/2021,1427
+Shasta,3/2/2021,473
+Sierra,3/2/2021,50
+Siskiyou,3/2/2021,175
+Solano,3/2/2021,1563
+Sonoma,3/2/2021,3979
+Stanislaus,3/2/2021,2236
+Sutter,3/2/2021,312
+Tehama,3/2/2021,70
+Trinity,3/2/2021,6
+Tulare,3/2/2021,2260
+Tuolumne,3/2/2021,700
+Unknown,3/2/2021,20
+Ventura,3/2/2021,7166
+Yolo,3/2/2021,1338
+Yuba,3/2/2021,145
+Alameda,3/1/2021,12510
+Alpine,3/1/2021,33
+Amador,3/1/2021,183
+Butte,3/1/2021,1131
+Calaveras,3/1/2021,184
+Colusa,3/1/2021,43
+Contra Costa,3/1/2021,7389
+Del Norte,3/1/2021,26
+El Dorado,3/1/2021,1006
+Fresno,3/1/2021,4459
+Glenn,3/1/2021,27
+Humboldt,3/1/2021,233
+Imperial,3/1/2021,510
+Inyo,3/1/2021,23
+Kern,3/1/2021,3576
+Kings,3/1/2021,241
+Lake,3/1/2021,570
+Lassen,3/1/2021,36
+Linn,3/1/2021,1
+Los Angeles,3/1/2021,51894
+Madera,3/1/2021,355
+Marin,3/1/2021,2246
+Mariposa,3/1/2021,56
+Mendocino,3/1/2021,562
+Merced,3/1/2021,1112
+Modoc,3/1/2021,4
+Monterey,3/1/2021,1225
+Napa,3/1/2021,1029
+Nevada,3/1/2021,768
+Orange,3/1/2021,17406
+Outside California,3/1/2021,5535
+Placer,3/1/2021,2805
+Plumas,3/1/2021,10
+Riverside,3/1/2021,13108
+Sacramento,3/1/2021,7098
+San Benito,3/1/2021,214
+San Bernardino,3/1/2021,7190
+San Diego,3/1/2021,22956
+San Francisco,3/1/2021,9555
+San Joaquin,3/1/2021,3924
+San Luis Obispo,3/1/2021,2868
+San Mateo,3/1/2021,5264
+Santa Barbara,3/1/2021,1486
+Santa Clara,3/1/2021,12982
+Santa Cruz,3/1/2021,1773
+Shasta,3/1/2021,549
+Sierra,3/1/2021,2
+Siskiyou,3/1/2021,270
+Solano,3/1/2021,1423
+Sonoma,3/1/2021,3390
+Stanislaus,3/1/2021,2917
+Sutter,3/1/2021,232
+Tehama,3/1/2021,61
+Trinity,3/1/2021,7
+Tulare,3/1/2021,1527
+Tuolumne,3/1/2021,101
+Unknown,3/1/2021,48
+Ventura,3/1/2021,6718
+Yolo,3/1/2021,983
+Yuba,3/1/2021,148
+Alameda,2/28/2021,8905
+Amador,2/28/2021,94
+Butte,2/28/2021,114
+Calaveras,2/28/2021,87
+Colusa,2/28/2021,24
+Contra Costa,2/28/2021,3640
+Del Norte,2/28/2021,6
+El Dorado,2/28/2021,506
+Fresno,2/28/2021,1490
+Glenn,2/28/2021,5
+Humboldt,2/28/2021,106
+Imperial,2/28/2021,83
+Inyo,2/28/2021,2
+Kern,2/28/2021,843
+Kings,2/28/2021,993
+Lake,2/28/2021,17
+Lassen,2/28/2021,5
+Los Angeles,2/28/2021,25383
+Madera,2/28/2021,179
+Marin,2/28/2021,1316
+Mariposa,2/28/2021,2
+Mendocino,2/28/2021,35
+Merced,2/28/2021,278
+Mono,2/28/2021,1
+Monterey,2/28/2021,1464
+Napa,2/28/2021,541
+Nevada,2/28/2021,233
+Orange,2/28/2021,18309
+Outside California,2/28/2021,3548
+Placer,2/28/2021,1348
+Riverside,2/28/2021,4407
+Sacramento,2/28/2021,5035
+San Benito,2/28/2021,191
+San Bernardino,2/28/2021,1611
+San Diego,2/28/2021,13524
+San Francisco,2/28/2021,7441
+San Joaquin,2/28/2021,2908
+San Luis Obispo,2/28/2021,175
+San Mateo,2/28/2021,3976
+Santa Barbara,2/28/2021,998
+Santa Clara,2/28/2021,4556
+Santa Cruz,2/28/2021,1273
+Shasta,2/28/2021,167
+Siskiyou,2/28/2021,3
+Solano,2/28/2021,1274
+Sonoma,2/28/2021,2144
+Stanislaus,2/28/2021,731
+Sutter,2/28/2021,75
+Tehama,2/28/2021,22
+Trinity,2/28/2021,1
+Tulare,2/28/2021,1221
+Tuolumne,2/28/2021,44
+Unknown,2/28/2021,24
+Ventura,2/28/2021,2474
+Yolo,2/28/2021,1634
+Yuba,2/28/2021,61
+Alameda,2/27/2021,14406
+Amador,2/27/2021,284
+Butte,2/27/2021,227
+Calaveras,2/27/2021,203
+Colusa,2/27/2021,54
+Contra Costa,2/27/2021,6375
+Del Norte,2/27/2021,152
+El Dorado,2/27/2021,1562
+Fresno,2/27/2021,6052
+Glenn,2/27/2021,14
+Humboldt,2/27/2021,877
+Imperial,2/27/2021,931
+Inyo,2/27/2021,13
+Kern,2/27/2021,3528
+Kings,2/27/2021,1232
+Lake,2/27/2021,57
+Lassen,2/27/2021,8
+Los Angeles,2/27/2021,57366
+Madera,2/27/2021,844
+Marin,2/27/2021,2543
+Mariposa,2/27/2021,153
+Mendocino,2/27/2021,187
+Merced,2/27/2021,1907
+Modoc,2/27/2021,5
+Mono,2/27/2021,136
+Monterey,2/27/2021,964
+Napa,2/27/2021,1018
+Nevada,2/27/2021,330
+Orange,2/27/2021,24414
+Outside California,2/27/2021,5666
+Placer,2/27/2021,2675
+Plumas,2/27/2021,42
+Riverside,2/27/2021,10934
+Sacramento,2/27/2021,9353
+San Benito,2/27/2021,96
+San Bernardino,2/27/2021,6412
+San Diego,2/27/2021,20445
+San Francisco,2/27/2021,8649
+San Joaquin,2/27/2021,5256
+San Luis Obispo,2/27/2021,565
+San Mateo,2/27/2021,6460
+Santa Barbara,2/27/2021,1464
+Santa Clara,2/27/2021,7897
+Santa Cruz,2/27/2021,2613
+Shasta,2/27/2021,806
+Sierra,2/27/2021,2
+Siskiyou,2/27/2021,30
+Solano,2/27/2021,3420
+Sonoma,2/27/2021,3887
+Stanislaus,2/27/2021,1963
+Sutter,2/27/2021,802
+Tehama,2/27/2021,296
+Trinity,2/27/2021,4
+Tulare,2/27/2021,2670
+Tuolumne,2/27/2021,943
+Unknown,2/27/2021,30
+Ventura,2/27/2021,9805
+Yolo,2/27/2021,1583
+Yuba,2/27/2021,449
+Alameda,2/26/2021,16828
+Alpine,2/26/2021,29
+Amador,2/26/2021,591
+Butte,2/26/2021,854
+Calaveras,2/26/2021,637
+Colusa,2/26/2021,95
+Contra Costa,2/26/2021,9423
+Del Norte,2/26/2021,99
+El Dorado,2/26/2021,2009
+Fresno,2/26/2021,7249
+Glenn,2/26/2021,303
+Humboldt,2/26/2021,2071
+Imperial,2/26/2021,1637
+Inyo,2/26/2021,103
+Kern,2/26/2021,6090
+Kings,2/26/2021,600
+Lake,2/26/2021,974
+Lassen,2/26/2021,64
+Los Angeles,2/26/2021,78742
+Madera,2/26/2021,1017
+Marin,2/26/2021,3307
+Mariposa,2/26/2021,411
+Mendocino,2/26/2021,1337
+Merced,2/26/2021,2049
+Modoc,2/26/2021,3
+Mono,2/26/2021,576
+Monterey,2/26/2021,4953
+Napa,2/26/2021,1396
+Nevada,2/26/2021,1180
+Orange,2/26/2021,26051
+Outside California,2/26/2021,7107
+Placer,2/26/2021,3825
+Plumas,2/26/2021,255
+Riverside,2/26/2021,17000
+Sacramento,2/26/2021,12224
+San Benito,2/26/2021,604
+San Bernardino,2/26/2021,12297
+San Diego,2/26/2021,32428
+San Francisco,2/26/2021,11177
+San Joaquin,2/26/2021,5185
+San Luis Obispo,2/26/2021,2577
+San Mateo,2/26/2021,8878
+Santa Barbara,2/26/2021,3272
+Santa Clara,2/26/2021,11942
+Santa Cruz,2/26/2021,2621
+Shasta,2/26/2021,748
+Sierra,2/26/2021,9
+Siskiyou,2/26/2021,660
+Solano,2/26/2021,2245
+Sonoma,2/26/2021,5731
+Stanislaus,2/26/2021,3945
+Sutter,2/26/2021,347
+Tehama,2/26/2021,448
+Trinity,2/26/2021,10
+Tulare,2/26/2021,3319
+Tuolumne,2/26/2021,135
+Unknown,2/26/2021,35
+Ventura,2/26/2021,8935
+Yolo,2/26/2021,2072
+Yuba,2/26/2021,234
+Alameda,2/25/2021,14842
+Alpine,2/25/2021,7
+Amador,2/25/2021,501
+Butte,2/25/2021,1998
+Calaveras,2/25/2021,469
+Colusa,2/25/2021,95
+Contra Costa,2/25/2021,10521
+Del Norte,2/25/2021,300
+El Dorado,2/25/2021,1416
+Fresno,2/25/2021,6942
+Glenn,2/25/2021,255
+Humboldt,2/25/2021,808
+Imperial,2/25/2021,807
+Inyo,2/25/2021,125
+Kern,2/25/2021,4969
+Kings,2/25/2021,639
+Lake,2/25/2021,671
+Lassen,2/25/2021,146
+Lewis,2/25/2021,1
+Los Angeles,2/25/2021,69508
+Madera,2/25/2021,991
+Marin,2/25/2021,3705
+Mariposa,2/25/2021,4
+Meeker,2/25/2021,1
+Mendocino,2/25/2021,1172
+Merced,2/25/2021,1630
+Modoc,2/25/2021,169
+Mono,2/25/2021,5
+Monterey,2/25/2021,4171
+Napa,2/25/2021,2340
+Nevada,2/25/2021,826
+Orange,2/25/2021,21721
+Outside California,2/25/2021,7909
+Placer,2/25/2021,3138
+Plumas,2/25/2021,221
+Riverside,2/25/2021,16028
+Sacramento,2/25/2021,9063
+San Benito,2/25/2021,383
+San Bernardino,2/25/2021,11858
+San Diego,2/25/2021,31550
+San Francisco,2/25/2021,9447
+San Joaquin,2/25/2021,6027
+San Luis Obispo,2/25/2021,2025
+San Mateo,2/25/2021,8615
+Santa Barbara,2/25/2021,3374
+Santa Clara,2/25/2021,13124
+Santa Cruz,2/25/2021,3098
+Shasta,2/25/2021,458
+Sierra,2/25/2021,127
+Siskiyou,2/25/2021,294
+Solano,2/25/2021,2099
+Sonoma,2/25/2021,5351
+Stanislaus,2/25/2021,3727
+Sutter,2/25/2021,764
+Tehama,2/25/2021,373
+Trinity,2/25/2021,36
+Tulare,2/25/2021,3190
+Tuolumne,2/25/2021,1034
+Unknown,2/25/2021,85
+Ventura,2/25/2021,7262
+Yolo,2/25/2021,1287
+Yuba,2/25/2021,316
+Alameda,2/24/2021,13847
+Amador,2/24/2021,387
+Butte,2/24/2021,2057
+Calaveras,2/24/2021,90
+Colusa,2/24/2021,298
+Contra Costa,2/24/2021,9390
+Del Norte,2/24/2021,149
+El Dorado,2/24/2021,865
+Fresno,2/24/2021,3800
+Glenn,2/24/2021,219
+Humboldt,2/24/2021,1140
+Imperial,2/24/2021,668
+Inyo,2/24/2021,117
+Kern,2/24/2021,4968
+Kings,2/24/2021,570
+Lake,2/24/2021,713
+Lassen,2/24/2021,163
+Los Angeles,2/24/2021,60458
+Madera,2/24/2021,886
+Marin,2/24/2021,3304
+Mariposa,2/24/2021,12
+Mendocino,2/24/2021,1781
+Merced,2/24/2021,788
+Modoc,2/24/2021,89
+Mono,2/24/2021,6
+Monterey,2/24/2021,2339
+Napa,2/24/2021,1059
+Nevada,2/24/2021,460
+Orange,2/24/2021,20074
+Outside California,2/24/2021,7487
+Placer,2/24/2021,3093
+Plumas,2/24/2021,449
+Riverside,2/24/2021,13988
+Sacramento,2/24/2021,8712
+San Benito,2/24/2021,355
+San Bernardino,2/24/2021,11081
+San Diego,2/24/2021,27172
+San Francisco,2/24/2021,8684
+San Joaquin,2/24/2021,5474
+San Luis Obispo,2/24/2021,2625
+San Mateo,2/24/2021,7012
+Santa Barbara,2/24/2021,3050
+Santa Clara,2/24/2021,12511
+Santa Cruz,2/24/2021,3099
+Shasta,2/24/2021,503
+Sierra,2/24/2021,2
+Siskiyou,2/24/2021,145
+Solano,2/24/2021,2073
+Sonoma,2/24/2021,5029
+Stanislaus,2/24/2021,3861
+Sutter,2/24/2021,951
+Tehama,2/24/2021,294
+Trinity,2/24/2021,16
+Tulare,2/24/2021,2293
+Tuolumne,2/24/2021,81
+Unknown,2/24/2021,52
+Ventura,2/24/2021,4734
+Yolo,2/24/2021,1878
+Yuba,2/24/2021,467
+Alameda,2/23/2021,12284
+Amador,2/23/2021,309
+Butte,2/23/2021,1553
+Calaveras,2/23/2021,145
+Colusa,2/23/2021,18
+Contra Costa,2/23/2021,10917
+Del Norte,2/23/2021,101
+El Dorado,2/23/2021,718
+Fresno,2/23/2021,3577
+Glenn,2/23/2021,38
+Humboldt,2/23/2021,134
+Imperial,2/23/2021,883
+Inyo,2/23/2021,193
+Kern,2/23/2021,3011
+Kings,2/23/2021,274
+Lake,2/23/2021,162
+Lassen,2/23/2021,151
+Los Angeles,2/23/2021,51509
+Madera,2/23/2021,716
+Marin,2/23/2021,2731
+Mariposa,2/23/2021,4
+Mendocino,2/23/2021,645
+Merced,2/23/2021,1057
+Modoc,2/23/2021,23
+Mono,2/23/2021,133
+Monterey,2/23/2021,933
+Napa,2/23/2021,1008
+Nevada,2/23/2021,432
+Orange,2/23/2021,12753
+Outside California,2/23/2021,7009
+Placer,2/23/2021,2356
+Plumas,2/23/2021,21
+Riverside,2/23/2021,10727
+Sacramento,2/23/2021,6645
+San Benito,2/23/2021,345
+San Bernardino,2/23/2021,8373
+San Diego,2/23/2021,23841
+San Francisco,2/23/2021,5279
+San Joaquin,2/23/2021,3976
+San Luis Obispo,2/23/2021,1846
+San Mateo,2/23/2021,4047
+Santa Barbara,2/23/2021,3136
+Santa Clara,2/23/2021,10933
+Santa Cruz,2/23/2021,2085
+Shasta,2/23/2021,398
+Sierra,2/23/2021,4
+Siskiyou,2/23/2021,191
+Solano,2/23/2021,1788
+Sonoma,2/23/2021,2871
+Stanislaus,2/23/2021,3574
+Sutter,2/23/2021,217
+Tehama,2/23/2021,43
+Trinity,2/23/2021,5
+Tulare,2/23/2021,1620
+Tuolumne,2/23/2021,38
+Unknown,2/23/2021,86
+Ventura,2/23/2021,5813
+Yolo,2/23/2021,1101
+Yuba,2/23/2021,110
+Alameda,2/22/2021,10240
+Alpine,2/22/2021,27
+Amador,2/22/2021,63
+Butte,2/22/2021,1431
+Calaveras,2/22/2021,64
+Colusa,2/22/2021,41
+Contra Costa,2/22/2021,7061
+Del Norte,2/22/2021,2
+El Dorado,2/22/2021,822
+Fresno,2/22/2021,2138
+Glenn,2/22/2021,31
+Humboldt,2/22/2021,95
+Imperial,2/22/2021,765
+Inyo,2/22/2021,60
+Kern,2/22/2021,2586
+Kings,2/22/2021,100
+Lake,2/22/2021,92
+Lassen,2/22/2021,23
+Los Angeles,2/22/2021,32816
+Madera,2/22/2021,903
+Marin,2/22/2021,1671
+Mariposa,2/22/2021,15
+Mendocino,2/22/2021,159
+Merced,2/22/2021,817
+Modoc,2/22/2021,16
+Mono,2/22/2021,284
+Monterey,2/22/2021,902
+Napa,2/22/2021,413
+Nevada,2/22/2021,483
+Orange,2/22/2021,9113
+Outside California,2/22/2021,4388
+Placer,2/22/2021,2400
+Plumas,2/22/2021,5
+Riverside,2/22/2021,12010
+Sacramento,2/22/2021,5882
+San Benito,2/22/2021,104
+San Bernardino,2/22/2021,8273
+San Diego,2/22/2021,11075
+San Francisco,2/22/2021,4887
+San Joaquin,2/22/2021,3351
+San Luis Obispo,2/22/2021,2398
+San Mateo,2/22/2021,4172
+Santa Barbara,2/22/2021,887
+Santa Clara,2/22/2021,9409
+Santa Cruz,2/22/2021,1220
+Shasta,2/22/2021,335
+Sierra,2/22/2021,2
+Siskiyou,2/22/2021,124
+Solano,2/22/2021,1457
+Sonoma,2/22/2021,2560
+Stanislaus,2/22/2021,2180
+Sutter,2/22/2021,197
+Tehama,2/22/2021,39
+Trinity,2/22/2021,3
+Tulare,2/22/2021,1035
+Tuolumne,2/22/2021,72
+Unknown,2/22/2021,16
+Ventura,2/22/2021,5282
+Yolo,2/22/2021,1335
+Yuba,2/22/2021,112
+Alameda,2/21/2021,5860
+Amador,2/21/2021,40
+Butte,2/21/2021,14
+Calaveras,2/21/2021,20
+Colusa,2/21/2021,1
+Contra Costa,2/21/2021,1649
+El Dorado,2/21/2021,230
+Fresno,2/21/2021,167
+Humboldt,2/21/2021,474
+Imperial,2/21/2021,539
+Inyo,2/21/2021,267
+Kern,2/21/2021,201
+Kings,2/21/2021,1
+Lake,2/21/2021,5
+Lassen,2/21/2021,18
+Los Angeles,2/21/2021,13880
+Madera,2/21/2021,941
+Marin,2/21/2021,940
+Mariposa,2/21/2021,232
+Mendocino,2/21/2021,18
+Merced,2/21/2021,68
+Mono,2/21/2021,3
+Monterey,2/21/2021,1190
+Napa,2/21/2021,722
+Nevada,2/21/2021,72
+Orange,2/21/2021,3785
+Outside California,2/21/2021,2324
+Placer,2/21/2021,851
+Plumas,2/21/2021,6
+Riverside,2/21/2021,3189
+Sacramento,2/21/2021,2257
+San Benito,2/21/2021,23
+San Bernardino,2/21/2021,778
+San Diego,2/21/2021,9454
+San Francisco,2/21/2021,2175
+San Joaquin,2/21/2021,555
+San Luis Obispo,2/21/2021,32
+San Mateo,2/21/2021,2081
+Santa Barbara,2/21/2021,76
+Santa Clara,2/21/2021,3050
+Santa Cruz,2/21/2021,753
+Shasta,2/21/2021,32
+Siskiyou,2/21/2021,2
+Solano,2/21/2021,1906
+Sonoma,2/21/2021,335
+Stanislaus,2/21/2021,711
+Sutter,2/21/2021,26
+Trinity,2/21/2021,1
+Tulare,2/21/2021,40
+Tuolumne,2/21/2021,974
+Unknown,2/21/2021,13
+Ventura,2/21/2021,926
+Yolo,2/21/2021,196
+Yuba,2/21/2021,14
+Alameda,2/20/2021,11453
+Amador,2/20/2021,83
+Butte,2/20/2021,458
+Calaveras,2/20/2021,55
+Colusa,2/20/2021,25
+Contra Costa,2/20/2021,6154
+Del Norte,2/20/2021,7
+El Dorado,2/20/2021,882
+Fresno,2/20/2021,4110
+Glenn,2/20/2021,8
+Humboldt,2/20/2021,1021
+Imperial,2/20/2021,1037
+Inyo,2/20/2021,501
+Kern,2/20/2021,2310
+Kings,2/20/2021,153
+Lake,2/20/2021,57
+Lassen,2/20/2021,7
+Los Angeles,2/20/2021,28433
+Madera,2/20/2021,1001
+Marin,2/20/2021,2385
+Mariposa,2/20/2021,248
+Mendocino,2/20/2021,563
+Merced,2/20/2021,253
+Modoc,2/20/2021,1
+Mono,2/20/2021,4
+Monterey,2/20/2021,954
+Napa,2/20/2021,785
+Nevada,2/20/2021,270
+Orange,2/20/2021,6678
+Outside California,2/20/2021,3585
+Placer,2/20/2021,1878
+Plumas,2/20/2021,101
+Riverside,2/20/2021,7278
+Sacramento,2/20/2021,6967
+San Benito,2/20/2021,41
+San Bernardino,2/20/2021,3970
+San Diego,2/20/2021,9676
+San Francisco,2/20/2021,4220
+San Joaquin,2/20/2021,1447
+San Luis Obispo,2/20/2021,224
+San Mateo,2/20/2021,3572
+Santa Barbara,2/20/2021,2151
+Santa Clara,2/20/2021,6583
+Santa Cruz,2/20/2021,2247
+Shasta,2/20/2021,742
+Sierra,2/20/2021,2
+Siskiyou,2/20/2021,21
+Solano,2/20/2021,2352
+Sonoma,2/20/2021,2968
+Stanislaus,2/20/2021,720
+Sutter,2/20/2021,576
+Tehama,2/20/2021,273
+Trinity,2/20/2021,138
+Tulare,2/20/2021,2817
+Tuolumne,2/20/2021,899
+Unknown,2/20/2021,11
+Ventura,2/20/2021,4632
+Yolo,2/20/2021,2440
+Yuba,2/20/2021,357
+Alameda,2/19/2021,16299
+Alpine,2/19/2021,34
+Amador,2/19/2021,181
+Butte,2/19/2021,1163
+Calaveras,2/19/2021,438
+Colusa,2/19/2021,152
+Contra Costa,2/19/2021,10769
+Del Norte,2/19/2021,44
+El Dorado,2/19/2021,1055
+Fresno,2/19/2021,3705
+Glenn,2/19/2021,301
+Humboldt,2/19/2021,471
+Imperial,2/19/2021,770
+Inyo,2/19/2021,48
+Kenai Peninsula Borough,2/19/2021,1
+Kern,2/19/2021,4037
+Kings,2/19/2021,151
+Lake,2/19/2021,360
+Lassen,2/19/2021,82
+Los Angeles,2/19/2021,54079
+Madera,2/19/2021,831
+Marin,2/19/2021,2508
+Mariposa,2/19/2021,74
+Mendocino,2/19/2021,698
+Merced,2/19/2021,1194
+Mono,2/19/2021,51
+Monterey,2/19/2021,2853
+Napa,2/19/2021,1206
+Nevada,2/19/2021,918
+Orange,2/19/2021,17257
+Outside California,2/19/2021,5973
+Placer,2/19/2021,3306
+Plumas,2/19/2021,38
+Riverside,2/19/2021,14612
+Sacramento,2/19/2021,9247
+San Benito,2/19/2021,313
+San Bernardino,2/19/2021,10921
+San Diego,2/19/2021,15171
+San Francisco,2/19/2021,4944
+San Joaquin,2/19/2021,4026
+San Luis Obispo,2/19/2021,1436
+San Mateo,2/19/2021,7437
+Santa Barbara,2/19/2021,3600
+Santa Clara,2/19/2021,13963
+Santa Cruz,2/19/2021,3218
+Shasta,2/19/2021,624
+Sierra,2/19/2021,1
+Siskiyou,2/19/2021,58
+Solano,2/19/2021,1803
+Sonoma,2/19/2021,4890
+Stanislaus,2/19/2021,2595
+Sutter,2/19/2021,658
+Tehama,2/19/2021,214
+Trinity,2/19/2021,209
+Tulare,2/19/2021,2210
+Tuolumne,2/19/2021,132
+Unknown,2/19/2021,222
+Ventura,2/19/2021,6318
+Yolo,2/19/2021,1677
+Yuba,2/19/2021,208
+Alameda,2/18/2021,14721
+Alpine,2/18/2021,2
+Amador,2/18/2021,393
+Butte,2/18/2021,1536
+Calaveras,2/18/2021,491
+Colusa,2/18/2021,132
+Contra Costa,2/18/2021,9789
+Del Norte,2/18/2021,76
+El Dorado,2/18/2021,1923
+Fresno,2/18/2021,6552
+Glenn,2/18/2021,137
+Humboldt,2/18/2021,963
+Imperial,2/18/2021,645
+Inyo,2/18/2021,111
+Kern,2/18/2021,3490
+Kings,2/18/2021,143
+Kitsap,2/18/2021,1
+Lake,2/18/2021,395
+Lassen,2/18/2021,73
+Los Angeles,2/18/2021,62882
+Madera,2/18/2021,1259
+Marin,2/18/2021,2286
+Mariposa,2/18/2021,37
+Mendocino,2/18/2021,1049
+Merced,2/18/2021,1183
+Modoc,2/18/2021,189
+Mono,2/18/2021,1
+Monterey,2/18/2021,2093
+Napa,2/18/2021,1832
+Nevada,2/18/2021,990
+Orange,2/18/2021,13674
+Outside California,2/18/2021,6744
+Placer,2/18/2021,3400
+Plumas,2/18/2021,125
+Riverside,2/18/2021,14034
+Sacramento,2/18/2021,8153
+San Benito,2/18/2021,286
+San Bernardino,2/18/2021,11766
+San Diego,2/18/2021,22481
+San Francisco,2/18/2021,4895
+San Joaquin,2/18/2021,3202
+San Luis Obispo,2/18/2021,2800
+San Mateo,2/18/2021,6273
+Santa Barbara,2/18/2021,3227
+Santa Clara,2/18/2021,12556
+Santa Cruz,2/18/2021,2854
+Shasta,2/18/2021,603
+Sierra,2/18/2021,145
+Siskiyou,2/18/2021,220
+Solano,2/18/2021,1675
+Sonoma,2/18/2021,6412
+Stanislaus,2/18/2021,3171
+Sutter,2/18/2021,697
+Tehama,2/18/2021,298
+Trinity,2/18/2021,3
+Tulare,2/18/2021,2240
+Tuolumne,2/18/2021,660
+Unknown,2/18/2021,121
+Ventura,2/18/2021,5565
+Yolo,2/18/2021,2398
+Yuba,2/18/2021,300
+Alameda,2/17/2021,13494
+Alpine,2/17/2021,22
+Amador,2/17/2021,258
+Butte,2/17/2021,1500
+Calaveras,2/17/2021,476
+Colusa,2/17/2021,204
+Contra Costa,2/17/2021,10423
+Del Norte,2/17/2021,90
+El Dorado,2/17/2021,813
+Fresno,2/17/2021,4941
+Glenn,2/17/2021,380
+Humboldt,2/17/2021,437
+Imperial,2/17/2021,439
+Inyo,2/17/2021,36
+Kern,2/17/2021,3980
+Kings,2/17/2021,360
+Lake,2/17/2021,310
+Lassen,2/17/2021,184
+Los Angeles,2/17/2021,61075
+Madera,2/17/2021,592
+Maricopa,2/17/2021,1
+Marin,2/17/2021,2021
+Mariposa,2/17/2021,21
+Mendocino,2/17/2021,1319
+Merced,2/17/2021,1866
+Modoc,2/17/2021,22
+Mono,2/17/2021,5
+Monterey,2/17/2021,1819
+Napa,2/17/2021,969
+Nevada,2/17/2021,1168
+Orange,2/17/2021,17092
+Outside California,2/17/2021,6341
+Placer,2/17/2021,3360
+Plumas,2/17/2021,133
+Riverside,2/17/2021,14019
+Sacramento,2/17/2021,8338
+San Benito,2/17/2021,308
+San Bernardino,2/17/2021,10497
+San Diego,2/17/2021,22148
+San Francisco,2/17/2021,5182
+San Joaquin,2/17/2021,3135
+San Luis Obispo,2/17/2021,2748
+San Mateo,2/17/2021,6708
+Santa Barbara,2/17/2021,1419
+Santa Clara,2/17/2021,12969
+Santa Cruz,2/17/2021,2900
+Shasta,2/17/2021,950
+Sierra,2/17/2021,3
+Siskiyou,2/17/2021,182
+Solano,2/17/2021,2273
+Sonoma,2/17/2021,5059
+Stanislaus,2/17/2021,2660
+Sutter,2/17/2021,824
+Tehama,2/17/2021,291
+Trinity,2/17/2021,93
+Tulare,2/17/2021,2671
+Tuolumne,2/17/2021,103
+Unknown,2/17/2021,17
+Ventura,2/17/2021,5132
+Yavapai,2/17/2021,1
+Yolo,2/17/2021,1349
+Yuba,2/17/2021,367
+Alameda,2/16/2021,12110
+Amador,2/16/2021,400
+Butte,2/16/2021,725
+Calaveras,2/16/2021,289
+Colusa,2/16/2021,67
+Contra Costa,2/16/2021,10072
+Del Norte,2/16/2021,131
+El Dorado,2/16/2021,1138
+Fresno,2/16/2021,6238
+Glenn,2/16/2021,36
+Humboldt,2/16/2021,507
+Imperial,2/16/2021,513
+Inyo,2/16/2021,180
+Kern,2/16/2021,2839
+Kings,2/16/2021,473
+Lake,2/16/2021,378
+Lassen,2/16/2021,193
+Los Angeles,2/16/2021,61356
+Madera,2/16/2021,754
+Marin,2/16/2021,2410
+Mariposa,2/16/2021,19
+Mendocino,2/16/2021,185
+Merced,2/16/2021,1190
+Modoc,2/16/2021,140
+Mono,2/16/2021,530
+Monterey,2/16/2021,1047
+Napa,2/16/2021,1204
+Nevada,2/16/2021,608
+Orange,2/16/2021,19482
+Outside California,2/16/2021,7005
+Placer,2/16/2021,3472
+Plumas,2/16/2021,73
+Riverside,2/16/2021,15827
+Sacramento,2/16/2021,8546
+San Benito,2/16/2021,200
+San Bernardino,2/16/2021,12250
+San Diego,2/16/2021,18038
+San Francisco,2/16/2021,4857
+San Joaquin,2/16/2021,2858
+San Luis Obispo,2/16/2021,2934
+San Mateo,2/16/2021,6980
+Santa Barbara,2/16/2021,2082
+Santa Clara,2/16/2021,13185
+Santa Cruz,2/16/2021,1669
+Shasta,2/16/2021,692
+Sierra,2/16/2021,44
+Siskiyou,2/16/2021,107
+Solano,2/16/2021,2179
+Sonoma,2/16/2021,4461
+Stanislaus,2/16/2021,1290
+Sutter,2/16/2021,274
+Tehama,2/16/2021,239
+Trinity,2/16/2021,6
+Tulare,2/16/2021,2779
+Tuolumne,2/16/2021,517
+Unknown,2/16/2021,112
+Ventura,2/16/2021,5397
+Yolo,2/16/2021,1098
+Yuba,2/16/2021,186
+Alameda,2/15/2021,5639
+Amador,2/15/2021,181
+Butte,2/15/2021,256
+Calaveras,2/15/2021,369
+Colusa,2/15/2021,46
+Contra Costa,2/15/2021,4381
+Del Norte,2/15/2021,4
+El Dorado,2/15/2021,1122
+Fresno,2/15/2021,2829
+Glenn,2/15/2021,8
+Humboldt,2/15/2021,285
+Imperial,2/15/2021,36
+Inyo,2/15/2021,29
+Kern,2/15/2021,2712
+Kings,2/15/2021,224
+Lake,2/15/2021,164
+Lassen,2/15/2021,21
+Los Angeles,2/15/2021,31572
+Madera,2/15/2021,225
+Marin,2/15/2021,1200
+Mariposa,2/15/2021,8
+Mendocino,2/15/2021,202
+Merced,2/15/2021,270
+Mono,2/15/2021,171
+Monterey,2/15/2021,1330
+Napa,2/15/2021,838
+Nevada,2/15/2021,706
+Orange,2/15/2021,16964
+Outside California,2/15/2021,2932
+Placer,2/15/2021,2108
+Plumas,2/15/2021,26
+Riverside,2/15/2021,9777
+Sacramento,2/15/2021,5577
+San Benito,2/15/2021,105
+San Bernardino,2/15/2021,5437
+San Diego,2/15/2021,14447
+San Francisco,2/15/2021,2721
+San Joaquin,2/15/2021,1898
+San Luis Obispo,2/15/2021,704
+San Mateo,2/15/2021,3124
+Santa Barbara,2/15/2021,944
+Santa Clara,2/15/2021,6177
+Santa Cruz,2/15/2021,1571
+Shasta,2/15/2021,382
+Sierra,2/15/2021,1
+Siskiyou,2/15/2021,103
+Solano,2/15/2021,1186
+Sonoma,2/15/2021,2044
+Stanislaus,2/15/2021,1762
+Sutter,2/15/2021,190
+Tehama,2/15/2021,51
+Trinity,2/15/2021,47
+Tulare,2/15/2021,899
+Tuolumne,2/15/2021,182
+Unknown,2/15/2021,50
+Ventura,2/15/2021,3946
+Yolo,2/15/2021,521
+Yuba,2/15/2021,90
+Alameda,2/14/2021,4007
+Amador,2/14/2021,123
+Butte,2/14/2021,158
+Calaveras,2/14/2021,214
+Colusa,2/14/2021,19
+Contra Costa,2/14/2021,2052
+Del Norte,2/14/2021,3
+El Dorado,2/14/2021,467
+Fresno,2/14/2021,1544
+Glenn,2/14/2021,1
+Humboldt,2/14/2021,112
+Imperial,2/14/2021,26
+Inyo,2/14/2021,1
+Kern,2/14/2021,352
+Kings,2/14/2021,99
+Lake,2/14/2021,17
+Lassen,2/14/2021,13
+Los Angeles,2/14/2021,21725
+Madera,2/14/2021,385
+Marin,2/14/2021,805
+Mariposa,2/14/2021,6
+Mendocino,2/14/2021,694
+Merced,2/14/2021,113
+Monterey,2/14/2021,584
+Napa,2/14/2021,321
+Nevada,2/14/2021,223
+Orange,2/14/2021,16079
+Outside California,2/14/2021,1750
+Placer,2/14/2021,1061
+Plumas,2/14/2021,7
+Riverside,2/14/2021,4939
+Sacramento,2/14/2021,2877
+San Benito,2/14/2021,40
+San Bernardino,2/14/2021,1532
+San Diego,2/14/2021,10276
+San Francisco,2/14/2021,3406
+San Joaquin,2/14/2021,1853
+San Luis Obispo,2/14/2021,305
+San Mateo,2/14/2021,4608
+Santa Barbara,2/14/2021,327
+Santa Clara,2/14/2021,4613
+Santa Cruz,2/14/2021,1381
+Shasta,2/14/2021,147
+Sierra,2/14/2021,1
+Siskiyou,2/14/2021,5
+Solano,2/14/2021,672
+Sonoma,2/14/2021,2267
+Stanislaus,2/14/2021,423
+Sutter,2/14/2021,81
+Tehama,2/14/2021,33
+Trinity,2/14/2021,2
+Tulare,2/14/2021,328
+Tuolumne,2/14/2021,141
+Unknown,2/14/2021,12
+Ventura,2/14/2021,1210
+Yolo,2/14/2021,439
+Yuba,2/14/2021,53
+Alameda,2/13/2021,7670
+Amador,2/13/2021,160
+Butte,2/13/2021,246
+Calaveras,2/13/2021,192
+Colusa,2/13/2021,60
+Contra Costa,2/13/2021,4757
+Del Norte,2/13/2021,2
+El Dorado,2/13/2021,949
+Fresno,2/13/2021,3677
+Glenn,2/13/2021,32
+Humboldt,2/13/2021,1293
+Imperial,2/13/2021,46
+Inyo,2/13/2021,60
+Kern,2/13/2021,1964
+Kings,2/13/2021,99
+Lake,2/13/2021,249
+Lassen,2/13/2021,13
+Los Angeles,2/13/2021,33423
+Madera,2/13/2021,478
+Marin,2/13/2021,2306
+Mariposa,2/13/2021,5
+Mendocino,2/13/2021,489
+Merced,2/13/2021,357
+Modoc,2/13/2021,1
+Mono,2/13/2021,592
+Monterey,2/13/2021,1047
+Napa,2/13/2021,484
+Nevada,2/13/2021,573
+Orange,2/13/2021,21535
+Outside California,2/13/2021,2615
+Placer,2/13/2021,2474
+Plumas,2/13/2021,72
+Riverside,2/13/2021,6292
+Sacramento,2/13/2021,6871
+San Benito,2/13/2021,60
+San Bernardino,2/13/2021,5968
+San Diego,2/13/2021,19186
+San Francisco,2/13/2021,3911
+San Joaquin,2/13/2021,2078
+San Luis Obispo,2/13/2021,372
+San Mateo,2/13/2021,5937
+Santa Barbara,2/13/2021,1220
+Santa Clara,2/13/2021,6018
+Santa Cruz,2/13/2021,1695
+Shasta,2/13/2021,1379
+Siskiyou,2/13/2021,36
+Solano,2/13/2021,2740
+Sonoma,2/13/2021,1948
+Stanislaus,2/13/2021,1335
+Sutter,2/13/2021,898
+Tehama,2/13/2021,390
+Trinity,2/13/2021,11
+Tulare,2/13/2021,2432
+Tuolumne,2/13/2021,144
+Unknown,2/13/2021,12
+Ventura,2/13/2021,3251
+Yolo,2/13/2021,2013
+Yuba,2/13/2021,438
+Alameda,2/12/2021,12212
+Alpine,2/12/2021,2
+Amador,2/12/2021,322
+Butte,2/12/2021,858
+Calaveras,2/12/2021,558
+Colusa,2/12/2021,118
+Contra Costa,2/12/2021,9511
+Del Norte,2/12/2021,115
+El Dorado,2/12/2021,1454
+Fresno,2/12/2021,4913
+Glenn,2/12/2021,421
+Humboldt,2/12/2021,1120
+Imperial,2/12/2021,2116
+Inyo,2/12/2021,301
+Kern,2/12/2021,4904
+Kings,2/12/2021,589
+Lake,2/12/2021,340
+Lassen,2/12/2021,45
+Los Angeles,2/12/2021,58804
+Madera,2/12/2021,822
+Marin,2/12/2021,2975
+Mariposa,2/12/2021,171
+Mendocino,2/12/2021,978
+Merced,2/12/2021,1715
+Modoc,2/12/2021,5
+Mono,2/12/2021,82
+Monterey,2/12/2021,2542
+Napa,2/12/2021,2144
+Nevada,2/12/2021,916
+Orange,2/12/2021,24473
+Outside California,2/12/2021,5386
+Placer,2/12/2021,2706
+Plumas,2/12/2021,121
+Riverside,2/12/2021,17231
+Sacramento,2/12/2021,10150
+San Benito,2/12/2021,401
+San Bernardino,2/12/2021,10214
+San Diego,2/12/2021,23007
+San Francisco,2/12/2021,5003
+San Joaquin,2/12/2021,2594
+San Luis Obispo,2/12/2021,764
+San Mateo,2/12/2021,6454
+Santa Barbara,2/12/2021,3262
+Santa Clara,2/12/2021,13971
+Santa Cruz,2/12/2021,3163
+Shasta,2/12/2021,1633
+Sierra,2/12/2021,20
+Siskiyou,2/12/2021,1681
+Solano,2/12/2021,3897
+Sonoma,2/12/2021,5493
+Stanislaus,2/12/2021,3236
+Sutter,2/12/2021,615
+Tehama,2/12/2021,350
+Trinity,2/12/2021,9
+Tulare,2/12/2021,2756
+Tuolumne,2/12/2021,638
+Unknown,2/12/2021,51
+Ventura,2/12/2021,6225
+Yolo,2/12/2021,1877
+Yuba,2/12/2021,260
+Alameda,2/11/2021,12688
+Alpine,2/11/2021,8
+Amador,2/11/2021,302
+Butte,2/11/2021,2189
+Calaveras,2/11/2021,573
+Colusa,2/11/2021,98
+Contra Costa,2/11/2021,8313
+Del Norte,2/11/2021,174
+El Dorado,2/11/2021,2001
+Fresno,2/11/2021,6207
+Glenn,2/11/2021,233
+Humboldt,2/11/2021,1268
+Imperial,2/11/2021,463
+Inyo,2/11/2021,214
+Kern,2/11/2021,4240
+Kings,2/11/2021,412
+La Paz,2/11/2021,1
+Lake,2/11/2021,136
+Lassen,2/11/2021,174
+Los Angeles,2/11/2021,56424
+Madera,2/11/2021,916
+Marin,2/11/2021,2604
+Mariposa,2/11/2021,364
+Mendocino,2/11/2021,1059
+Merced,2/11/2021,2478
+Modoc,2/11/2021,201
+Mono,2/11/2021,7
+Monterey,2/11/2021,2437
+Napa,2/11/2021,1477
+Nevada,2/11/2021,854
+Orange,2/11/2021,21641
+Outside California,2/11/2021,5611
+Placer,2/11/2021,3494
+Plumas,2/11/2021,320
+Riverside,2/11/2021,16260
+Sacramento,2/11/2021,7846
+San Benito,2/11/2021,281
+San Bernardino,2/11/2021,11722
+San Diego,2/11/2021,22505
+San Francisco,2/11/2021,6205
+San Joaquin,2/11/2021,2713
+San Luis Obispo,2/11/2021,1323
+San Mateo,2/11/2021,6732
+Santa Barbara,2/11/2021,4164
+Santa Clara,2/11/2021,12168
+Santa Cruz,2/11/2021,1807
+Shasta,2/11/2021,776
+Sierra,2/11/2021,198
+Siskiyou,2/11/2021,184
+Solano,2/11/2021,2255
+Sonoma,2/11/2021,5242
+Stanislaus,2/11/2021,5269
+Sutter,2/11/2021,592
+Tehama,2/11/2021,219
+Trinity,2/11/2021,260
+Tulare,2/11/2021,1277
+Tuolumne,2/11/2021,138
+Unknown,2/11/2021,100
+Ventura,2/11/2021,4590
+Yavapai,2/11/2021,1
+Yolo,2/11/2021,1453
+Yuba,2/11/2021,399
+Alameda,2/10/2021,11366
+Alpine,2/10/2021,32
+Amador,2/10/2021,708
+Bennington,2/10/2021,1
+Butte,2/10/2021,1695
+Calaveras,2/10/2021,500
+Colusa,2/10/2021,115
+Contra Costa,2/10/2021,8503
+Del Norte,2/10/2021,138
+El Dorado,2/10/2021,1167
+Fresno,2/10/2021,3647
+Glenn,2/10/2021,137
+Humboldt,2/10/2021,484
+Imperial,2/10/2021,397
+Inyo,2/10/2021,147
+Kern,2/10/2021,3713
+Kings,2/10/2021,284
+Lake,2/10/2021,329
+Lassen,2/10/2021,184
+Los Angeles,2/10/2021,66098
+Madera,2/10/2021,419
+Marin,2/10/2021,2316
+Mariposa,2/10/2021,17
+Mendocino,2/10/2021,1467
+Merced,2/10/2021,1844
+Modoc,2/10/2021,5
+Mono,2/10/2021,441
+Monterey,2/10/2021,2004
+Napa,2/10/2021,1651
+Nevada,2/10/2021,635
+Orange,2/10/2021,20649
+Outside California,2/10/2021,6417
+Placer,2/10/2021,3699
+Plumas,2/10/2021,87
+Riverside,2/10/2021,11688
+Sacramento,2/10/2021,7438
+San Benito,2/10/2021,320
+San Bernardino,2/10/2021,11872
+San Diego,2/10/2021,21817
+San Francisco,2/10/2021,6765
+San Joaquin,2/10/2021,2434
+San Luis Obispo,2/10/2021,1420
+San Mateo,2/10/2021,6475
+Santa Barbara,2/10/2021,2749
+Santa Clara,2/10/2021,12536
+Santa Cruz,2/10/2021,2179
+Shasta,2/10/2021,630
+Sierra,2/10/2021,5
+Siskiyou,2/10/2021,367
+Solano,2/10/2021,2202
+Sonoma,2/10/2021,4358
+Stanislaus,2/10/2021,1911
+Sutter,2/10/2021,649
+Tehama,2/10/2021,229
+Trinity,2/10/2021,113
+Tulare,2/10/2021,2441
+Tuolumne,2/10/2021,89
+Unknown,2/10/2021,38
+Ventura,2/10/2021,4582
+Yolo,2/10/2021,1405
+Yuba,2/10/2021,292
+Alameda,2/9/2021,9585
+Amador,2/9/2021,168
+Butte,2/9/2021,949
+Calaveras,2/9/2021,200
+Colusa,2/9/2021,232
+Contra Costa,2/9/2021,8381
+Del Norte,2/9/2021,7
+El Dorado,2/9/2021,875
+Fresno,2/9/2021,5318
+Glenn,2/9/2021,48
+Humboldt,2/9/2021,376
+Imperial,2/9/2021,471
+Inyo,2/9/2021,193
+Kern,2/9/2021,3008
+Kings,2/9/2021,250
+Lake,2/9/2021,323
+Lassen,2/9/2021,127
+Los Angeles,2/9/2021,54510
+Madera,2/9/2021,472
+Marin,2/9/2021,1759
+Mariposa,2/9/2021,9
+Mendocino,2/9/2021,101
+Merced,2/9/2021,1179
+Modoc,2/9/2021,197
+Mono,2/9/2021,227
+Monterey,2/9/2021,859
+Napa,2/9/2021,1069
+Nevada,2/9/2021,602
+Orange,2/9/2021,17342
+Outside California,2/9/2021,5336
+Placer,2/9/2021,3494
+Plumas,2/9/2021,170
+Riverside,2/9/2021,9568
+Sacramento,2/9/2021,6627
+San Benito,2/9/2021,323
+San Bernardino,2/9/2021,9766
+San Diego,2/9/2021,19177
+San Francisco,2/9/2021,5866
+San Joaquin,2/9/2021,1987
+San Luis Obispo,2/9/2021,1120
+San Mateo,2/9/2021,6112
+Santa Barbara,2/9/2021,2423
+Santa Clara,2/9/2021,10439
+Santa Cruz,2/9/2021,2360
+Shasta,2/9/2021,727
+Sierra,2/9/2021,54
+Siskiyou,2/9/2021,188
+Snohomish,2/9/2021,1
+Solano,2/9/2021,1849
+Sonoma,2/9/2021,3506
+Stanislaus,2/9/2021,1815
+Sutter,2/9/2021,235
+Tehama,2/9/2021,74
+Trinity,2/9/2021,19
+Tulare,2/9/2021,1398
+Tuolumne,2/9/2021,863
+Unknown,2/9/2021,23
+Ventura,2/9/2021,4690
+Yolo,2/9/2021,844
+Yuba,2/9/2021,144
+Alameda,2/8/2021,7919
+Alpine,2/8/2021,32
+Amador,2/8/2021,90
+Butte,2/8/2021,687
+Calaveras,2/8/2021,33
+Colusa,2/8/2021,40
+Contra Costa,2/8/2021,5704
+Del Norte,2/8/2021,36
+El Dorado,2/8/2021,847
+Fresno,2/8/2021,4233
+Glenn,2/8/2021,21
+Humboldt,2/8/2021,275
+Imperial,2/8/2021,252
+Inyo,2/8/2021,116
+Kern,2/8/2021,2552
+Kings,2/8/2021,167
+Lake,2/8/2021,251
+Lassen,2/8/2021,45
+Los Angeles,2/8/2021,46083
+Madera,2/8/2021,374
+Marin,2/8/2021,1498
+Mariposa,2/8/2021,39
+Mendocino,2/8/2021,739
+Merced,2/8/2021,278
+Modoc,2/8/2021,9
+Mono,2/8/2021,172
+Monterey,2/8/2021,497
+Napa,2/8/2021,828
+Nevada,2/8/2021,642
+Orange,2/8/2021,14555
+Outside California,2/8/2021,6108
+Placer,2/8/2021,3257
+Plumas,2/8/2021,16
+Riverside,2/8/2021,12240
+Sacramento,2/8/2021,6025
+San Benito,2/8/2021,130
+San Bernardino,2/8/2021,6993
+San Diego,2/8/2021,19071
+San Francisco,2/8/2021,6579
+San Joaquin,2/8/2021,1678
+San Luis Obispo,2/8/2021,848
+San Mateo,2/8/2021,5211
+Santa Barbara,2/8/2021,948
+Santa Clara,2/8/2021,9444
+Santa Cruz,2/8/2021,704
+Shasta,2/8/2021,526
+Siskiyou,2/8/2021,220
+Solano,2/8/2021,1650
+Sonoma,2/8/2021,3159
+Stanislaus,2/8/2021,1991
+Sutter,2/8/2021,131
+Tehama,2/8/2021,34
+Trinity,2/8/2021,23
+Tulare,2/8/2021,945
+Tuolumne,2/8/2021,90
+Unknown,2/8/2021,62
+Ventura,2/8/2021,3461
+Yolo,2/8/2021,948
+Yuba,2/8/2021,95
+Alameda,2/7/2021,3548
+Alpine,2/7/2021,1
+Amador,2/7/2021,37
+Butte,2/7/2021,38
+Calaveras,2/7/2021,4
+Colusa,2/7/2021,2
+Contra Costa,2/7/2021,974
+Del Norte,2/7/2021,4
+El Dorado,2/7/2021,241
+Fresno,2/7/2021,452
+Glenn,2/7/2021,1
+Humboldt,2/7/2021,378
+Imperial,2/7/2021,36
+Inyo,2/7/2021,3
+Kern,2/7/2021,279
+Kings,2/7/2021,5
+Lake,2/7/2021,2
+Lassen,2/7/2021,1
+Los Angeles,2/7/2021,10715
+Madera,2/7/2021,36
+Marin,2/7/2021,1287
+Mendocino,2/7/2021,29
+Merced,2/7/2021,19
+Mono,2/7/2021,2
+Monterey,2/7/2021,311
+Napa,2/7/2021,178
+Nevada,2/7/2021,243
+Orange,2/7/2021,11511
+Outside California,2/7/2021,2971
+Placer,2/7/2021,1205
+Riverside,2/7/2021,2214
+Sacramento,2/7/2021,3860
+San Benito,2/7/2021,14
+San Bernardino,2/7/2021,840
+San Diego,2/7/2021,10989
+San Francisco,2/7/2021,4285
+San Joaquin,2/7/2021,601
+San Luis Obispo,2/7/2021,143
+San Mateo,2/7/2021,1888
+Santa Barbara,2/7/2021,299
+Santa Clara,2/7/2021,3460
+Santa Cruz,2/7/2021,905
+Shasta,2/7/2021,26
+Siskiyou,2/7/2021,3
+Solano,2/7/2021,846
+Sonoma,2/7/2021,1508
+Stanislaus,2/7/2021,208
+Sutter,2/7/2021,22
+Tehama,2/7/2021,5
+Tulare,2/7/2021,76
+Tuolumne,2/7/2021,7
+Unknown,2/7/2021,13
+Ventura,2/7/2021,711
+Yolo,2/7/2021,512
+Yuba,2/7/2021,18
+Alameda,2/6/2021,6842
+Alpine,2/6/2021,1
+Amador,2/6/2021,100
+Butte,2/6/2021,142
+Calaveras,2/6/2021,20
+Colusa,2/6/2021,287
+Contra Costa,2/6/2021,3427
+Del Norte,2/6/2021,265
+El Dorado,2/6/2021,638
+Fresno,2/6/2021,2910
+Glenn,2/6/2021,14
+Humboldt,2/6/2021,901
+Imperial,2/6/2021,875
+Inyo,2/6/2021,3
+Kern,2/6/2021,1722
+Kings,2/6/2021,58
+Lake,2/6/2021,281
+Lassen,2/6/2021,70
+Los Angeles,2/6/2021,35093
+Madera,2/6/2021,358
+Marin,2/6/2021,1419
+Mariposa,2/6/2021,1
+Mendocino,2/6/2021,556
+Merced,2/6/2021,390
+Mono,2/6/2021,140
+Monterey,2/6/2021,1088
+Napa,2/6/2021,427
+Nevada,2/6/2021,273
+Orange,2/6/2021,16257
+Outside California,2/6/2021,4807
+Placer,2/6/2021,1892
+Plumas,2/6/2021,8
+Riverside,2/6/2021,7287
+Sacramento,2/6/2021,8324
+San Benito,2/6/2021,50
+San Bernardino,2/6/2021,5223
+San Diego,2/6/2021,19853
+San Francisco,2/6/2021,5421
+San Joaquin,2/6/2021,1109
+San Luis Obispo,2/6/2021,159
+San Mateo,2/6/2021,3268
+Santa Barbara,2/6/2021,1190
+Santa Clara,2/6/2021,5082
+Santa Cruz,2/6/2021,2575
+Shasta,2/6/2021,1721
+Siskiyou,2/6/2021,15
+Solano,2/6/2021,2920
+Sonoma,2/6/2021,2617
+Stanislaus,2/6/2021,869
+Sutter,2/6/2021,730
+Tehama,2/6/2021,29
+Trinity,2/6/2021,208
+Tulare,2/6/2021,834
+Tuolumne,2/6/2021,847
+Unknown,2/6/2021,18
+Ventura,2/6/2021,2815
+Yolo,2/6/2021,1922
+Yuba,2/6/2021,446
+Alameda,2/5/2021,10240
+Alpine,2/5/2021,30
+Amador,2/5/2021,315
+Butte,2/5/2021,1164
+Calaveras,2/5/2021,61
+Colusa,2/5/2021,33
+Contra Costa,2/5/2021,8372
+Del Norte,2/5/2021,133
+El Dorado,2/5/2021,1428
+Fresno,2/5/2021,5098
+Glenn,2/5/2021,320
+Humboldt,2/5/2021,809
+Imperial,2/5/2021,397
+Inyo,2/5/2021,118
+Kern,2/5/2021,4817
+Kings,2/5/2021,251
+Lake,2/5/2021,352
+Lassen,2/5/2021,64
+Los Angeles,2/5/2021,60141
+Madera,2/5/2021,965
+Marin,2/5/2021,2151
+Mariposa,2/5/2021,177
+Mendocino,2/5/2021,1306
+Merced,2/5/2021,529
+Modoc,2/5/2021,4
+Mono,2/5/2021,623
+Monterey,2/5/2021,3630
+Napa,2/5/2021,704
+Nevada,2/5/2021,635
+Orange,2/5/2021,20551
+Outside California,2/5/2021,7134
+Placer,2/5/2021,2690
+Plumas,2/5/2021,24
+Riverside,2/5/2021,14275
+Sacramento,2/5/2021,7452
+San Benito,2/5/2021,290
+San Bernardino,2/5/2021,10877
+San Diego,2/5/2021,24394
+San Francisco,2/5/2021,5896
+San Joaquin,2/5/2021,3162
+San Luis Obispo,2/5/2021,1592
+San Mateo,2/5/2021,6747
+Santa Barbara,2/5/2021,2900
+Santa Clara,2/5/2021,11759
+Santa Cruz,2/5/2021,3154
+Shasta,2/5/2021,1203
+Sierra,2/5/2021,5
+Siskiyou,2/5/2021,504
+Solano,2/5/2021,3018
+Sonoma,2/5/2021,4773
+Stanislaus,2/5/2021,2800
+Sutter,2/5/2021,278
+Tehama,2/5/2021,158
+Trinity,2/5/2021,348
+Tulare,2/5/2021,1225
+Tuolumne,2/5/2021,97
+Unknown,2/5/2021,15
+Ventura,2/5/2021,4795
+Yolo,2/5/2021,1187
+Yuba,2/5/2021,144
+Alameda,2/4/2021,9398
+Alpine,2/4/2021,8
+Amador,2/4/2021,245
+Butte,2/4/2021,2947
+Calaveras,2/4/2021,349
+Colusa,2/4/2021,142
+Contra Costa,2/4/2021,7391
+Del Norte,2/4/2021,70
+El Dorado,2/4/2021,1230
+Fresno,2/4/2021,4181
+Glenn,2/4/2021,146
+Hamilton,2/4/2021,1
+Humboldt,2/4/2021,631
+Imperial,2/4/2021,1755
+Inyo,2/4/2021,148
+Kern,2/4/2021,3775
+Kings,2/4/2021,390
+Lake,2/4/2021,80
+Lassen,2/4/2021,111
+Los Angeles,2/4/2021,56570
+Madera,2/4/2021,386
+Marin,2/4/2021,1517
+Mariposa,2/4/2021,86
+Mendocino,2/4/2021,581
+Merced,2/4/2021,372
+Modoc,2/4/2021,154
+Mono,2/4/2021,213
+Monterey,2/4/2021,2691
+Napa,2/4/2021,783
+Nevada,2/4/2021,749
+Orange,2/4/2021,19600
+Outside California,2/4/2021,7889
+Placer,2/4/2021,2733
+Plumas,2/4/2021,102
+Riverside,2/4/2021,13567
+Sacramento,2/4/2021,7533
+San Benito,2/4/2021,160
+San Bernardino,2/4/2021,10517
+San Diego,2/4/2021,22938
+San Francisco,2/4/2021,5003
+San Joaquin,2/4/2021,3405
+San Luis Obispo,2/4/2021,1652
+San Mateo,2/4/2021,6250
+Santa Barbara,2/4/2021,2776
+Santa Clara,2/4/2021,10436
+Santa Cruz,2/4/2021,1799
+Shasta,2/4/2021,604
+Sierra,2/4/2021,106
+Siskiyou,2/4/2021,315
+Solano,2/4/2021,1729
+Sonoma,2/4/2021,4102
+Stanislaus,2/4/2021,2059
+Sutter,2/4/2021,666
+Tehama,2/4/2021,439
+Trinity,2/4/2021,33
+Tulare,2/4/2021,551
+Tuolumne,2/4/2021,129
+Unknown,2/4/2021,75
+Ventura,2/4/2021,4726
+Yolo,2/4/2021,1783
+Yuba,2/4/2021,295
+Alameda,2/3/2021,7019
+Alpine,2/3/2021,33
+Amador,2/3/2021,140
+Butte,2/3/2021,2728
+Calaveras,2/3/2021,417
+Colusa,2/3/2021,70
+Contra Costa,2/3/2021,8214
+Del Norte,2/3/2021,126
+El Dorado,2/3/2021,860
+Fresno,2/3/2021,3471
+Glenn,2/3/2021,206
+Humboldt,2/3/2021,626
+Imperial,2/3/2021,482
+Inyo,2/3/2021,117
+Kern,2/3/2021,3648
+Kings,2/3/2021,349
+Lake,2/3/2021,354
+Lassen,2/3/2021,99
+Los Angeles,2/3/2021,51517
+Madera,2/3/2021,582
+Marin,2/3/2021,1572
+Mariposa,2/3/2021,15
+Mendocino,2/3/2021,384
+Merced,2/3/2021,357
+Modoc,2/3/2021,18
+Mono,2/3/2021,4
+Monterey,2/3/2021,2326
+Napa,2/3/2021,726
+Nevada,2/3/2021,806
+Orange,2/3/2021,16666
+Outside California,2/3/2021,8719
+Placer,2/3/2021,2883
+Plumas,2/3/2021,127
+Riverside,2/3/2021,12041
+Sacramento,2/3/2021,6878
+San Benito,2/3/2021,328
+San Bernardino,2/3/2021,8903
+San Diego,2/3/2021,25669
+San Francisco,2/3/2021,5035
+San Joaquin,2/3/2021,3000
+San Luis Obispo,2/3/2021,1699
+San Mateo,2/3/2021,4849
+Santa Barbara,2/3/2021,1946
+Santa Clara,2/3/2021,9091
+Santa Cruz,2/3/2021,2184
+Shasta,2/3/2021,649
+Sierra,2/3/2021,6
+Siskiyou,2/3/2021,311
+Solano,2/3/2021,2183
+Sonoma,2/3/2021,3900
+Stanislaus,2/3/2021,2453
+Sutter,2/3/2021,443
+Tehama,2/3/2021,353
+Trinity,2/3/2021,6
+Tulare,2/3/2021,602
+Tuolumne,2/3/2021,236
+Unknown,2/3/2021,55
+Ventura,2/3/2021,4446
+Yolo,2/3/2021,1513
+Yuba,2/3/2021,225
+Alameda,2/2/2021,7358
+Amador,2/2/2021,214
+Butte,2/2/2021,1928
+Calaveras,2/2/2021,110
+Colusa,2/2/2021,42
+Contra Costa,2/2/2021,7702
+Del Norte,2/2/2021,142
+El Dorado,2/2/2021,807
+Fresno,2/2/2021,2684
+Glenn,2/2/2021,27
+Humboldt,2/2/2021,399
+Imperial,2/2/2021,683
+Inyo,2/2/2021,129
+Kern,2/2/2021,2881
+Kings,2/2/2021,206
+Lake,2/2/2021,525
+Lassen,2/2/2021,175
+Los Angeles,2/2/2021,43594
+Madera,2/2/2021,245
+Marin,2/2/2021,1310
+Mariposa,2/2/2021,8
+Mendocino,2/2/2021,680
+Merced,2/2/2021,301
+Modoc,2/2/2021,170
+Mono,2/2/2021,5
+Monterey,2/2/2021,2139
+Napa,2/2/2021,571
+Nevada,2/2/2021,512
+Orange,2/2/2021,15235
+Outside California,2/2/2021,8125
+Placer,2/2/2021,2340
+Plumas,2/2/2021,20
+Riverside,2/2/2021,9357
+Sacramento,2/2/2021,6743
+San Benito,2/2/2021,222
+San Bernardino,2/2/2021,10230
+San Diego,2/2/2021,21768
+San Francisco,2/2/2021,4616
+San Joaquin,2/2/2021,2547
+San Luis Obispo,2/2/2021,1890
+San Mateo,2/2/2021,3125
+Santa Barbara,2/2/2021,1806
+Santa Clara,2/2/2021,7939
+Santa Cruz,2/2/2021,1006
+Shasta,2/2/2021,601
+Sierra,2/2/2021,58
+Siskiyou,2/2/2021,285
+Solano,2/2/2021,2480
+Sonoma,2/2/2021,3396
+Stanislaus,2/2/2021,1232
+Sutter,2/2/2021,240
+Tehama,2/2/2021,310
+Trinity,2/2/2021,10
+Tulare,2/2/2021,668
+Tuolumne,2/2/2021,647
+Unknown,2/2/2021,77
+Ventura,2/2/2021,4368
+Yolo,2/2/2021,1317
+Yuba,2/2/2021,121
+Alameda,2/1/2021,5862
+Alpine,2/1/2021,23
+Amador,2/1/2021,61
+Butte,2/1/2021,1733
+Calaveras,2/1/2021,53
+Colusa,2/1/2021,27
+Contra Costa,2/1/2021,5465
+Del Norte,2/1/2021,40
+El Dorado,2/1/2021,781
+Fresno,2/1/2021,3298
+Glenn,2/1/2021,29
+Humboldt,2/1/2021,303
+Imperial,2/1/2021,440
+Inyo,2/1/2021,12
+Kern,2/1/2021,2399
+Kings,2/1/2021,198
+Lake,2/1/2021,162
+Lassen,2/1/2021,61
+Los Angeles,2/1/2021,37288
+Madera,2/1/2021,259
+Marin,2/1/2021,1053
+Mariposa,2/1/2021,56
+Mendocino,2/1/2021,364
+Merced,2/1/2021,368
+Modoc,2/1/2021,24
+Mono,2/1/2021,29
+Monterey,2/1/2021,1644
+Napa,2/1/2021,310
+Nevada,2/1/2021,290
+Orange,2/1/2021,13837
+Outside California,2/1/2021,6611
+Placer,2/1/2021,2045
+Plumas,2/1/2021,15
+Riverside,2/1/2021,10774
+Sacramento,2/1/2021,5824
+San Benito,2/1/2021,133
+San Bernardino,2/1/2021,7403
+San Diego,2/1/2021,19529
+San Francisco,2/1/2021,3724
+San Joaquin,2/1/2021,2469
+San Luis Obispo,2/1/2021,1651
+San Mateo,2/1/2021,2897
+Santa Barbara,2/1/2021,931
+Santa Clara,2/1/2021,7741
+Santa Cruz,2/1/2021,1227
+Shasta,2/1/2021,500
+Sierra,2/1/2021,1
+Siskiyou,2/1/2021,194
+Solano,2/1/2021,1454
+Sonoma,2/1/2021,2459
+Stanislaus,2/1/2021,1238
+Sutter,2/1/2021,161
+Tehama,2/1/2021,79
+Trinity,2/1/2021,2
+Tulare,2/1/2021,1164
+Tuolumne,2/1/2021,25
+Unknown,2/1/2021,40
+Ventura,2/1/2021,3909
+Yolo,2/1/2021,838
+Yuba,2/1/2021,149
+Alameda,1/31/2021,2124
+Amador,1/31/2021,32
+Butte,1/31/2021,15
+Calaveras,1/31/2021,5
+Colusa,1/31/2021,7
+Contra Costa,1/31/2021,745
+El Dorado,1/31/2021,206
+Fresno,1/31/2021,230
+Glenn,1/31/2021,1
+Humboldt,1/31/2021,307
+Imperial,1/31/2021,24
+Inyo,1/31/2021,32
+Kern,1/31/2021,400
+Lake,1/31/2021,14
+Linn,1/31/2021,1
+Los Angeles,1/31/2021,12925
+Madera,1/31/2021,9
+Marin,1/31/2021,449
+Mariposa,1/31/2021,1
+Mendocino,1/31/2021,274
+Merced,1/31/2021,47
+Mono,1/31/2021,242
+Monterey,1/31/2021,494
+Napa,1/31/2021,649
+Nevada,1/31/2021,100
+Orange,1/31/2021,13745
+Outside California,1/31/2021,4175
+Placer,1/31/2021,778
+Plumas,1/31/2021,3
+Riverside,1/31/2021,5181
+Sacramento,1/31/2021,2221
+San Benito,1/31/2021,22
+San Bernardino,1/31/2021,925
+San Diego,1/31/2021,13557
+San Francisco,1/31/2021,2381
+San Joaquin,1/31/2021,1546
+San Luis Obispo,1/31/2021,30
+San Mateo,1/31/2021,1899
+Santa Barbara,1/31/2021,1460
+Santa Clara,1/31/2021,2554
+Santa Cruz,1/31/2021,227
+Shasta,1/31/2021,29
+Solano,1/31/2021,474
+Sonoma,1/31/2021,769
+Stanislaus,1/31/2021,363
+Sutter,1/31/2021,27
+Tehama,1/31/2021,1
+Trinity,1/31/2021,1
+Tulare,1/31/2021,50
+Tuolumne,1/31/2021,8
+Unknown,1/31/2021,22
+Ventura,1/31/2021,827
+Yolo,1/31/2021,250
+Yuba,1/31/2021,17
+Alameda,1/30/2021,3229
+Amador,1/30/2021,165
+Butte,1/30/2021,32
+Calaveras,1/30/2021,26
+Colusa,1/30/2021,27
+Contra Costa,1/30/2021,2027
+Del Norte,1/30/2021,8
+El Dorado,1/30/2021,605
+Fresno,1/30/2021,1386
+Glenn,1/30/2021,4
+Humboldt,1/30/2021,949
+Imperial,1/30/2021,65
+Inyo,1/30/2021,11
+Kern,1/30/2021,1319
+Kings,1/30/2021,1422
+Lake,1/30/2021,553
+Los Angeles,1/30/2021,29638
+Madera,1/30/2021,504
+Marin,1/30/2021,1710
+Mariposa,1/30/2021,3
+Mendocino,1/30/2021,45
+Merced,1/30/2021,262
+Mono,1/30/2021,201
+Monterey,1/30/2021,410
+Napa,1/30/2021,785
+Nevada,1/30/2021,229
+Orange,1/30/2021,12838
+Outside California,1/30/2021,4793
+Placer,1/30/2021,1709
+Plumas,1/30/2021,7
+Riverside,1/30/2021,9026
+Sacramento,1/30/2021,4470
+San Benito,1/30/2021,45
+San Bernardino,1/30/2021,3061
+San Diego,1/30/2021,15291
+San Francisco,1/30/2021,3709
+San Joaquin,1/30/2021,2106
+San Luis Obispo,1/30/2021,30
+San Mateo,1/30/2021,3218
+Santa Barbara,1/30/2021,1893
+Santa Clara,1/30/2021,3776
+Santa Cruz,1/30/2021,1045
+Shasta,1/30/2021,613
+Sierra,1/30/2021,3
+Siskiyou,1/30/2021,3
+Solano,1/30/2021,705
+Sonoma,1/30/2021,2568
+Stanislaus,1/30/2021,283
+Sutter,1/30/2021,780
+Tehama,1/30/2021,102
+Trinity,1/30/2021,13
+Tulare,1/30/2021,1670
+Tuolumne,1/30/2021,708
+Unknown,1/30/2021,12
+Ventura,1/30/2021,3014
+Yolo,1/30/2021,1515
+Yuba,1/30/2021,410
+Alameda,1/29/2021,7760
+Amador,1/29/2021,93
+Butte,1/29/2021,1668
+Calaveras,1/29/2021,400
+Colusa,1/29/2021,40
+Contra Costa,1/29/2021,7363
+Del Norte,1/29/2021,49
+El Dorado,1/29/2021,922
+Fresno,1/29/2021,1683
+Glenn,1/29/2021,295
+Humboldt,1/29/2021,1121
+Imperial,1/29/2021,422
+Inyo,1/29/2021,24
+Kern,1/29/2021,3737
+Kings,1/29/2021,85
+Lake,1/29/2021,618
+Lassen,1/29/2021,23
+Los Angeles,1/29/2021,48426
+Madera,1/29/2021,465
+Marin,1/29/2021,2172
+Mariposa,1/29/2021,57
+Mendocino,1/29/2021,387
+Merced,1/29/2021,853
+Modoc,1/29/2021,3
+Monterey,1/29/2021,1216
+Napa,1/29/2021,246
+Nevada,1/29/2021,590
+Orange,1/29/2021,13404
+Outside California,1/29/2021,5093
+Placer,1/29/2021,1813
+Plumas,1/29/2021,7
+Riverside,1/29/2021,11799
+Sacramento,1/29/2021,5209
+San Benito,1/29/2021,284
+San Bernardino,1/29/2021,8068
+San Diego,1/29/2021,19389
+San Francisco,1/29/2021,4668
+San Joaquin,1/29/2021,2104
+San Luis Obispo,1/29/2021,1722
+San Mateo,1/29/2021,2877
+Santa Barbara,1/29/2021,1322
+Santa Clara,1/29/2021,9386
+Santa Cruz,1/29/2021,1724
+Shasta,1/29/2021,829
+Sierra,1/29/2021,1
+Siskiyou,1/29/2021,245
+Solano,1/29/2021,1621
+Sonoma,1/29/2021,2915
+Stanislaus,1/29/2021,2405
+Sutter,1/29/2021,397
+Tehama,1/29/2021,320
+Trinity,1/29/2021,2
+Tulare,1/29/2021,1119
+Tuolumne,1/29/2021,69
+Unknown,1/29/2021,162
+Ventura,1/29/2021,4202
+Yolo,1/29/2021,849
+Yuba,1/29/2021,150
+Alameda,1/28/2021,7721
+Alpine,1/28/2021,2
+Amador,1/28/2021,337
+Butte,1/28/2021,2249
+Calaveras,1/28/2021,162
+Colusa,1/28/2021,78
+Contra Costa,1/28/2021,6694
+Del Norte,1/28/2021,291
+El Dorado,1/28/2021,1056
+Fresno,1/28/2021,4384
+Glenn,1/28/2021,145
+Humboldt,1/28/2021,1439
+Imperial,1/28/2021,634
+Inyo,1/28/2021,93
+Kern,1/28/2021,2822
+Kings,1/28/2021,322
+Lake,1/28/2021,449
+Lassen,1/28/2021,85
+Los Angeles,1/28/2021,47790
+Madera,1/28/2021,532
+Marin,1/28/2021,1989
+Mariposa,1/28/2021,119
+Mendocino,1/28/2021,544
+Merced,1/28/2021,1129
+Modoc,1/28/2021,144
+Mono,1/28/2021,6
+Monterey,1/28/2021,1993
+Napa,1/28/2021,370
+Nevada,1/28/2021,449
+Orange,1/28/2021,12805
+Outside California,1/28/2021,5935
+Placer,1/28/2021,1754
+Plumas,1/28/2021,23
+Riverside,1/28/2021,11322
+Sacramento,1/28/2021,5195
+San Benito,1/28/2021,152
+San Bernardino,1/28/2021,8455
+San Diego,1/28/2021,20459
+San Francisco,1/28/2021,3712
+San Joaquin,1/28/2021,1969
+San Luis Obispo,1/28/2021,1457
+San Mateo,1/28/2021,2757
+Santa Barbara,1/28/2021,880
+Santa Clara,1/28/2021,9311
+Santa Cruz,1/28/2021,1718
+Shasta,1/28/2021,841
+Sierra,1/28/2021,53
+Siskiyou,1/28/2021,228
+Solano,1/28/2021,1803
+Sonoma,1/28/2021,4044
+Stanislaus,1/28/2021,2161
+Sutter,1/28/2021,522
+Tehama,1/28/2021,334
+Trinity,1/28/2021,13
+Tulare,1/28/2021,1184
+Tuolumne,1/28/2021,27
+Unknown,1/28/2021,163
+Ventura,1/28/2021,3827
+Yolo,1/28/2021,1039
+Yuba,1/28/2021,209
+Alameda,1/27/2021,6627
+Alpine,1/27/2021,1
+Amador,1/27/2021,295
+Butte,1/27/2021,2070
+Calaveras,1/27/2021,132
+Colusa,1/27/2021,107
+Contra Costa,1/27/2021,8150
+Del Norte,1/27/2021,62
+El Dorado,1/27/2021,888
+Fresno,1/27/2021,2214
+Glenn,1/27/2021,188
+Humboldt,1/27/2021,1249
+Imperial,1/27/2021,575
+Inyo,1/27/2021,23
+Kern,1/27/2021,3543
+Kings,1/27/2021,316
+Lake,1/27/2021,339
+Lassen,1/27/2021,79
+Los Angeles,1/27/2021,47737
+Madera,1/27/2021,737
+Marin,1/27/2021,1625
+Mariposa,1/27/2021,19
+Mendocino,1/27/2021,424
+Merced,1/27/2021,971
+Modoc,1/27/2021,40
+Mono,1/27/2021,5
+Monterey,1/27/2021,854
+Napa,1/27/2021,620
+Nevada,1/27/2021,400
+Orange,1/27/2021,13270
+Outside California,1/27/2021,5748
+Placer,1/27/2021,1803
+Plumas,1/27/2021,25
+Riverside,1/27/2021,10487
+Sacramento,1/27/2021,5692
+San Benito,1/27/2021,231
+San Bernardino,1/27/2021,8199
+San Diego,1/27/2021,19767
+San Francisco,1/27/2021,4390
+San Joaquin,1/27/2021,1682
+San Luis Obispo,1/27/2021,1609
+San Mateo,1/27/2021,2735
+Santa Barbara,1/27/2021,1154
+Santa Clara,1/27/2021,8526
+Santa Cruz,1/27/2021,1638
+Shasta,1/27/2021,457
+Sierra,1/27/2021,4
+Siskiyou,1/27/2021,181
+Solano,1/27/2021,1740
+Sonoma,1/27/2021,3574
+Stanislaus,1/27/2021,1784
+Sutter,1/27/2021,383
+Tehama,1/27/2021,299
+Trinity,1/27/2021,12
+Tulare,1/27/2021,1455
+Tuolumne,1/27/2021,59
+Unknown,1/27/2021,24
+Ventura,1/27/2021,3427
+Yolo,1/27/2021,555
+Yuba,1/27/2021,180
+Alameda,1/26/2021,7187
+Amador,1/26/2021,239
+Butte,1/26/2021,1453
+Calaveras,1/26/2021,47
+Colusa,1/26/2021,9
+Contra Costa,1/26/2021,7871
+Del Norte,1/26/2021,18
+El Dorado,1/26/2021,664
+Fresno,1/26/2021,1979
+Glenn,1/26/2021,29
+Humboldt,1/26/2021,513
+Imperial,1/26/2021,358
+Inyo,1/26/2021,133
+Kern,1/26/2021,2726
+Kings,1/26/2021,153
+Lake,1/26/2021,393
+Lassen,1/26/2021,126
+Los Angeles,1/26/2021,48534
+Madera,1/26/2021,477
+Maricopa,1/26/2021,1
+Marin,1/26/2021,1490
+Mariposa,1/26/2021,32
+Mendocino,1/26/2021,153
+Merced,1/26/2021,896
+Modoc,1/26/2021,66
+Mono,1/26/2021,510
+Monterey,1/26/2021,915
+Napa,1/26/2021,866
+Nevada,1/26/2021,393
+Orange,1/26/2021,11655
+Outside California,1/26/2021,6995
+Placer,1/26/2021,1822
+Plumas,1/26/2021,60
+Riverside,1/26/2021,9044
+Sacramento,1/26/2021,4639
+San Benito,1/26/2021,135
+San Bernardino,1/26/2021,7060
+San Diego,1/26/2021,13962
+San Francisco,1/26/2021,4606
+San Joaquin,1/26/2021,2077
+San Luis Obispo,1/26/2021,1998
+San Mateo,1/26/2021,4274
+Santa Barbara,1/26/2021,2031
+Santa Clara,1/26/2021,8139
+Santa Cruz,1/26/2021,1669
+Shasta,1/26/2021,708
+Sierra,1/26/2021,64
+Siskiyou,1/26/2021,150
+Solano,1/26/2021,1655
+Sonoma,1/26/2021,1983
+Stanislaus,1/26/2021,1698
+Sutter,1/26/2021,237
+Tehama,1/26/2021,325
+Trinity,1/26/2021,10
+Tulare,1/26/2021,1495
+Tuolumne,1/26/2021,81
+Unknown,1/26/2021,94
+Ventura,1/26/2021,3664
+Yolo,1/26/2021,807
+Yuba,1/26/2021,146
+Alameda,1/25/2021,5134
+Alpine,1/25/2021,16
+Amador,1/25/2021,54
+Butte,1/25/2021,648
+Calaveras,1/25/2021,85
+Colusa,1/25/2021,7
+Contra Costa,1/25/2021,6561
+Del Norte,1/25/2021,97
+El Dorado,1/25/2021,584
+Fresno,1/25/2021,2313
+Glenn,1/25/2021,27
+Humboldt,1/25/2021,296
+Imperial,1/25/2021,217
+Inyo,1/25/2021,49
+Kern,1/25/2021,2369
+Kings,1/25/2021,123
+Lake,1/25/2021,208
+Lassen,1/25/2021,12
+Los Angeles,1/25/2021,38074
+Madera,1/25/2021,248
+Marin,1/25/2021,1108
+Mariposa,1/25/2021,4
+Mendocino,1/25/2021,186
+Merced,1/25/2021,727
+Modoc,1/25/2021,12
+Mono,1/25/2021,204
+Monterey,1/25/2021,778
+Napa,1/25/2021,1512
+Nevada,1/25/2021,262
+Orange,1/25/2021,10268
+Outside California,1/25/2021,5127
+Placer,1/25/2021,1627
+Plumas,1/25/2021,9
+Riverside,1/25/2021,7818
+Sacramento,1/25/2021,4284
+San Benito,1/25/2021,67
+San Bernardino,1/25/2021,6808
+San Diego,1/25/2021,11705
+San Francisco,1/25/2021,4534
+San Joaquin,1/25/2021,1902
+San Luis Obispo,1/25/2021,2070
+San Mateo,1/25/2021,4364
+Santa Barbara,1/25/2021,1232
+Santa Clara,1/25/2021,8252
+Santa Cruz,1/25/2021,1056
+Shasta,1/25/2021,752
+Siskiyou,1/25/2021,183
+Solano,1/25/2021,1565
+Sonoma,1/25/2021,2143
+Stanislaus,1/25/2021,3093
+Sutter,1/25/2021,301
+Tehama,1/25/2021,30
+Trinity,1/25/2021,14
+Tulare,1/25/2021,1276
+Tuolumne,1/25/2021,48
+Unknown,1/25/2021,23
+Ventura,1/25/2021,3107
+Yolo,1/25/2021,718
+Yuba,1/25/2021,81
+Alameda,1/24/2021,2080
+Amador,1/24/2021,26
+Butte,1/24/2021,7
+Calaveras,1/24/2021,15
+Contra Costa,1/24/2021,1559
+Del Norte,1/24/2021,1
+El Dorado,1/24/2021,125
+Fresno,1/24/2021,547
+Glenn,1/24/2021,1
+Humboldt,1/24/2021,221
+Imperial,1/24/2021,11
+Kern,1/24/2021,161
+Kings,1/24/2021,2
+Lake,1/24/2021,4
+Lassen,1/24/2021,1
+Los Angeles,1/24/2021,15627
+Madera,1/24/2021,101
+Marin,1/24/2021,605
+Mendocino,1/24/2021,4
+Merced,1/24/2021,33
+Monterey,1/24/2021,58
+Napa,1/24/2021,275
+Nevada,1/24/2021,104
+Orange,1/24/2021,9819
+Outside California,1/24/2021,1110
+Placer,1/24/2021,502
+Plumas,1/24/2021,1
+Riverside,1/24/2021,3067
+Sacramento,1/24/2021,1498
+San Benito,1/24/2021,11
+San Bernardino,1/24/2021,1187
+San Diego,1/24/2021,11222
+San Francisco,1/24/2021,2419
+San Joaquin,1/24/2021,328
+San Luis Obispo,1/24/2021,242
+San Mateo,1/24/2021,1558
+Santa Barbara,1/24/2021,846
+Santa Clara,1/24/2021,2842
+Santa Cruz,1/24/2021,113
+Shasta,1/24/2021,25
+Solano,1/24/2021,371
+Sonoma,1/24/2021,756
+Stanislaus,1/24/2021,287
+Sutter,1/24/2021,16
+Tulare,1/24/2021,29
+Tuolumne,1/24/2021,523
+Unknown,1/24/2021,6
+Ventura,1/24/2021,446
+Yolo,1/24/2021,201
+Yuba,1/24/2021,9
+Alameda,1/23/2021,3260
+Alpine,1/23/2021,1
+Amador,1/23/2021,51
+Butte,1/23/2021,123
+Calaveras,1/23/2021,23
+Colusa,1/23/2021,35
+Contra Costa,1/23/2021,2004
+Del Norte,1/23/2021,1
+El Dorado,1/23/2021,731
+Fresno,1/23/2021,3017
+Glenn,1/23/2021,13
+Humboldt,1/23/2021,583
+Imperial,1/23/2021,1048
+Inyo,1/23/2021,53
+Kern,1/23/2021,1241
+Kings,1/23/2021,26
+Lake,1/23/2021,121
+Lassen,1/23/2021,1
+Los Angeles,1/23/2021,33701
+Madera,1/23/2021,102
+Marin,1/23/2021,1846
+Mariposa,1/23/2021,113
+Mendocino,1/23/2021,155
+Merced,1/23/2021,307
+Mono,1/23/2021,598
+Monterey,1/23/2021,237
+Napa,1/23/2021,394
+Nevada,1/23/2021,171
+Orange,1/23/2021,13093
+Outside California,1/23/2021,2453
+Placer,1/23/2021,1185
+Plumas,1/23/2021,92
+Riverside,1/23/2021,5948
+Sacramento,1/23/2021,3708
+San Benito,1/23/2021,32
+San Bernardino,1/23/2021,3096
+San Diego,1/23/2021,14202
+San Francisco,1/23/2021,3068
+San Joaquin,1/23/2021,890
+San Luis Obispo,1/23/2021,309
+San Mateo,1/23/2021,2877
+Santa Barbara,1/23/2021,1732
+Santa Clara,1/23/2021,3771
+Santa Cruz,1/23/2021,401
+Shasta,1/23/2021,69
+Sierra,1/23/2021,2
+Siskiyou,1/23/2021,6
+Solano,1/23/2021,727
+Sonoma,1/23/2021,755
+Stanislaus,1/23/2021,341
+Sutter,1/23/2021,396
+Tehama,1/23/2021,264
+Trinity,1/23/2021,3
+Tulare,1/23/2021,439
+Tuolumne,1/23/2021,664
+Unknown,1/23/2021,13
+Ventura,1/23/2021,1181
+Yolo,1/23/2021,610
+Yuba,1/23/2021,201
+Alameda,1/22/2021,6896
+Alpine,1/22/2021,31
+Amador,1/22/2021,133
+Butte,1/22/2021,986
+Calaveras,1/22/2021,399
+Colusa,1/22/2021,39
+Contra Costa,1/22/2021,6319
+Del Norte,1/22/2021,19
+El Dorado,1/22/2021,1088
+Fresno,1/22/2021,3287
+Glenn,1/22/2021,337
+Humboldt,1/22/2021,676
+Imperial,1/22/2021,467
+Inyo,1/22/2021,62
+Kern,1/22/2021,2687
+Kings,1/22/2021,122
+Lake,1/22/2021,308
+Lassen,1/22/2021,32
+Los Angeles,1/22/2021,47378
+Madera,1/22/2021,253
+Marin,1/22/2021,1680
+Mariposa,1/22/2021,49
+Mendocino,1/22/2021,147
+Merced,1/22/2021,1298
+Modoc,1/22/2021,2
+Mono,1/22/2021,4
+Monterey,1/22/2021,1011
+Napa,1/22/2021,1495
+Nevada,1/22/2021,339
+Orange,1/22/2021,13475
+Outside California,1/22/2021,4944
+Placer,1/22/2021,2264
+Plumas,1/22/2021,3
+Riverside,1/22/2021,8592
+Sacramento,1/22/2021,4920
+San Benito,1/22/2021,229
+San Bernardino,1/22/2021,6475
+San Diego,1/22/2021,17465
+San Francisco,1/22/2021,3133
+San Joaquin,1/22/2021,1861
+San Luis Obispo,1/22/2021,1514
+San Mateo,1/22/2021,2831
+Santa Barbara,1/22/2021,2991
+Santa Clara,1/22/2021,8634
+Santa Cruz,1/22/2021,1795
+Shasta,1/22/2021,445
+Sierra,1/22/2021,1
+Siskiyou,1/22/2021,1331
+Solano,1/22/2021,1609
+Sonoma,1/22/2021,2695
+Stanislaus,1/22/2021,1056
+Sutter,1/22/2021,265
+Tehama,1/22/2021,215
+Trinity,1/22/2021,4
+Tulare,1/22/2021,1048
+Tuolumne,1/22/2021,165
+Unknown,1/22/2021,47
+Ventura,1/22/2021,3586
+Yolo,1/22/2021,742
+Yuba,1/22/2021,102
+Alameda,1/21/2021,7606
+Alpine,1/21/2021,1
+Amador,1/21/2021,251
+Butte,1/21/2021,1472
+Calaveras,1/21/2021,458
+Colusa,1/21/2021,57
+Contra Costa,1/21/2021,6911
+Del Norte,1/21/2021,43
+El Dorado,1/21/2021,1135
+Fresno,1/21/2021,4313
+Glenn,1/21/2021,123
+Humboldt,1/21/2021,957
+Imperial,1/21/2021,416
+Inyo,1/21/2021,120
+Kern,1/21/2021,2144
+Kings,1/21/2021,185
+Lake,1/21/2021,303
+Lassen,1/21/2021,145
+Los Angeles,1/21/2021,48148
+Madera,1/21/2021,229
+Marin,1/21/2021,1677
+Mariposa,1/21/2021,56
+Mendocino,1/21/2021,524
+Merced,1/21/2021,1007
+Modoc,1/21/2021,158
+Mono,1/21/2021,3
+Monterey,1/21/2021,834
+Napa,1/21/2021,1329
+Nevada,1/21/2021,334
+Orange,1/21/2021,10739
+Outside California,1/21/2021,4365
+Placer,1/21/2021,2517
+Plumas,1/21/2021,112
+Riverside,1/21/2021,8115
+Sacramento,1/21/2021,5101
+San Benito,1/21/2021,123
+San Bernardino,1/21/2021,5973
+San Diego,1/21/2021,17333
+San Francisco,1/21/2021,3257
+San Joaquin,1/21/2021,1868
+San Luis Obispo,1/21/2021,1567
+San Mateo,1/21/2021,2786
+Santa Barbara,1/21/2021,3077
+Santa Clara,1/21/2021,8420
+Santa Cruz,1/21/2021,1695
+Shasta,1/21/2021,629
+Sierra,1/21/2021,55
+Siskiyou,1/21/2021,42
+Solano,1/21/2021,2304
+Sonoma,1/21/2021,2193
+Stanislaus,1/21/2021,3592
+Sutter,1/21/2021,431
+Tehama,1/21/2021,215
+Trinity,1/21/2021,14
+Tulare,1/21/2021,1503
+Tuolumne,1/21/2021,58
+Unknown,1/21/2021,65
+Ventura,1/21/2021,3822
+Yolo,1/21/2021,634
+Yuba,1/21/2021,210
+Alameda,1/20/2021,6565
+Alpine,1/20/2021,19
+Amador,1/20/2021,182
+Butte,1/20/2021,1342
+Calaveras,1/20/2021,372
+Colusa,1/20/2021,114
+Contra Costa,1/20/2021,6532
+Del Norte,1/20/2021,157
+El Dorado,1/20/2021,1004
+Fresno,1/20/2021,2965
+Glenn,1/20/2021,162
+Humboldt,1/20/2021,810
+Imperial,1/20/2021,289
+Inyo,1/20/2021,141
+Kern,1/20/2021,2434
+Kings,1/20/2021,223
+Lake,1/20/2021,374
+Lassen,1/20/2021,184
+Los Angeles,1/20/2021,45156
+Madera,1/20/2021,232
+Marin,1/20/2021,1769
+Mariposa,1/20/2021,22
+Mendocino,1/20/2021,548
+Merced,1/20/2021,571
+Modoc,1/20/2021,11
+Mono,1/20/2021,233
+Monterey,1/20/2021,511
+Napa,1/20/2021,818
+Nevada,1/20/2021,258
+Orange,1/20/2021,8155
+Outside California,1/20/2021,4578
+Placer,1/20/2021,2225
+Plumas,1/20/2021,121
+Riverside,1/20/2021,7946
+Sacramento,1/20/2021,4715
+San Benito,1/20/2021,262
+San Bernardino,1/20/2021,6781
+San Diego,1/20/2021,18107
+San Francisco,1/20/2021,2657
+San Joaquin,1/20/2021,2020
+San Luis Obispo,1/20/2021,1881
+San Mateo,1/20/2021,2615
+Santa Barbara,1/20/2021,1979
+Santa Clara,1/20/2021,7850
+Santa Cruz,1/20/2021,1224
+Shasta,1/20/2021,665
+Sierra,1/20/2021,1
+Siskiyou,1/20/2021,45
+Solano,1/20/2021,1895
+Sonoma,1/20/2021,2048
+Stanislaus,1/20/2021,987
+Sutter,1/20/2021,255
+Tehama,1/20/2021,302
+Trinity,1/20/2021,18
+Tulare,1/20/2021,2363
+Tuolumne,1/20/2021,74
+Unknown,1/20/2021,80
+Ventura,1/20/2021,4037
+Yolo,1/20/2021,645
+Yuba,1/20/2021,131
+Alameda,1/19/2021,5475
+Amador,1/19/2021,120
+Butte,1/19/2021,485
+Calaveras,1/19/2021,199
+Clark,1/19/2021,1
+Colusa,1/19/2021,8
+Contra Costa,1/19/2021,6994
+Del Norte,1/19/2021,119
+El Dorado,1/19/2021,629
+Fresno,1/19/2021,4262
+Glenn,1/19/2021,28
+Humboldt,1/19/2021,606
+Imperial,1/19/2021,168
+Inyo,1/19/2021,115
+Kern,1/19/2021,1828
+Kings,1/19/2021,376
+Lake,1/19/2021,267
+Lassen,1/19/2021,187
+Los Angeles,1/19/2021,37898
+Madera,1/19/2021,551
+Marin,1/19/2021,1142
+Mariposa,1/19/2021,1
+Mendocino,1/19/2021,327
+Merced,1/19/2021,713
+Modoc,1/19/2021,5
+Mono,1/19/2021,206
+Monterey,1/19/2021,569
+Napa,1/19/2021,999
+Nevada,1/19/2021,230
+Orange,1/19/2021,7372
+Outside California,1/19/2021,4177
+Placer,1/19/2021,2536
+Plumas,1/19/2021,36
+Riverside,1/19/2021,7353
+Sacramento,1/19/2021,4555
+San Benito,1/19/2021,147
+San Bernardino,1/19/2021,6235
+San Diego,1/19/2021,14817
+San Francisco,1/19/2021,2542
+San Joaquin,1/19/2021,1801
+San Luis Obispo,1/19/2021,1582
+San Mateo,1/19/2021,2756
+Santa Barbara,1/19/2021,1630
+Santa Clara,1/19/2021,8318
+Santa Cruz,1/19/2021,1616
+Shasta,1/19/2021,1014
+Sierra,1/19/2021,33
+Siskiyou,1/19/2021,21
+Solano,1/19/2021,1618
+Sonoma,1/19/2021,2079
+Stanislaus,1/19/2021,1231
+Sutter,1/19/2021,100
+Tehama,1/19/2021,289
+Trinity,1/19/2021,31
+Tulare,1/19/2021,1003
+Tuolumne,1/19/2021,469
+Unknown,1/19/2021,26
+Ventura,1/19/2021,3001
+Yolo,1/19/2021,535
+Yuba,1/19/2021,79
+Alameda,1/18/2021,3224
+Amador,1/18/2021,31
+Butte,1/18/2021,342
+Calaveras,1/18/2021,131
+Colusa,1/18/2021,4
+Contra Costa,1/18/2021,3192
+Del Norte,1/18/2021,2
+El Dorado,1/18/2021,415
+Fresno,1/18/2021,3066
+Glenn,1/18/2021,17
+Humboldt,1/18/2021,267
+Imperial,1/18/2021,1053
+Inyo,1/18/2021,58
+Kern,1/18/2021,1637
+Kings,1/18/2021,170
+Lake,1/18/2021,240
+Lassen,1/18/2021,5
+Los Angeles,1/18/2021,15235
+Madera,1/18/2021,73
+Marin,1/18/2021,359
+Mariposa,1/18/2021,2
+Mendocino,1/18/2021,482
+Merced,1/18/2021,262
+Modoc,1/18/2021,1
+Mono,1/18/2021,63
+Monterey,1/18/2021,396
+Napa,1/18/2021,1072
+Nevada,1/18/2021,148
+Orange,1/18/2021,9708
+Outside California,1/18/2021,1270
+Placer,1/18/2021,974
+Plumas,1/18/2021,2
+Riverside,1/18/2021,3687
+Sacramento,1/18/2021,2840
+San Benito,1/18/2021,38
+San Bernardino,1/18/2021,4245
+San Diego,1/18/2021,12355
+San Francisco,1/18/2021,1381
+San Joaquin,1/18/2021,673
+San Luis Obispo,1/18/2021,1370
+San Mateo,1/18/2021,1392
+Santa Barbara,1/18/2021,1150
+Santa Clara,1/18/2021,5198
+Santa Cruz,1/18/2021,1026
+Shasta,1/18/2021,597
+Sierra,1/18/2021,2
+Siskiyou,1/18/2021,75
+Solano,1/18/2021,1405
+Sonoma,1/18/2021,1092
+Stanislaus,1/18/2021,2146
+Sutter,1/18/2021,116
+Tehama,1/18/2021,10
+Trinity,1/18/2021,31
+Tulare,1/18/2021,695
+Tuolumne,1/18/2021,46
+Unknown,1/18/2021,58
+Ventura,1/18/2021,2201
+Yolo,1/18/2021,476
+Yuba,1/18/2021,60
+Alameda,1/17/2021,1863
+Amador,1/17/2021,22
+Butte,1/17/2021,239
+Calaveras,1/17/2021,10
+Colusa,1/17/2021,3
+Contra Costa,1/17/2021,1639
+Del Norte,1/17/2021,1
+El Dorado,1/17/2021,96
+Fresno,1/17/2021,968
+Glenn,1/17/2021,4
+Humboldt,1/17/2021,4
+Imperial,1/17/2021,10
+Kern,1/17/2021,69
+Kings,1/17/2021,8
+Lake,1/17/2021,14
+Lassen,1/17/2021,1
+Los Angeles,1/17/2021,5131
+Madera,1/17/2021,325
+Marin,1/17/2021,1233
+Mariposa,1/17/2021,2
+Mendocino,1/17/2021,552
+Merced,1/17/2021,48
+Monterey,1/17/2021,313
+Napa,1/17/2021,337
+Nevada,1/17/2021,36
+Orange,1/17/2021,8114
+Outside California,1/17/2021,543
+Placer,1/17/2021,557
+Riverside,1/17/2021,3599
+Sacramento,1/17/2021,1620
+San Benito,1/17/2021,10
+San Bernardino,1/17/2021,1180
+San Diego,1/17/2021,8488
+San Francisco,1/17/2021,1914
+San Joaquin,1/17/2021,1591
+San Luis Obispo,1/17/2021,65
+San Mateo,1/17/2021,1301
+Santa Barbara,1/17/2021,124
+Santa Clara,1/17/2021,3214
+Santa Cruz,1/17/2021,284
+Shasta,1/17/2021,26
+Solano,1/17/2021,984
+Sonoma,1/17/2021,662
+Stanislaus,1/17/2021,246
+Sutter,1/17/2021,25
+Tehama,1/17/2021,13
+Tulare,1/17/2021,139
+Tuolumne,1/17/2021,4
+Unknown,1/17/2021,3
+Ventura,1/17/2021,261
+Yolo,1/17/2021,184
+Yuba,1/17/2021,13
+Alameda,1/16/2021,3105
+Amador,1/16/2021,18
+Butte,1/16/2021,583
+Calaveras,1/16/2021,13
+Colusa,1/16/2021,12
+Contra Costa,1/16/2021,1698
+El Dorado,1/16/2021,171
+Fresno,1/16/2021,3129
+Glenn,1/16/2021,34
+Humboldt,1/16/2021,167
+Imperial,1/16/2021,77
+Inyo,1/16/2021,74
+Kern,1/16/2021,657
+Kings,1/16/2021,31
+Lake,1/16/2021,131
+Lassen,1/16/2021,34
+Los Angeles,1/16/2021,17059
+Madera,1/16/2021,374
+Marin,1/16/2021,1103
+Mariposa,1/16/2021,12
+Mendocino,1/16/2021,776
+Merced,1/16/2021,200
+Modoc,1/16/2021,1
+Mono,1/16/2021,4
+Monterey,1/16/2021,365
+Napa,1/16/2021,351
+Nevada,1/16/2021,292
+Orange,1/16/2021,8594
+Outside California,1/16/2021,2669
+Placer,1/16/2021,1468
+Plumas,1/16/2021,58
+Riverside,1/16/2021,3595
+Sacramento,1/16/2021,2082
+San Benito,1/16/2021,28
+San Bernardino,1/16/2021,2247
+San Diego,1/16/2021,10673
+San Francisco,1/16/2021,2260
+San Joaquin,1/16/2021,1129
+San Luis Obispo,1/16/2021,99
+San Mateo,1/16/2021,3112
+Santa Barbara,1/16/2021,1267
+Santa Clara,1/16/2021,4402
+Santa Cruz,1/16/2021,433
+Shasta,1/16/2021,900
+Siskiyou,1/16/2021,7
+Solano,1/16/2021,1253
+Sonoma,1/16/2021,1070
+Stanislaus,1/16/2021,466
+Sutter,1/16/2021,390
+Tehama,1/16/2021,274
+Trinity,1/16/2021,4
+Tulare,1/16/2021,1868
+Tuolumne,1/16/2021,6
+Unknown,1/16/2021,7
+Ventura,1/16/2021,484
+Yolo,1/16/2021,737
+Yuba,1/16/2021,184
+Alameda,1/15/2021,5768
+Alpine,1/15/2021,1
+Amador,1/15/2021,56
+Butte,1/15/2021,1167
+Calaveras,1/15/2021,113
+Colusa,1/15/2021,43
+Contra Costa,1/15/2021,5283
+Del Norte,1/15/2021,107
+El Dorado,1/15/2021,661
+Fresno,1/15/2021,3586
+Glenn,1/15/2021,41
+Humboldt,1/15/2021,371
+Imperial,1/15/2021,240
+Inyo,1/15/2021,162
+Kern,1/15/2021,2623
+Kings,1/15/2021,412
+Lake,1/15/2021,209
+Lassen,1/15/2021,33
+Los Angeles,1/15/2021,33346
+Madera,1/15/2021,594
+Marin,1/15/2021,1141
+Mariposa,1/15/2021,40
+Mendocino,1/15/2021,1849
+Merced,1/15/2021,562
+Modoc,1/15/2021,6
+Mono,1/15/2021,60
+Monterey,1/15/2021,1027
+Napa,1/15/2021,1431
+Nevada,1/15/2021,392
+Orange,1/15/2021,9992
+Outside California,1/15/2021,4476
+Placer,1/15/2021,1897
+Plumas,1/15/2021,62
+Riverside,1/15/2021,6127
+Sacramento,1/15/2021,4360
+San Benito,1/15/2021,211
+San Bernardino,1/15/2021,5908
+San Diego,1/15/2021,14869
+San Francisco,1/15/2021,2732
+San Joaquin,1/15/2021,1426
+San Luis Obispo,1/15/2021,733
+San Mateo,1/15/2021,4332
+Santa Barbara,1/15/2021,1790
+Santa Clara,1/15/2021,9471
+Santa Cruz,1/15/2021,1462
+Shasta,1/15/2021,634
+Sierra,1/15/2021,2
+Siskiyou,1/15/2021,35
+Solano,1/15/2021,1641
+Sonoma,1/15/2021,1549
+Stanislaus,1/15/2021,2769
+Sutter,1/15/2021,432
+Tehama,1/15/2021,248
+Tulare,1/15/2021,1597
+Tuolumne,1/15/2021,472
+Unknown,1/15/2021,4
+Ventura,1/15/2021,2857
+Yolo,1/15/2021,617
+Yuba,1/15/2021,200
+Alameda,1/14/2021,5544
+Alpine,1/14/2021,1
+Amador,1/14/2021,146
+Butte,1/14/2021,1637
+Calaveras,1/14/2021,135
+Colusa,1/14/2021,35
+Contra Costa,1/14/2021,4250
+Del Norte,1/14/2021,52
+El Dorado,1/14/2021,669
+Fresno,1/14/2021,4115
+Glenn,1/14/2021,183
+Humboldt,1/14/2021,514
+Imperial,1/14/2021,260
+Inyo,1/14/2021,58
+Kern,1/14/2021,2173
+Kings,1/14/2021,206
+Lake,1/14/2021,118
+Lassen,1/14/2021,161
+Los Angeles,1/14/2021,28914
+Madera,1/14/2021,555
+Marin,1/14/2021,1064
+Mariposa,1/14/2021,56
+Mendocino,1/14/2021,626
+Merced,1/14/2021,330
+Modoc,1/14/2021,129
+Mono,1/14/2021,74
+Monterey,1/14/2021,1039
+Napa,1/14/2021,1043
+Nevada,1/14/2021,228
+Orange,1/14/2021,9799
+Outside California,1/14/2021,3835
+Placer,1/14/2021,1726
+Plumas,1/14/2021,96
+Riverside,1/14/2021,5410
+Sacramento,1/14/2021,4527
+San Benito,1/14/2021,116
+San Bernardino,1/14/2021,4715
+San Diego,1/14/2021,12201
+San Francisco,1/14/2021,2381
+San Joaquin,1/14/2021,1467
+San Luis Obispo,1/14/2021,728
+San Mateo,1/14/2021,3723
+Santa Barbara,1/14/2021,1239
+Santa Clara,1/14/2021,8049
+Santa Cruz,1/14/2021,539
+Shasta,1/14/2021,442
+Sierra,1/14/2021,35
+Siskiyou,1/14/2021,26
+Solano,1/14/2021,1703
+Sonoma,1/14/2021,1514
+Stanislaus,1/14/2021,2194
+Sutter,1/14/2021,145
+Tehama,1/14/2021,226
+Trinity,1/14/2021,3
+Tulare,1/14/2021,491
+Tuolumne,1/14/2021,126
+Unknown,1/14/2021,6
+Ventura,1/14/2021,2714
+Yolo,1/14/2021,376
+Yuba,1/14/2021,109
+Alameda,1/13/2021,4975
+Alpine,1/13/2021,32
+Amador,1/13/2021,39
+Butte,1/13/2021,1443
+Calaveras,1/13/2021,106
+Colusa,1/13/2021,21
+Contra Costa,1/13/2021,4635
+Del Norte,1/13/2021,84
+El Dorado,1/13/2021,690
+Fresno,1/13/2021,3505
+Glenn,1/13/2021,153
+Humboldt,1/13/2021,473
+Imperial,1/13/2021,379
+Inyo,1/13/2021,87
+Kern,1/13/2021,1834
+Kings,1/13/2021,413
+Lake,1/13/2021,125
+Lassen,1/13/2021,162
+Los Angeles,1/13/2021,28968
+Madera,1/13/2021,179
+Marin,1/13/2021,1172
+Mariposa,1/13/2021,16
+Mendocino,1/13/2021,478
+Merced,1/13/2021,371
+Modoc,1/13/2021,24
+Mono,1/13/2021,234
+Monterey,1/13/2021,1218
+Napa,1/13/2021,1266
+Nevada,1/13/2021,259
+Orange,1/13/2021,10073
+Outside California,1/13/2021,3796
+Placer,1/13/2021,1616
+Plumas,1/13/2021,54
+Riverside,1/13/2021,4356
+Sacramento,1/13/2021,3731
+San Benito,1/13/2021,186
+San Bernardino,1/13/2021,4533
+San Diego,1/13/2021,11394
+San Francisco,1/13/2021,2792
+San Joaquin,1/13/2021,1360
+San Luis Obispo,1/13/2021,882
+San Mateo,1/13/2021,3403
+Santa Barbara,1/13/2021,1227
+Santa Clara,1/13/2021,7275
+Santa Cruz,1/13/2021,517
+Shasta,1/13/2021,541
+Sierra,1/13/2021,4
+Siskiyou,1/13/2021,157
+Solano,1/13/2021,1397
+Sonoma,1/13/2021,2055
+Stanislaus,1/13/2021,1409
+Sutter,1/13/2021,156
+Tehama,1/13/2021,72
+Trinity,1/13/2021,7
+Tulare,1/13/2021,449
+Tuolumne,1/13/2021,230
+Unknown,1/13/2021,11
+Ventura,1/13/2021,2922
+Yolo,1/13/2021,760
+Yuba,1/13/2021,119
+Alameda,1/12/2021,4724
+Amador,1/12/2021,62
+Butte,1/12/2021,695
+Calaveras,1/12/2021,86
+Colusa,1/12/2021,11
+Contra Costa,1/12/2021,3883
+Del Norte,1/12/2021,50
+El Dorado,1/12/2021,684
+Fresno,1/12/2021,2494
+Glenn,1/12/2021,42
+Humboldt,1/12/2021,476
+Imperial,1/12/2021,404
+Inyo,1/12/2021,139
+Kern,1/12/2021,1869
+Kings,1/12/2021,352
+Lake,1/12/2021,70
+Lassen,1/12/2021,50
+Los Angeles,1/12/2021,28862
+Madera,1/12/2021,391
+Marin,1/12/2021,936
+Mariposa,1/12/2021,15
+Mendocino,1/12/2021,385
+Merced,1/12/2021,276
+Modoc,1/12/2021,94
+Mono,1/12/2021,284
+Monterey,1/12/2021,458
+Napa,1/12/2021,1265
+Nevada,1/12/2021,605
+Orange,1/12/2021,8660
+Outside California,1/12/2021,4030
+Placer,1/12/2021,1630
+Plumas,1/12/2021,154
+Riverside,1/12/2021,3372
+Sacramento,1/12/2021,4377
+San Benito,1/12/2021,153
+San Bernardino,1/12/2021,4212
+San Diego,1/12/2021,11057
+San Francisco,1/12/2021,3072
+San Joaquin,1/12/2021,1394
+San Luis Obispo,1/12/2021,598
+San Mateo,1/12/2021,3241
+Santa Barbara,1/12/2021,1426
+Santa Clara,1/12/2021,6591
+Santa Cruz,1/12/2021,733
+Shasta,1/12/2021,451
+Sierra,1/12/2021,40
+Siskiyou,1/12/2021,320
+Solano,1/12/2021,1522
+Sonoma,1/12/2021,1547
+Stanislaus,1/12/2021,1444
+Sutter,1/12/2021,201
+Tehama,1/12/2021,115
+Trinity,1/12/2021,8
+Tulare,1/12/2021,1388
+Tuolumne,1/12/2021,98
+Unknown,1/12/2021,11
+Ventura,1/12/2021,3022
+Yolo,1/12/2021,474
+Yuba,1/12/2021,107
+Alameda,1/11/2021,4439
+Alpine,1/11/2021,30
+Amador,1/11/2021,124
+Butte,1/11/2021,987
+Calaveras,1/11/2021,62
+Colusa,1/11/2021,12
+Contra Costa,1/11/2021,3790
+Del Norte,1/11/2021,40
+El Dorado,1/11/2021,648
+Fresno,1/11/2021,2127
+Glenn,1/11/2021,30
+Humboldt,1/11/2021,285
+Imperial,1/11/2021,401
+Inyo,1/11/2021,97
+Kern,1/11/2021,1548
+Kings,1/11/2021,515
+Lake,1/11/2021,138
+Lassen,1/11/2021,27
+Los Angeles,1/11/2021,25552
+Madera,1/11/2021,224
+Marin,1/11/2021,460
+Mariposa,1/11/2021,23
+Mendocino,1/11/2021,99
+Merced,1/11/2021,225
+Modoc,1/11/2021,92
+Mono,1/11/2021,7
+Monterey,1/11/2021,1057
+Napa,1/11/2021,804
+Nevada,1/11/2021,183
+Orange,1/11/2021,9311
+Outside California,1/11/2021,3557
+Placer,1/11/2021,1422
+Plumas,1/11/2021,59
+Riverside,1/11/2021,4480
+Sacramento,1/11/2021,4299
+San Benito,1/11/2021,96
+San Bernardino,1/11/2021,4976
+San Diego,1/11/2021,10159
+San Francisco,1/11/2021,2455
+San Joaquin,1/11/2021,1461
+San Luis Obispo,1/11/2021,526
+San Mateo,1/11/2021,2396
+Santa Barbara,1/11/2021,839
+Santa Clara,1/11/2021,5550
+Santa Cruz,1/11/2021,712
+Shasta,1/11/2021,352
+Sierra,1/11/2021,3
+Siskiyou,1/11/2021,226
+Solano,1/11/2021,1314
+Sonoma,1/11/2021,1379
+Stanislaus,1/11/2021,1504
+Sutter,1/11/2021,133
+Tehama,1/11/2021,47
+Trinity,1/11/2021,40
+Tulare,1/11/2021,1201
+Tuolumne,1/11/2021,115
+Unknown,1/11/2021,19
+Ventura,1/11/2021,2443
+Yolo,1/11/2021,560
+Yuba,1/11/2021,72
+Alameda,1/10/2021,1024
+Amador,1/10/2021,7
+Butte,1/10/2021,19
+Calaveras,1/10/2021,2
+Colusa,1/10/2021,1
+Contra Costa,1/10/2021,351
+El Dorado,1/10/2021,180
+Fresno,1/10/2021,511
+Glenn,1/10/2021,1
+Humboldt,1/10/2021,84
+Imperial,1/10/2021,1
+Inyo,1/10/2021,53
+Kern,1/10/2021,190
+Kings,1/10/2021,15
+Lake,1/10/2021,3
+Los Angeles,1/10/2021,4601
+Madera,1/10/2021,17
+Marin,1/10/2021,123
+Mendocino,1/10/2021,8
+Merced,1/10/2021,10
+Modoc,1/10/2021,1
+Mono,1/10/2021,4
+Monterey,1/10/2021,271
+Napa,1/10/2021,167
+Nevada,1/10/2021,17
+Orange,1/10/2021,4176
+Outside California,1/10/2021,326
+Placer,1/10/2021,326
+Riverside,1/10/2021,1656
+Sacramento,1/10/2021,1239
+San Benito,1/10/2021,15
+San Bernardino,1/10/2021,1006
+San Diego,1/10/2021,1842
+San Francisco,1/10/2021,911
+San Joaquin,1/10/2021,215
+San Luis Obispo,1/10/2021,10
+San Mateo,1/10/2021,649
+Santa Barbara,1/10/2021,63
+Santa Clara,1/10/2021,1825
+Santa Cruz,1/10/2021,72
+Shasta,1/10/2021,5
+Solano,1/10/2021,249
+Sonoma,1/10/2021,465
+Stanislaus,1/10/2021,45
+Sutter,1/10/2021,402
+Tehama,1/10/2021,1
+Tulare,1/10/2021,49
+Tuolumne,1/10/2021,3
+Unknown,1/10/2021,1
+Ventura,1/10/2021,335
+Yolo,1/10/2021,390
+Yuba,1/10/2021,116
+Alameda,1/9/2021,2018
+Alpine,1/9/2021,2
+Amador,1/9/2021,11
+Butte,1/9/2021,11
+Calaveras,1/9/2021,6
+Colusa,1/9/2021,3
+Contra Costa,1/9/2021,1570
+El Dorado,1/9/2021,190
+Fresno,1/9/2021,624
+Humboldt,1/9/2021,69
+Imperial,1/9/2021,24
+Inyo,1/9/2021,87
+Kern,1/9/2021,226
+Kings,1/9/2021,63
+Lake,1/9/2021,62
+Lassen,1/9/2021,12
+Los Angeles,1/9/2021,12278
+Madera,1/9/2021,36
+Marin,1/9/2021,612
+Mariposa,1/9/2021,1
+Mendocino,1/9/2021,8
+Merced,1/9/2021,24
+Mono,1/9/2021,4
+Monterey,1/9/2021,962
+Napa,1/9/2021,263
+Nevada,1/9/2021,63
+Orange,1/9/2021,4954
+Outside California,1/9/2021,1401
+Placer,1/9/2021,443
+Plumas,1/9/2021,2
+Riverside,1/9/2021,2060
+Sacramento,1/9/2021,1282
+San Benito,1/9/2021,43
+San Bernardino,1/9/2021,1391
+San Diego,1/9/2021,2926
+San Francisco,1/9/2021,1392
+San Joaquin,1/9/2021,369
+San Luis Obispo,1/9/2021,206
+San Mateo,1/9/2021,1174
+Santa Barbara,1/9/2021,567
+Santa Clara,1/9/2021,2916
+Santa Cruz,1/9/2021,460
+Shasta,1/9/2021,72
+Siskiyou,1/9/2021,2
+Solano,1/9/2021,880
+Sonoma,1/9/2021,651
+Stanislaus,1/9/2021,288
+Sutter,1/9/2021,44
+Tehama,1/9/2021,7
+Tulare,1/9/2021,738
+Tuolumne,1/9/2021,1
+Unknown,1/9/2021,4
+Ventura,1/9/2021,722
+Yolo,1/9/2021,403
+Yuba,1/9/2021,19
+Alameda,1/8/2021,4703
+Alpine,1/8/2021,4
+Amador,1/8/2021,84
+Butte,1/8/2021,570
+Calaveras,1/8/2021,66
+Colusa,1/8/2021,9
+Contra Costa,1/8/2021,3345
+Del Norte,1/8/2021,77
+El Dorado,1/8/2021,965
+Fresno,1/8/2021,1762
+Glenn,1/8/2021,11
+Humboldt,1/8/2021,415
+Imperial,1/8/2021,190
+Inyo,1/8/2021,9
+Kern,1/8/2021,1625
+Kings,1/8/2021,246
+Lake,1/8/2021,139
+Lassen,1/8/2021,50
+Los Angeles,1/8/2021,32832
+Madera,1/8/2021,411
+Marin,1/8/2021,964
+Mariposa,1/8/2021,106
+Mendocino,1/8/2021,94
+Merced,1/8/2021,533
+Modoc,1/8/2021,105
+Mono,1/8/2021,2
+Monterey,1/8/2021,1087
+Napa,1/8/2021,412
+Nevada,1/8/2021,220
+Orange,1/8/2021,9307
+Outside California,1/8/2021,4630
+Placer,1/8/2021,1179
+Plumas,1/8/2021,12
+Riverside,1/8/2021,4012
+Sacramento,1/8/2021,3270
+San Benito,1/8/2021,128
+San Bernardino,1/8/2021,5342
+San Diego,1/8/2021,7705
+San Francisco,1/8/2021,2306
+San Joaquin,1/8/2021,1171
+San Luis Obispo,1/8/2021,880
+San Mateo,1/8/2021,1791
+Santa Barbara,1/8/2021,1200
+Santa Clara,1/8/2021,5782
+Santa Cruz,1/8/2021,931
+Shasta,1/8/2021,506
+Sierra,1/8/2021,1
+Siskiyou,1/8/2021,42
+Solano,1/8/2021,1124
+Sonoma,1/8/2021,1778
+Stanislaus,1/8/2021,1265
+Sutter,1/8/2021,145
+Tehama,1/8/2021,30
+Trinity,1/8/2021,49
+Tulare,1/8/2021,1264
+Tuolumne,1/8/2021,100
+Ventura,1/8/2021,2192
+Yolo,1/8/2021,626
+Yuba,1/8/2021,72
+Alameda,1/7/2021,3705
+Alpine,1/7/2021,8
+Amador,1/7/2021,223
+Butte,1/7/2021,760
+Calaveras,1/7/2021,106
+Colusa,1/7/2021,37
+Contra Costa,1/7/2021,3073
+Del Norte,1/7/2021,21
+El Dorado,1/7/2021,326
+Fresno,1/7/2021,1867
+Glenn,1/7/2021,66
+Humboldt,1/7/2021,382
+Imperial,1/7/2021,318
+Inyo,1/7/2021,31
+Kern,1/7/2021,1402
+Kings,1/7/2021,179
+Lake,1/7/2021,60
+Lassen,1/7/2021,43
+Los Angeles,1/7/2021,29183
+Madera,1/7/2021,337
+Marin,1/7/2021,889
+Mariposa,1/7/2021,49
+Mendocino,1/7/2021,355
+Merced,1/7/2021,188
+Modoc,1/7/2021,72
+Mono,1/7/2021,55
+Monterey,1/7/2021,735
+Napa,1/7/2021,484
+Nevada,1/7/2021,216
+Orange,1/7/2021,9152
+Outside California,1/7/2021,4189
+Placer,1/7/2021,975
+Plumas,1/7/2021,55
+Riverside,1/7/2021,2735
+Sacramento,1/7/2021,2815
+San Benito,1/7/2021,77
+San Bernardino,1/7/2021,5353
+San Diego,1/7/2021,5572
+San Francisco,1/7/2021,2039
+San Joaquin,1/7/2021,1041
+San Luis Obispo,1/7/2021,1127
+San Mateo,1/7/2021,1385
+Santa Barbara,1/7/2021,1026
+Santa Clara,1/7/2021,4065
+Santa Cruz,1/7/2021,529
+Shasta,1/7/2021,116
+Sierra,1/7/2021,20
+Siskiyou,1/7/2021,174
+Solano,1/7/2021,1039
+Sonoma,1/7/2021,1009
+Stanislaus,1/7/2021,1037
+Sutter,1/7/2021,249
+Tehama,1/7/2021,57
+Tulare,1/7/2021,779
+Tuolumne,1/7/2021,118
+Unknown,1/7/2021,70
+Ventura,1/7/2021,2060
+Yolo,1/7/2021,705
+Yuba,1/7/2021,75
+Alameda,1/6/2021,3222
+Alpine,1/6/2021,31
+Amador,1/6/2021,38
+Butte,1/6/2021,622
+Calaveras,1/6/2021,107
+Colusa,1/6/2021,15
+Contra Costa,1/6/2021,3252
+Del Norte,1/6/2021,78
+El Dorado,1/6/2021,259
+Fresno,1/6/2021,958
+Glenn,1/6/2021,61
+Humboldt,1/6/2021,295
+Imperial,1/6/2021,190
+Inyo,1/6/2021,69
+Kern,1/6/2021,1163
+Kings,1/6/2021,274
+Lake,1/6/2021,77
+Lassen,1/6/2021,94
+Los Angeles,1/6/2021,22233
+Madera,1/6/2021,184
+Maricopa,1/6/2021,1
+Marin,1/6/2021,820
+Mariposa,1/6/2021,5
+Mendocino,1/6/2021,148
+Merced,1/6/2021,247
+Modoc,1/6/2021,3
+Mono,1/6/2021,44
+Monterey,1/6/2021,652
+Napa,1/6/2021,455
+Nevada,1/6/2021,93
+Orange,1/6/2021,4931
+Outside California,1/6/2021,2744
+Placer,1/6/2021,753
+Plumas,1/6/2021,125
+Riverside,1/6/2021,2458
+Sacramento,1/6/2021,2717
+San Benito,1/6/2021,94
+San Bernardino,1/6/2021,3410
+San Diego,1/6/2021,4917
+San Francisco,1/6/2021,1867
+San Joaquin,1/6/2021,1193
+San Luis Obispo,1/6/2021,725
+San Mateo,1/6/2021,1417
+Santa Barbara,1/6/2021,654
+Santa Clara,1/6/2021,3245
+Santa Cruz,1/6/2021,804
+Shasta,1/6/2021,438
+Sierra,1/6/2021,1
+Siskiyou,1/6/2021,59
+Solano,1/6/2021,814
+Sonoma,1/6/2021,944
+Stanislaus,1/6/2021,942
+Sutter,1/6/2021,206
+Tehama,1/6/2021,70
+Trinity,1/6/2021,23
+Tulare,1/6/2021,862
+Tuolumne,1/6/2021,108
+Unknown,1/6/2021,6
+Ventura,1/6/2021,2045
+Yolo,1/6/2021,474
+Yuba,1/6/2021,150
+Alameda,1/5/2021,2175
+Alpine,1/5/2021,9
+Amador,1/5/2021,33
+Butte,1/5/2021,194
+Calaveras,1/5/2021,39
+Colusa,1/5/2021,68
+Contra Costa,1/5/2021,2089
+Del Norte,1/5/2021,33
+El Dorado,1/5/2021,200
+Fresno,1/5/2021,769
+Glenn,1/5/2021,9
+Humboldt,1/5/2021,125
+Imperial,1/5/2021,172
+Inyo,1/5/2021,34
+Kern,1/5/2021,1123
+Kings,1/5/2021,197
+Lake,1/5/2021,62
+Lassen,1/5/2021,194
+Los Angeles,1/5/2021,15880
+Madera,1/5/2021,273
+Marin,1/5/2021,363
+Mariposa,1/5/2021,23
+Mendocino,1/5/2021,71
+Merced,1/5/2021,315
+Modoc,1/5/2021,3
+Mono,1/5/2021,45
+Monterey,1/5/2021,748
+Napa,1/5/2021,150
+Nevada,1/5/2021,271
+Orange,1/5/2021,3470
+Outside California,1/5/2021,1563
+Placer,1/5/2021,709
+Plumas,1/5/2021,23
+Riverside,1/5/2021,1976
+Sacramento,1/5/2021,2190
+San Benito,1/5/2021,118
+San Bernardino,1/5/2021,2327
+San Diego,1/5/2021,4292
+San Francisco,1/5/2021,2223
+San Joaquin,1/5/2021,938
+San Luis Obispo,1/5/2021,978
+San Mateo,1/5/2021,1172
+Santa Barbara,1/5/2021,748
+Santa Clara,1/5/2021,3017
+Santa Cruz,1/5/2021,565
+Shasta,1/5/2021,335
+Sierra,1/5/2021,67
+Siskiyou,1/5/2021,117
+Solano,1/5/2021,690
+Sonoma,1/5/2021,436
+Stanislaus,1/5/2021,820
+Sutter,1/5/2021,99
+Tehama,1/5/2021,71
+Trinity,1/5/2021,2
+Tulare,1/5/2021,462
+Tuolumne,1/5/2021,91
+Unknown,1/5/2021,6
+Ventura,1/5/2021,1365
+Yolo,1/5/2021,610
+Yuba,1/5/2021,67
+Alameda,1/4/2021,1630
+Alpine,1/4/2021,10
+Amador,1/4/2021,123
+Butte,1/4/2021,206
+Calaveras,1/4/2021,33
+Colusa,1/4/2021,4
+Contra Costa,1/4/2021,1900
+Del Norte,1/4/2021,102
+El Dorado,1/4/2021,190
+Fresno,1/4/2021,618
+Glenn,1/4/2021,7
+Humboldt,1/4/2021,214
+Imperial,1/4/2021,84
+Inyo,1/4/2021,1
+Kern,1/4/2021,554
+Kings,1/4/2021,112
+Lake,1/4/2021,15
+Lassen,1/4/2021,15
+Los Angeles,1/4/2021,12570
+Madera,1/4/2021,128
+Marin,1/4/2021,284
+Mariposa,1/4/2021,8
+Mendocino,1/4/2021,834
+Merced,1/4/2021,77
+Modoc,1/4/2021,8
+Mono,1/4/2021,1
+Monterey,1/4/2021,411
+Napa,1/4/2021,104
+Nevada,1/4/2021,71
+Orange,1/4/2021,2665
+Outside California,1/4/2021,1174
+Placer,1/4/2021,614
+Plumas,1/4/2021,9
+Riverside,1/4/2021,1249
+Sacramento,1/4/2021,1958
+San Benito,1/4/2021,62
+San Bernardino,1/4/2021,2107
+San Diego,1/4/2021,3720
+San Francisco,1/4/2021,1827
+San Joaquin,1/4/2021,464
+San Luis Obispo,1/4/2021,674
+San Mateo,1/4/2021,1040
+Santa Barbara,1/4/2021,303
+Santa Clara,1/4/2021,2453
+Santa Cruz,1/4/2021,279
+Shasta,1/4/2021,346
+Siskiyou,1/4/2021,130
+Solano,1/4/2021,449
+Sonoma,1/4/2021,335
+Stanislaus,1/4/2021,101
+Sutter,1/4/2021,248
+Tehama,1/4/2021,31
+Trinity,1/4/2021,27
+Tulare,1/4/2021,91
+Tuolumne,1/4/2021,67
+Unknown,1/4/2021,3
+Ventura,1/4/2021,1075
+Yolo,1/4/2021,195
+Yuba,1/4/2021,91
+Alameda,1/3/2021,330
+Amador,1/3/2021,64
+Butte,1/3/2021,4
+Calaveras,1/3/2021,8
+Contra Costa,1/3/2021,170
+El Dorado,1/3/2021,89
+Fresno,1/3/2021,152
+Imperial,1/3/2021,90
+Inyo,1/3/2021,1
+Kern,1/3/2021,22
+Los Angeles,1/3/2021,899
+Madera,1/3/2021,5
+Marin,1/3/2021,55
+Merced,1/3/2021,9
+Monterey,1/3/2021,30
+Napa,1/3/2021,12
+Nevada,1/3/2021,128
+Orange,1/3/2021,543
+Outside California,1/3/2021,179
+Placer,1/3/2021,153
+Riverside,1/3/2021,344
+Sacramento,1/3/2021,404
+San Benito,1/3/2021,3
+San Bernardino,1/3/2021,133
+San Diego,1/3/2021,857
+San Francisco,1/3/2021,288
+San Joaquin,1/3/2021,32
+San Luis Obispo,1/3/2021,16
+San Mateo,1/3/2021,275
+Santa Barbara,1/3/2021,23
+Santa Clara,1/3/2021,569
+Santa Cruz,1/3/2021,15
+Shasta,1/3/2021,1
+Siskiyou,1/3/2021,1
+Solano,1/3/2021,56
+Sonoma,1/3/2021,21
+Stanislaus,1/3/2021,87
+Sutter,1/3/2021,1
+Tulare,1/3/2021,22
+Tuolumne,1/3/2021,3
+Unknown,1/3/2021,1
+Ventura,1/3/2021,15
+Yolo,1/3/2021,43
+Yuba,1/3/2021,10
+Alameda,1/2/2021,704
+Alpine,1/2/2021,1
+Amador,1/2/2021,55
+Butte,1/2/2021,37
+Calaveras,1/2/2021,11
+Contra Costa,1/2/2021,331
+El Dorado,1/2/2021,148
+Fresno,1/2/2021,1024
+Glenn,1/2/2021,2
+Humboldt,1/2/2021,38
+Imperial,1/2/2021,4
+Kern,1/2/2021,75
+Kings,1/2/2021,10
+Lake,1/2/2021,2
+Lassen,1/2/2021,1
+Los Angeles,1/2/2021,4358
+Madera,1/2/2021,76
+Marin,1/2/2021,102
+Mendocino,1/2/2021,1
+Merced,1/2/2021,126
+Modoc,1/2/2021,2
+Monterey,1/2/2021,136
+Napa,1/2/2021,99
+Nevada,1/2/2021,1
+Orange,1/2/2021,1386
+Outside California,1/2/2021,272
+Placer,1/2/2021,184
+Riverside,1/2/2021,821
+Sacramento,1/2/2021,561
+San Benito,1/2/2021,25
+San Bernardino,1/2/2021,474
+San Diego,1/2/2021,3734
+San Francisco,1/2/2021,329
+San Joaquin,1/2/2021,247
+San Luis Obispo,1/2/2021,31
+San Mateo,1/2/2021,395
+Santa Barbara,1/2/2021,587
+Santa Clara,1/2/2021,1076
+Santa Cruz,1/2/2021,68
+Shasta,1/2/2021,2
+Siskiyou,1/2/2021,1
+Solano,1/2/2021,211
+Sonoma,1/2/2021,132
+Stanislaus,1/2/2021,30
+Sutter,1/2/2021,134
+Tulare,1/2/2021,27
+Tuolumne,1/2/2021,118
+Unknown,1/2/2021,2
+Ventura,1/2/2021,169
+Yolo,1/2/2021,67
+Yuba,1/2/2021,22
+Alameda,1/1/2021,166
+Amador,1/1/2021,1
+Butte,1/1/2021,7
+Contra Costa,1/1/2021,57
+El Dorado,1/1/2021,3
+Fresno,1/1/2021,7
+Imperial,1/1/2021,5
+Inyo,1/1/2021,1
+Kern,1/1/2021,9
+Kings,1/1/2021,1
+Lake,1/1/2021,1
+Los Angeles,1/1/2021,862
+Marin,1/1/2021,5
+Mendocino,1/1/2021,2
+Mono,1/1/2021,1
+Monterey,1/1/2021,8
+Napa,1/1/2021,1
+Nevada,1/1/2021,1
+Orange,1/1/2021,376
+Outside California,1/1/2021,104
+Placer,1/1/2021,14
+Riverside,1/1/2021,97
+Sacramento,1/1/2021,68
+San Bernardino,1/1/2021,271
+San Diego,1/1/2021,1098
+San Francisco,1/1/2021,62
+San Joaquin,1/1/2021,15
+San Luis Obispo,1/1/2021,11
+San Mateo,1/1/2021,34
+Santa Barbara,1/1/2021,107
+Santa Clara,1/1/2021,131
+Santa Cruz,1/1/2021,32
+Solano,1/1/2021,13
+Sonoma,1/1/2021,8
+Stanislaus,1/1/2021,5
+Sutter,1/1/2021,3
+Tehama,1/1/2021,2
+Tuolumne,1/1/2021,6
+Ventura,1/1/2021,11
+Yolo,1/1/2021,53
+Alameda,12/31/2020,1771
+Alpine,12/31/2020,1
+Amador,12/31/2020,192
+Butte,12/31/2020,210
+Calaveras,12/31/2020,34
+Colusa,12/31/2020,18
+Contra Costa,12/31/2020,910
+Del Norte,12/31/2020,16
+El Dorado,12/31/2020,108
+Fresno,12/31/2020,888
+Glenn,12/31/2020,38
+Humboldt,12/31/2020,242
+Imperial,12/31/2020,198
+Inyo,12/31/2020,29
+Kern,12/31/2020,277
+Kings,12/31/2020,44
+Lake,12/31/2020,67
+Lassen,12/31/2020,51
+Los Angeles,12/31/2020,7778
+Madera,12/31/2020,203
+Marin,12/31/2020,198
+Mariposa,12/31/2020,13
+Mendocino,12/31/2020,128
+Merced,12/31/2020,102
+Mono,12/31/2020,4
+Monterey,12/31/2020,34
+Napa,12/31/2020,466
+Nevada,12/31/2020,39
+Orange,12/31/2020,1433
+Outside California,12/31/2020,1148
+Placer,12/31/2020,530
+Plumas,12/31/2020,4
+Riverside,12/31/2020,1014
+Sacramento,12/31/2020,1211
+San Benito,12/31/2020,19
+San Bernardino,12/31/2020,1344
+San Diego,12/31/2020,2946
+San Francisco,12/31/2020,958
+San Joaquin,12/31/2020,445
+San Luis Obispo,12/31/2020,106
+San Mateo,12/31/2020,696
+Santa Barbara,12/31/2020,238
+Santa Clara,12/31/2020,1188
+Santa Cruz,12/31/2020,313
+Shasta,12/31/2020,81
+Sierra,12/31/2020,12
+Siskiyou,12/31/2020,12
+Solano,12/31/2020,530
+Sonoma,12/31/2020,514
+Stanislaus,12/31/2020,276
+Sutter,12/31/2020,70
+Tehama,12/31/2020,14
+Trinity,12/31/2020,2
+Tulare,12/31/2020,93
+Tuolumne,12/31/2020,27
+Unknown,12/31/2020,2
+Ventura,12/31/2020,470
+Yolo,12/31/2020,183
+Yuba,12/31/2020,36
+Alameda,12/30/2020,3092
+Alpine,12/30/2020,14
+Amador,12/30/2020,120
+Butte,12/30/2020,497
+Calaveras,12/30/2020,93
+Colusa,12/30/2020,50
+Contra Costa,12/30/2020,2384
+Del Norte,12/30/2020,67
+El Dorado,12/30/2020,501
+Fresno,12/30/2020,962
+Glenn,12/30/2020,129
+Humboldt,12/30/2020,219
+Imperial,12/30/2020,366
+Inyo,12/30/2020,56
+Kern,12/30/2020,1199
+Kings,12/30/2020,147
+Lake,12/30/2020,88
+Lassen,12/30/2020,37
+Los Angeles,12/30/2020,14779
+Madera,12/30/2020,216
+Marin,12/30/2020,623
+Mariposa,12/30/2020,21
+Mendocino,12/30/2020,120
+Merced,12/30/2020,219
+Modoc,12/30/2020,7
+Mono,12/30/2020,76
+Monterey,12/30/2020,565
+Napa,12/30/2020,634
+Nevada,12/30/2020,85
+Orange,12/30/2020,5077
+Outside California,12/30/2020,1990
+Placer,12/30/2020,726
+Plumas,12/30/2020,22
+Riverside,12/30/2020,2557
+Sacramento,12/30/2020,2550
+San Benito,12/30/2020,58
+San Bernardino,12/30/2020,2887
+San Diego,12/30/2020,5869
+San Francisco,12/30/2020,1468
+San Joaquin,12/30/2020,984
+San Luis Obispo,12/30/2020,1176
+San Mateo,12/30/2020,1252
+Santa Barbara,12/30/2020,579
+Santa Clara,12/30/2020,2941
+Santa Cruz,12/30/2020,356
+Shasta,12/30/2020,177
+Sierra,12/30/2020,2
+Siskiyou,12/30/2020,93
+Solano,12/30/2020,1194
+Sonoma,12/30/2020,1092
+Stanislaus,12/30/2020,532
+Sutter,12/30/2020,136
+Tehama,12/30/2020,54
+Trinity,12/30/2020,10
+Tulare,12/30/2020,472
+Tuolumne,12/30/2020,74
+Unknown,12/30/2020,55
+Ventura,12/30/2020,1983
+Yolo,12/30/2020,625
+Yuba,12/30/2020,64
+Alameda,12/29/2020,2406
+Amador,12/29/2020,26
+Butte,12/29/2020,203
+Calaveras,12/29/2020,167
+Clark,12/29/2020,1
+Colusa,12/29/2020,11
+Contra Costa,12/29/2020,1825
+Del Norte,12/29/2020,4
+El Dorado,12/29/2020,450
+Fresno,12/29/2020,1769
+Glenn,12/29/2020,82
+Humboldt,12/29/2020,162
+Imperial,12/29/2020,190
+Inyo,12/29/2020,20
+Kern,12/29/2020,746
+Kings,12/29/2020,78
+Lake,12/29/2020,14
+Lassen,12/29/2020,35
+Los Angeles,12/29/2020,11471
+Madera,12/29/2020,171
+Marin,12/29/2020,397
+Mariposa,12/29/2020,26
+Mendocino,12/29/2020,120
+Merced,12/29/2020,178
+Modoc,12/29/2020,10
+Mono,12/29/2020,29
+Monterey,12/29/2020,901
+Napa,12/29/2020,271
+Nevada,12/29/2020,100
+Orange,12/29/2020,3525
+Outside California,12/29/2020,1605
+Placer,12/29/2020,762
+Plumas,12/29/2020,32
+Riverside,12/29/2020,1735
+Sacramento,12/29/2020,1938
+San Benito,12/29/2020,48
+San Bernardino,12/29/2020,2199
+San Diego,12/29/2020,5845
+San Francisco,12/29/2020,1244
+San Joaquin,12/29/2020,789
+San Luis Obispo,12/29/2020,903
+San Mateo,12/29/2020,1116
+Santa Barbara,12/29/2020,550
+Santa Clara,12/29/2020,2314
+Santa Cruz,12/29/2020,790
+Shasta,12/29/2020,186
+Sierra,12/29/2020,49
+Siskiyou,12/29/2020,4
+Solano,12/29/2020,881
+Sonoma,12/29/2020,1131
+Stanislaus,12/29/2020,490
+Sutter,12/29/2020,101
+Tehama,12/29/2020,31
+Trinity,12/29/2020,8
+Tulare,12/29/2020,544
+Tuolumne,12/29/2020,105
+Unknown,12/29/2020,3
+Ventura,12/29/2020,1163
+Yolo,12/29/2020,483
+Yuba,12/29/2020,77
+Alameda,12/28/2020,1844
+Amador,12/28/2020,31
+Butte,12/28/2020,280
+Calaveras,12/28/2020,22
+Colusa,12/28/2020,7
+Contra Costa,12/28/2020,1812
+Del Norte,12/28/2020,34
+El Dorado,12/28/2020,215
+Fresno,12/28/2020,1058
+Glenn,12/28/2020,20
+Humboldt,12/28/2020,149
+Imperial,12/28/2020,214
+Inyo,12/28/2020,48
+Kern,12/28/2020,826
+Kings,12/28/2020,130
+Lake,12/28/2020,52
+Lassen,12/28/2020,3
+Los Angeles,12/28/2020,10181
+Madera,12/28/2020,104
+Marin,12/28/2020,406
+Mariposa,12/28/2020,4
+Mendocino,12/28/2020,73
+Merced,12/28/2020,124
+Modoc,12/28/2020,2
+Mono,12/28/2020,94
+Monterey,12/28/2020,478
+Napa,12/28/2020,248
+Nevada,12/28/2020,170
+Orange,12/28/2020,3502
+Outside California,12/28/2020,1468
+Placer,12/28/2020,666
+Plumas,12/28/2020,8
+Riverside,12/28/2020,1618
+Sacramento,12/28/2020,1895
+San Benito,12/28/2020,63
+San Bernardino,12/28/2020,1549
+San Diego,12/28/2020,5879
+San Francisco,12/28/2020,1261
+San Joaquin,12/28/2020,609
+San Luis Obispo,12/28/2020,878
+San Mateo,12/28/2020,1033
+Santa Barbara,12/28/2020,352
+Santa Clara,12/28/2020,2312
+Santa Cruz,12/28/2020,483
+Shasta,12/28/2020,40
+Sierra,12/28/2020,1
+Siskiyou,12/28/2020,2
+Solano,12/28/2020,855
+Sonoma,12/28/2020,990
+Stanislaus,12/28/2020,480
+Sutter,12/28/2020,82
+Tehama,12/28/2020,56
+Trinity,12/28/2020,30
+Tulare,12/28/2020,484
+Tuolumne,12/28/2020,78
+Unknown,12/28/2020,3
+Ventura,12/28/2020,1062
+Yolo,12/28/2020,342
+Yuba,12/28/2020,51
+Alameda,12/27/2020,491
+Amador,12/27/2020,1
+Butte,12/27/2020,35
+Colusa,12/27/2020,1
+Contra Costa,12/27/2020,235
+El Dorado,12/27/2020,37
+Fresno,12/27/2020,296
+Glenn,12/27/2020,4
+Humboldt,12/27/2020,1
+Imperial,12/27/2020,62
+Kern,12/27/2020,35
+Kings,12/27/2020,4
+Lake,12/27/2020,2
+Los Angeles,12/27/2020,1737
+Madera,12/27/2020,31
+Marin,12/27/2020,93
+Mariposa,12/27/2020,1
+Mendocino,12/27/2020,1
+Merced,12/27/2020,12
+Monterey,12/27/2020,6
+Napa,12/27/2020,32
+Nevada,12/27/2020,88
+Orange,12/27/2020,579
+Outside California,12/27/2020,180
+Placer,12/27/2020,187
+Riverside,12/27/2020,362
+Sacramento,12/27/2020,348
+San Benito,12/27/2020,8
+San Bernardino,12/27/2020,343
+San Diego,12/27/2020,2494
+San Francisco,12/27/2020,269
+San Joaquin,12/27/2020,39
+San Luis Obispo,12/27/2020,75
+San Mateo,12/27/2020,280
+Santa Barbara,12/27/2020,62
+Santa Clara,12/27/2020,593
+Santa Cruz,12/27/2020,32
+Shasta,12/27/2020,1
+Siskiyou,12/27/2020,2
+Solano,12/27/2020,101
+Sonoma,12/27/2020,92
+Stanislaus,12/27/2020,10
+Sutter,12/27/2020,24
+Tehama,12/27/2020,2
+Tulare,12/27/2020,15
+Ventura,12/27/2020,58
+Yolo,12/27/2020,46
+Yuba,12/27/2020,15
+Alameda,12/26/2020,847
+Amador,12/26/2020,6
+Butte,12/26/2020,93
+Calaveras,12/26/2020,3
+Contra Costa,12/26/2020,641
+El Dorado,12/26/2020,43
+Fresno,12/26/2020,720
+Glenn,12/26/2020,2
+Humboldt,12/26/2020,7
+Imperial,12/26/2020,1
+Inyo,12/26/2020,74
+Kern,12/26/2020,33
+Kings,12/26/2020,7
+Lake,12/26/2020,2
+Los Angeles,12/26/2020,2515
+Madera,12/26/2020,28
+Marin,12/26/2020,139
+Mariposa,12/26/2020,1
+Mendocino,12/26/2020,2
+Merced,12/26/2020,6
+Mono,12/26/2020,3
+Monterey,12/26/2020,89
+Napa,12/26/2020,39
+Nevada,12/26/2020,5
+Orange,12/26/2020,1048
+Outside California,12/26/2020,313
+Placer,12/26/2020,159
+Riverside,12/26/2020,401
+Sacramento,12/26/2020,507
+San Benito,12/26/2020,13
+San Bernardino,12/26/2020,461
+San Diego,12/26/2020,3288
+San Francisco,12/26/2020,237
+San Joaquin,12/26/2020,100
+San Luis Obispo,12/26/2020,90
+San Mateo,12/26/2020,532
+Santa Barbara,12/26/2020,328
+Santa Clara,12/26/2020,1199
+Santa Cruz,12/26/2020,64
+Shasta,12/26/2020,4
+Siskiyou,12/26/2020,2
+Solano,12/26/2020,174
+Sonoma,12/26/2020,264
+Stanislaus,12/26/2020,47
+Sutter,12/26/2020,38
+Tehama,12/26/2020,3
+Tulare,12/26/2020,9
+Tuolumne,12/26/2020,3
+Ventura,12/26/2020,106
+Yolo,12/26/2020,76
+Yuba,12/26/2020,15
+Alameda,12/25/2020,157
+Contra Costa,12/25/2020,38
+El Dorado,12/25/2020,8
+Fresno,12/25/2020,2
+Humboldt,12/25/2020,1
+Inyo,12/25/2020,1
+Kern,12/25/2020,1
+Los Angeles,12/25/2020,520
+Marin,12/25/2020,27
+Mendocino,12/25/2020,1
+Merced,12/25/2020,4
+Monterey,12/25/2020,6
+Napa,12/25/2020,1
+Nevada,12/25/2020,2
+Orange,12/25/2020,14
+Outside California,12/25/2020,34
+Riverside,12/25/2020,28
+Sacramento,12/25/2020,1
+San Benito,12/25/2020,3
+San Bernardino,12/25/2020,75
+San Diego,12/25/2020,880
+San Francisco,12/25/2020,30
+San Joaquin,12/25/2020,13
+San Luis Obispo,12/25/2020,2
+San Mateo,12/25/2020,107
+Santa Clara,12/25/2020,327
+Santa Cruz,12/25/2020,11
+Solano,12/25/2020,10
+Sonoma,12/25/2020,8
+Ventura,12/25/2020,11
+Yolo,12/25/2020,1
+Alameda,12/24/2020,1206
+Amador,12/24/2020,5
+Butte,12/24/2020,160
+Calaveras,12/24/2020,2
+Colusa,12/24/2020,2
+Contra Costa,12/24/2020,645
+El Dorado,12/24/2020,86
+Fresno,12/24/2020,574
+Glenn,12/24/2020,9
+Humboldt,12/24/2020,24
+Imperial,12/24/2020,5
+Inyo,12/24/2020,17
+Kern,12/24/2020,122
+Kings,12/24/2020,11
+Lake,12/24/2020,2
+Lassen,12/24/2020,11
+Los Angeles,12/24/2020,6913
+Madera,12/24/2020,43
+Marin,12/24/2020,355
+Mendocino,12/24/2020,49
+Merced,12/24/2020,70
+Modoc,12/24/2020,1
+Mono,12/24/2020,3
+Monterey,12/24/2020,82
+Napa,12/24/2020,138
+Nevada,12/24/2020,15
+Orange,12/24/2020,1311
+Outside California,12/24/2020,823
+Placer,12/24/2020,395
+Plumas,12/24/2020,6
+Riverside,12/24/2020,817
+Sacramento,12/24/2020,1040
+San Benito,12/24/2020,12
+San Bernardino,12/24/2020,1157
+San Diego,12/24/2020,2730
+San Francisco,12/24/2020,829
+San Joaquin,12/24/2020,210
+San Luis Obispo,12/24/2020,195
+San Mateo,12/24/2020,849
+Santa Barbara,12/24/2020,87
+Santa Clara,12/24/2020,1864
+Santa Cruz,12/24/2020,125
+Shasta,12/24/2020,18
+Siskiyou,12/24/2020,5
+Solano,12/24/2020,420
+Sonoma,12/24/2020,304
+Stanislaus,12/24/2020,97
+Sutter,12/24/2020,17
+Tehama,12/24/2020,5
+Tulare,12/24/2020,18
+Unknown,12/24/2020,2
+Ventura,12/24/2020,475
+Yolo,12/24/2020,151
+Yuba,12/24/2020,20
+Alameda,12/23/2020,1877
+Amador,12/23/2020,39
+Butte,12/23/2020,870
+Calaveras,12/23/2020,77
+Colusa,12/23/2020,10
+Contra Costa,12/23/2020,1550
+Del Norte,12/23/2020,58
+El Dorado,12/23/2020,189
+Fresno,12/23/2020,1079
+Glenn,12/23/2020,26
+Humboldt,12/23/2020,301
+Imperial,12/23/2020,212
+Inyo,12/23/2020,71
+Kern,12/23/2020,557
+Kings,12/23/2020,134
+Lake,12/23/2020,91
+Lassen,12/23/2020,6
+Los Angeles,12/23/2020,11836
+Madera,12/23/2020,65
+Marin,12/23/2020,731
+Mariposa,12/23/2020,11
+Mendocino,12/23/2020,271
+Merced,12/23/2020,250
+Modoc,12/23/2020,4
+Mono,12/23/2020,70
+Monterey,12/23/2020,433
+Napa,12/23/2020,397
+Nevada,12/23/2020,234
+Orange,12/23/2020,3496
+Outside California,12/23/2020,1616
+Placer,12/23/2020,739
+Plumas,12/23/2020,50
+Riverside,12/23/2020,2114
+Sacramento,12/23/2020,2236
+San Benito,12/23/2020,48
+San Bernardino,12/23/2020,2643
+San Diego,12/23/2020,3186
+San Francisco,12/23/2020,1305
+San Joaquin,12/23/2020,943
+San Luis Obispo,12/23/2020,682
+San Mateo,12/23/2020,1532
+Santa Barbara,12/23/2020,320
+Santa Clara,12/23/2020,3195
+Santa Cruz,12/23/2020,370
+Shasta,12/23/2020,174
+Sierra,12/23/2020,4
+Siskiyou,12/23/2020,142
+Solano,12/23/2020,847
+Sonoma,12/23/2020,1601
+Stanislaus,12/23/2020,449
+Sutter,12/23/2020,114
+Tehama,12/23/2020,48
+Trinity,12/23/2020,5
+Tulare,12/23/2020,328
+Tuolumne,12/23/2020,184
+Ventura,12/23/2020,1024
+Yolo,12/23/2020,431
+Yuba,12/23/2020,64
+Alameda,12/22/2020,2070
+Amador,12/22/2020,36
+Butte,12/22/2020,618
+Calaveras,12/22/2020,81
+Colusa,12/22/2020,10
+Contra Costa,12/22/2020,1664
+Del Norte,12/22/2020,46
+El Dorado,12/22/2020,238
+Fresno,12/22/2020,903
+Glenn,12/22/2020,59
+Humboldt,12/22/2020,286
+Imperial,12/22/2020,241
+Inyo,12/22/2020,104
+Kern,12/22/2020,530
+Kings,12/22/2020,142
+Lake,12/22/2020,63
+Lassen,12/22/2020,23
+Los Angeles,12/22/2020,11471
+Madera,12/22/2020,95
+Marin,12/22/2020,515
+Mariposa,12/22/2020,2
+Mendocino,12/22/2020,248
+Merced,12/22/2020,155
+Modoc,12/22/2020,14
+Mono,12/22/2020,67
+Monterey,12/22/2020,534
+Napa,12/22/2020,278
+Nevada,12/22/2020,91
+Orange,12/22/2020,3916
+Outside California,12/22/2020,2189
+Placer,12/22/2020,676
+Plumas,12/22/2020,92
+Riverside,12/22/2020,2242
+Sacramento,12/22/2020,2092
+San Benito,12/22/2020,59
+San Bernardino,12/22/2020,2268
+San Diego,12/22/2020,4052
+San Francisco,12/22/2020,1398
+San Joaquin,12/22/2020,949
+San Luis Obispo,12/22/2020,307
+San Mateo,12/22/2020,1481
+Santa Barbara,12/22/2020,243
+Santa Clara,12/22/2020,3055
+Santa Cruz,12/22/2020,422
+Shasta,12/22/2020,191
+Sierra,12/22/2020,12
+Siskiyou,12/22/2020,159
+Solano,12/22/2020,662
+Sonoma,12/22/2020,1363
+Stanislaus,12/22/2020,800
+Sutter,12/22/2020,174
+Tehama,12/22/2020,68
+Trinity,12/22/2020,5
+Tulare,12/22/2020,469
+Tuolumne,12/22/2020,165
+Unknown,12/22/2020,2
+Ventura,12/22/2020,1102
+Yolo,12/22/2020,385
+Yuba,12/22/2020,86
+Alameda,12/21/2020,1834
+Alpine,12/21/2020,2
+Amador,12/21/2020,33
+Butte,12/21/2020,633
+Calaveras,12/21/2020,55
+Colusa,12/21/2020,2
+Contra Costa,12/21/2020,1655
+Del Norte,12/21/2020,23
+El Dorado,12/21/2020,304
+Fresno,12/21/2020,925
+Glenn,12/21/2020,11
+Humboldt,12/21/2020,165
+Imperial,12/21/2020,186
+Inyo,12/21/2020,88
+Kern,12/21/2020,671
+Kings,12/21/2020,153
+Lake,12/21/2020,50
+Lassen,12/21/2020,11
+Los Angeles,12/21/2020,13637
+Madera,12/21/2020,62
+Marin,12/21/2020,238
+Mariposa,12/21/2020,3
+Mendocino,12/21/2020,245
+Merced,12/21/2020,129
+Modoc,12/21/2020,100
+Mono,12/21/2020,23
+Monterey,12/21/2020,719
+Napa,12/21/2020,234
+Nevada,12/21/2020,69
+Orange,12/21/2020,4146
+Outside California,12/21/2020,2349
+Placer,12/21/2020,494
+Plumas,12/21/2020,45
+Riverside,12/21/2020,2269
+Sacramento,12/21/2020,1670
+San Benito,12/21/2020,46
+San Bernardino,12/21/2020,2449
+San Diego,12/21/2020,3511
+San Francisco,12/21/2020,1156
+San Joaquin,12/21/2020,517
+San Luis Obispo,12/21/2020,551
+San Mateo,12/21/2020,1136
+Santa Barbara,12/21/2020,650
+Santa Clara,12/21/2020,2617
+Santa Cruz,12/21/2020,427
+Shasta,12/21/2020,78
+Sierra,12/21/2020,2
+Siskiyou,12/21/2020,132
+Solano,12/21/2020,568
+Sonoma,12/21/2020,909
+Stanislaus,12/21/2020,983
+Sutter,12/21/2020,101
+Tehama,12/21/2020,33
+Trinity,12/21/2020,37
+Tulare,12/21/2020,423
+Tuolumne,12/21/2020,112
+Unknown,12/21/2020,41
+Ventura,12/21/2020,1465
+Yolo,12/21/2020,252
+Yuba,12/21/2020,40
+Alameda,12/20/2020,1169
+Amador,12/20/2020,4
+Butte,12/20/2020,10
+Calaveras,12/20/2020,2
+Contra Costa,12/20/2020,577
+El Dorado,12/20/2020,83
+Fresno,12/20/2020,254
+Glenn,12/20/2020,1
+Humboldt,12/20/2020,28
+Imperial,12/20/2020,2
+Inyo,12/20/2020,59
+Kern,12/20/2020,59
+Kings,12/20/2020,13
+Lake,12/20/2020,6
+Lassen,12/20/2020,2
+Los Angeles,12/20/2020,4582
+Madera,12/20/2020,14
+Marin,12/20/2020,163
+Mariposa,12/20/2020,2
+Mendocino,12/20/2020,7
+Merced,12/20/2020,18
+Mono,12/20/2020,6
+Monterey,12/20/2020,422
+Napa,12/20/2020,137
+Nevada,12/20/2020,12
+Orange,12/20/2020,1930
+Outside California,12/20/2020,744
+Placer,12/20/2020,231
+Riverside,12/20/2020,1076
+Sacramento,12/20/2020,631
+San Benito,12/20/2020,22
+San Bernardino,12/20/2020,1170
+San Diego,12/20/2020,1178
+San Francisco,12/20/2020,480
+San Joaquin,12/20/2020,111
+San Luis Obispo,12/20/2020,215
+San Mateo,12/20/2020,494
+Santa Barbara,12/20/2020,234
+Santa Clara,12/20/2020,1855
+Santa Cruz,12/20/2020,94
+Siskiyou,12/20/2020,1
+Solano,12/20/2020,353
+Sonoma,12/20/2020,175
+Stanislaus,12/20/2020,84
+Sutter,12/20/2020,42
+Tulare,12/20/2020,167
+Tuolumne,12/20/2020,1
+Ventura,12/20/2020,430
+Yolo,12/20/2020,100
+Yuba,12/20/2020,20
+Alameda,12/19/2020,1456
+Alpine,12/19/2020,2
+Amador,12/19/2020,17
+Butte,12/19/2020,7
+Calaveras,12/19/2020,3
+Contra Costa,12/19/2020,1101
+El Dorado,12/19/2020,116
+Fresno,12/19/2020,158
+Glenn,12/19/2020,1
+Humboldt,12/19/2020,10
+Inyo,12/19/2020,85
+Kern,12/19/2020,100
+Kings,12/19/2020,11
+Lake,12/19/2020,3
+Lassen,12/19/2020,5
+Los Angeles,12/19/2020,7210
+Madera,12/19/2020,6
+Marin,12/19/2020,347
+Mendocino,12/19/2020,3
+Merced,12/19/2020,38
+Mono,12/19/2020,5
+Monterey,12/19/2020,579
+Napa,12/19/2020,141
+Nevada,12/19/2020,55
+Orange,12/19/2020,2152
+Outside California,12/19/2020,1170
+Placer,12/19/2020,248
+Plumas,12/19/2020,1
+Riverside,12/19/2020,1018
+Sacramento,12/19/2020,615
+San Benito,12/19/2020,48
+San Bernardino,12/19/2020,1064
+San Diego,12/19/2020,2299
+San Francisco,12/19/2020,599
+San Joaquin,12/19/2020,184
+San Luis Obispo,12/19/2020,164
+San Mateo,12/19/2020,520
+Santa Barbara,12/19/2020,325
+Santa Clara,12/19/2020,2100
+Santa Cruz,12/19/2020,176
+Shasta,12/19/2020,1
+Siskiyou,12/19/2020,3
+Solano,12/19/2020,511
+Sonoma,12/19/2020,108
+Stanislaus,12/19/2020,136
+Sutter,12/19/2020,44
+Tulare,12/19/2020,327
+Tuolumne,12/19/2020,5
+Ventura,12/19/2020,912
+Yolo,12/19/2020,85
+Yuba,12/19/2020,12
+Alameda,12/18/2020,1779
+Alpine,12/18/2020,2
+Amador,12/18/2020,44
+Butte,12/18/2020,50
+Calaveras,12/18/2020,38
+Colusa,12/18/2020,1
+Contra Costa,12/18/2020,1588
+El Dorado,12/18/2020,233
+Fresno,12/18/2020,342
+Humboldt,12/18/2020,171
+Imperial,12/18/2020,11
+Inyo,12/18/2020,1
+Kern,12/18/2020,318
+Kings,12/18/2020,11
+Lake,12/18/2020,50
+Lassen,12/18/2020,1
+Los Angeles,12/18/2020,14462
+Madera,12/18/2020,60
+Marin,12/18/2020,371
+Mariposa,12/18/2020,5
+Mendocino,12/18/2020,86
+Merced,12/18/2020,145
+Mono,12/18/2020,1
+Monterey,12/18/2020,481
+Napa,12/18/2020,103
+Nevada,12/18/2020,51
+Orange,12/18/2020,4912
+Outside California,12/18/2020,2651
+Placer,12/18/2020,331
+Plumas,12/18/2020,4
+Riverside,12/18/2020,1718
+Sacramento,12/18/2020,969
+San Benito,12/18/2020,33
+San Bernardino,12/18/2020,3138
+San Diego,12/18/2020,3666
+San Francisco,12/18/2020,882
+San Joaquin,12/18/2020,511
+San Luis Obispo,12/18/2020,223
+San Mateo,12/18/2020,760
+Santa Barbara,12/18/2020,377
+Santa Clara,12/18/2020,1691
+Santa Cruz,12/18/2020,465
+Shasta,12/18/2020,168
+Sierra,12/18/2020,1
+Siskiyou,12/18/2020,3
+Solano,12/18/2020,449
+Sonoma,12/18/2020,419
+Stanislaus,12/18/2020,338
+Sutter,12/18/2020,20
+Tehama,12/18/2020,2
+Trinity,12/18/2020,2
+Tulare,12/18/2020,292
+Tuolumne,12/18/2020,98
+Unknown,12/18/2020,52
+Ventura,12/18/2020,1407
+Yolo,12/18/2020,207
+Yuba,12/18/2020,8
+Alameda,12/17/2020,440
+Amador,12/17/2020,5
+Butte,12/17/2020,20
+Calaveras,12/17/2020,3
+Contra Costa,12/17/2020,901
+El Dorado,12/17/2020,31
+Fresno,12/17/2020,119
+Glenn,12/17/2020,1
+Humboldt,12/17/2020,114
+Imperial,12/17/2020,4
+Kern,12/17/2020,164
+Kings,12/17/2020,8
+Lake,12/17/2020,3
+Lassen,12/17/2020,6
+Los Angeles,12/17/2020,10232
+Madera,12/17/2020,12
+Marin,12/17/2020,259
+Mariposa,12/17/2020,2
+Mendocino,12/17/2020,71
+Merced,12/17/2020,6
+Monterey,12/17/2020,80
+Napa,12/17/2020,44
+Nevada,12/17/2020,6
+Orange,12/17/2020,3683
+Outside California,12/17/2020,1628
+Placer,12/17/2020,139
+Riverside,12/17/2020,803
+Sacramento,12/17/2020,647
+San Benito,12/17/2020,9
+San Bernardino,12/17/2020,2337
+San Diego,12/17/2020,2354
+San Francisco,12/17/2020,397
+San Joaquin,12/17/2020,309
+San Luis Obispo,12/17/2020,196
+San Mateo,12/17/2020,177
+Santa Barbara,12/17/2020,51
+Santa Clara,12/17/2020,450
+Santa Cruz,12/17/2020,390
+Shasta,12/17/2020,418
+Siskiyou,12/17/2020,4
+Solano,12/17/2020,151
+Sonoma,12/17/2020,102
+Stanislaus,12/17/2020,73
+Sutter,12/17/2020,2
+Tehama,12/17/2020,12
+Trinity,12/17/2020,4
+Tulare,12/17/2020,109
+Tuolumne,12/17/2020,16
+Unknown,12/17/2020,37
+Ventura,12/17/2020,248
+Yolo,12/17/2020,101
+Yuba,12/17/2020,4
+Alameda,12/16/2020,201
+Amador,12/16/2020,2
+Butte,12/16/2020,3
+Calaveras,12/16/2020,5
+Contra Costa,12/16/2020,522
+El Dorado,12/16/2020,40
+Fresno,12/16/2020,120
+Humboldt,12/16/2020,15
+Imperial,12/16/2020,1
+Kern,12/16/2020,18
+Kings,12/16/2020,1
+Lassen,12/16/2020,8
+Los Angeles,12/16/2020,3356
+Madera,12/16/2020,22
+Marin,12/16/2020,107
+Merced,12/16/2020,3
+Modoc,12/16/2020,1
+Monterey,12/16/2020,4
+Napa,12/16/2020,12
+Nevada,12/16/2020,3
+Orange,12/16/2020,364
+Outside California,12/16/2020,275
+Placer,12/16/2020,52
+Riverside,12/16/2020,64
+Sacramento,12/16/2020,643
+San Benito,12/16/2020,2
+San Bernardino,12/16/2020,108
+San Diego,12/16/2020,1105
+San Francisco,12/16/2020,229
+San Joaquin,12/16/2020,300
+San Luis Obispo,12/16/2020,4
+San Mateo,12/16/2020,103
+Santa Barbara,12/16/2020,2
+Santa Clara,12/16/2020,128
+Santa Cruz,12/16/2020,57
+Shasta,12/16/2020,131
+Siskiyou,12/16/2020,2
+Solano,12/16/2020,71
+Sonoma,12/16/2020,29
+Stanislaus,12/16/2020,38
+Sutter,12/16/2020,4
+Tehama,12/16/2020,2
+Tulare,12/16/2020,3
+Tuolumne,12/16/2020,43
+Ventura,12/16/2020,70
+Yolo,12/16/2020,78
+Yuba,12/16/2020,4
+Alameda,12/15/2020,35
+Contra Costa,12/15/2020,18
+El Dorado,12/15/2020,12
+Fresno,12/15/2020,1
+Humboldt,12/15/2020,2
+Kern,12/15/2020,1
+Los Angeles,12/15/2020,391
+Marin,12/15/2020,2
+Orange,12/15/2020,15
+Outside California,12/15/2020,7
+Placer,12/15/2020,29
+Riverside,12/15/2020,4
+Sacramento,12/15/2020,312
+San Bernardino,12/15/2020,12
+San Diego,12/15/2020,125
+San Francisco,12/15/2020,8
+San Joaquin,12/15/2020,12
+San Mateo,12/15/2020,25
+Santa Barbara,12/15/2020,2
+Santa Clara,12/15/2020,63
+Santa Cruz,12/15/2020,2
+Solano,12/15/2020,4
+Sonoma,12/15/2020,4
+Stanislaus,12/15/2020,2
+Sutter,12/15/2020,1
+Tehama,12/15/2020,1
+Ventura,12/15/2020,5
+Yolo,12/15/2020,39
