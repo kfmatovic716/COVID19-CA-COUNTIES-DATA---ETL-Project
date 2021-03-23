@@ -6,7 +6,7 @@
 <img src="images/covid_banner.jpg"/>
 
 ## SUBJECT OF DATA EXPLORATION
-## COVID-19 vaccinations, test cases, hospitalizations, mortality and unemployment  in California Counties
+## COVID-19 vaccinations, test cases, hospitalizations, mortality and unemployment in California Counties
 <hr>
 
 ## MAIN OBJECTIVES
@@ -95,6 +95,7 @@
 <ul>
     <li>Pandas</li>
     <li>API Requests</li>
+    <li>Datetime</li>
     <li></li>
 </ul>
 <hr>
