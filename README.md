@@ -30,6 +30,7 @@
 <li>Socrata Open Data API (SODA) -  For Employment/Unemployment data </li>
     <ul>
     <li>website: <a href="https://data.edd.ca.gov/Labor-Force-and-Unemployment-Rates/Local-Area-Unemployment-Statistics-LAUS-/e6gw-gvii" >https://data.edd.ca.gov/Labor-Force-and-Unemployment-Rates/Local-Area-Unemployment-Statistics-LAUS-/e6gw-gvii</a></li>
+    <li>Only public information can be extracted without an API key</li>
     <li> employment_dataset.csv
     </ul>
 </ul> 
