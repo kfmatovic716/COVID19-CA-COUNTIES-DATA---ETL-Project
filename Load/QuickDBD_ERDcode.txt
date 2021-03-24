@@ -1,0 +1,74 @@
+Counties
+-
+county varchar(50) FK >- Vaccine.county
+date date FK >- Vaccine.date
+population int
+
+
+Vaccine
+-
+county PK varchar(50) 
+date PK date 
+total_doses int
+
+Deaths
+-
+county  varchar(50) FK >- Vaccine.county
+date   date FK >- Vaccine.date
+deaths  int
+reported_deaths    int
+
+
+Cases
+-
+county varchar(50) FK >- Vaccine.county
+date  date FK >- Vaccine.date
+cases  int
+reported_cases  int
+
+Total_tests
+-
+county  varchar(50) FK >- Vaccine.county
+date  date  FK >- Vaccine.date
+total_tests  int
+positive_tests  int
+reported_tests  int
+
+Employment_Unemployment
+-
+county  varchar(50) FK >- Vaccine.county
+date  date FK >- Vaccine.date
+labor_force   int
+employment  int
+unemployment  int
+unemployment_rate int
+
+
+Hospitalized_COVID_patients
+-
+county varchar(50) FK >- Vaccine.county
+date date FK >- Vaccine.date
+confirmed_patients int
+suspected_patients int
+total_covid_patients int
+
+Hospital_beds
+-
+county varchar(50) FK >- Vaccine.county
+date date FK >- Vaccine.date
+all_hospital_beds int
+icu_available_beds int
+
+ICU_COVID_patients
+-
+county varchar(50) FK >- Vaccine.county
+date date FK >- Vaccine.date
+icu_covid_confirmed int
+icu_covid_suspected int
+
+
+
+
+
+
+
