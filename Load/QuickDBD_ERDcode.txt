@@ -16,9 +16,7 @@ Deaths
 county  varchar(50) FK >- Vaccine.county
 date   date FK >- Vaccine.date
 deaths  int
-cumulative_deaths  int
 reported_deaths    int
-cumulative_reported_deaths  int
 
 
 Cases
@@ -26,20 +24,15 @@ Cases
 county varchar(50) FK >- Vaccine.county
 date  date FK >- Vaccine.date
 cases  int
-cumulative_cases  int
 reported_cases  int
-cumulative_reported_cases  int
 
 Total_tests
 -
 county  varchar(50) FK >- Vaccine.county
 date  date  FK >- Vaccine.date
 total_tests  int
-cumulative_total_tests  int
 positive_tests  int
-cumulative_positive_tests  int
 reported_tests  int
-cumulative_reported_tests  int
 
 Employment_Unemployment
 -

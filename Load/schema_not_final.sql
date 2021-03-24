@@ -139,27 +139,27 @@ CREATE TABLE "ICU_COVID_patients" (
 --     "ICU_COVID_patients";
 
 -- Set constraints    
-ALTER TABLE "Counties" ADD CONSTRAINT "fk_Counties_county_date" FOREIGN KEY("county", "date")
-REFERENCES "Vaccine" ("county", "date");
+-- ALTER TABLE "Counties" ADD CONSTRAINT "fk_Counties_county_date" FOREIGN KEY("county", "date")
+-- REFERENCES "Vaccine" ("county", "date");
 
-ALTER TABLE "Deaths" ADD CONSTRAINT "fk_Deaths_county_date" FOREIGN KEY("county", "date")
-REFERENCES "Vaccine" ("county", "date");
+-- ALTER TABLE "Deaths" ADD CONSTRAINT "fk_Deaths_county_date" FOREIGN KEY("county", "date")
+-- REFERENCES "Vaccine" ("county", "date");
 
-ALTER TABLE "Cases" ADD CONSTRAINT "fk_Cases_county_date" FOREIGN KEY("county", "date")
-REFERENCES "Vaccine" ("county", "date");
+-- ALTER TABLE "Cases" ADD CONSTRAINT "fk_Cases_county_date" FOREIGN KEY("county", "date")
+-- REFERENCES "Vaccine" ("county", "date");
 
-ALTER TABLE "Total_tests" ADD CONSTRAINT "fk_Total_tests_county_date" FOREIGN KEY("county", "date")
-REFERENCES "Vaccine" ("county", "date");
+-- ALTER TABLE "Total_tests" ADD CONSTRAINT "fk_Total_tests_county_date" FOREIGN KEY("county", "date")
+-- REFERENCES "Vaccine" ("county", "date");
 
-ALTER TABLE "Employment_Unemployment" ADD CONSTRAINT "fk_Employment_Unemployment_county_date" FOREIGN KEY("county", "date")
-REFERENCES "Vaccine" ("county", "date");
+-- ALTER TABLE "Employment_Unemployment" ADD CONSTRAINT "fk_Employment_Unemployment_county_date" FOREIGN KEY("county", "date")
+-- REFERENCES "Vaccine" ("county", "date");
 
-ALTER TABLE "Hospitalized_COVID_patients" ADD CONSTRAINT "fk_Hospitalized_COVID_patients_county_date" FOREIGN KEY("county", "date")
-REFERENCES "Vaccine" ("county", "date");
+-- ALTER TABLE "Hospitalized_COVID_patients" ADD CONSTRAINT "fk_Hospitalized_COVID_patients_county_date" FOREIGN KEY("county", "date")
+-- REFERENCES "Vaccine" ("county", "date");
 
-ALTER TABLE "Hospital_beds" ADD CONSTRAINT "fk_Hospital_beds_county_date" FOREIGN KEY("county", "date")
-REFERENCES "Vaccine" ("county", "date");
+-- ALTER TABLE "Hospital_beds" ADD CONSTRAINT "fk_Hospital_beds_county_date" FOREIGN KEY("county", "date")
+-- REFERENCES "Vaccine" ("county", "date");
 
-ALTER TABLE "ICU_COVID_patients" ADD CONSTRAINT "fk_ICU_COVID_patients_county_date" FOREIGN KEY("county", "date")
-REFERENCES "Vaccine" ("county", "date");
+-- ALTER TABLE "ICU_COVID_patients" ADD CONSTRAINT "fk_ICU_COVID_patients_county_date" FOREIGN KEY("county", "date")
+-- REFERENCES "Vaccine" ("county", "date");
 

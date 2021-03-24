@@ -2,11 +2,6 @@
 SELECT
 	*
 FROM
-	Counties;
-
-SELECT
-	*
-FROM
 	Vaccine;
 
 SELECT
@@ -17,20 +12,25 @@ FROM
 SELECT
 	*
 FROM
-	Employment_Unemployment;
+	Total_tests;
+
+SELECT
+	*
+FROM
+	Hospitalized_COVID_patients;
+
+SELECT
+	*
+FROM
+	Cases;
 
 
 -- Count number of records in employees and salaries table before joining
 SELECT
 	COUNT(*)
 FROM
-	Counties;
-	
-SELECT
-	COUNT(*)
-FROM
 	Vaccine;
-
+	
 SELECT
 	COUNT(*)
 FROM
@@ -39,75 +39,74 @@ FROM
 SELECT
 	COUNT(*)
 FROM
-	Employment_Unemployment;
+	Total_tests;
 
--- Join tables: Counties & Vaccine & sorted by date
+SELECT
+	COUNT(*)
+FROM
+	Hospitalized_COVID_patients;
 
+SELECT
+	COUNT(*)
+FROM
+	Cases;
+
+
+
+-- Total number of vaccine doses administered per day
 SELECT 
-	Counties.county,
-	Counties.date,
+	SUM(Vaccine.total_doses)
+FROM 
+	Vaccine
+ORDER BY
+	Vaccine.date ASC;
+
+
+-- Average Reported Deaths in each county
+SELECT 
+	AVG(Deaths.reported_deaths)
+FROM 
+	Deaths
+ORDER BY
+    Deaths.county ASC;
+
+
+-- Total number of Hospitalized COVID patients in Los Angeles & Ventura counties per day
+SELECT 
+	Hospitalized_COVID_patients.county,
+	Hospitalized_COVID_patients.date,
+	SUM(Hospitalized_COVID_patients.total_covid_patients) 
+FROM 
+	Hospitalized_COVID_patients
+WHERE
+	Hospitalized_COVID_patients.county = 'Los Angeles'
+    AND Hospitalized_COVID_patients.county = 'Ventura'
+ORDER BY
+    Hospitalized_COVID_patients.date;
+
+
+-- Which county  has the most positive tests?
+SELECT
+    Total_tests.county,
+    Total_tests.date,
+    MAX(Total_tests.positive_tests) AS max_positive_tests
+FROM
+    Total_tests
+GROUP BY
+    Total_tests.county;
+
+
+-- Join tables: Vaccine and Cases 
+SELECT 
 	Vaccine.county,
 	Vaccine.date,
-	Vaccine.total_doses
-FROM 
-	Counties
-INNER JOIN Vaccines ON
-	Counties.county = Vaccines.county
-    Counties.date = Vaccines.date
-ORDER BY
-	Counties.date ASC;
-
--- Join tables: Counties & Deaths & sorted by date
-SELECT 
-	Counties.county,
-	Counties.date,
-	Deaths.county,
-	Deaths.date,
-	Deaths.reported_deaths
-FROM 
-	Counties
-INNER JOIN Deaths ON
-	Counties.county = Deaths.county
-    Counties.date = Deaths.date
-ORDER BY
-	Counties.date ASC;
-
--- Join tables: Counties & cases 
-SELECT 
-	Counties.county,
-	Counties.date,
+	Vaccine.total_doses,
 	Cases.county,
-	Cases.date,
+    Cases.date,
 	Cases.reported_cases
 FROM 
-	Counties
+	Vaccine
 INNER JOIN Cases ON
-	Counties.county = Cases.county
-    Counties.date = Cases.date
+	Vaccine.county = Cases.county
+    Vaccine.date = Cases.date
 
--- Selecting unemployment rates for Los Angeles and Riverside 
-SELECT 
-	Counties.county,
-	Counties.date,
-	Employment_Unemployment.county,
-	Employment_Unemployment.date,
-	Employment_Unemployment.unemployment_rate
-FROM 
-	Counties
-INNER JOIN Employment_Unemployment ON
-	Counties.county = Employment_Unemployment.county
-    Counties.date = Employment_Unemployment.date
-WHERE
-	Counties.county = 'Los Angeles'
-    AND Counties.county = 'Riverside'
-ORDER BY
-	Employment_Unemployment.unemployment_rate ASC;
-
--- 
-SELECT 
-  Counties.county, 
-  AVG(film.rental_rate) AS avg_deaths
-FROM 
-  film
-GROUP BY 
-  film.rental_duration;
