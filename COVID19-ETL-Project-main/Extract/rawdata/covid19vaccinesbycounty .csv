@@ -1,0 +1,5213 @@
+county,administered_date,total_doses,california_flag
+Stanislaus,3/16/2021,2,California
+Alameda,3/15/2021,6028,California
+Alpine,3/15/2021,19,California
+Amador,3/15/2021,15,California
+Butte,3/15/2021,881,California
+Calaveras,3/15/2021,46,California
+Colusa,3/15/2021,25,California
+Contra Costa,3/15/2021,2993,California
+Del Norte,3/15/2021,30,California
+El Dorado,3/15/2021,168,California
+Fresno,3/15/2021,1892,California
+Glenn,3/15/2021,36,California
+Humboldt,3/15/2021,53,California
+Imperial,3/15/2021,107,California
+Inyo,3/15/2021,35,California
+Kern,3/15/2021,2149,California
+Kings,3/15/2021,215,California
+Lake,3/15/2021,23,California
+Lassen,3/15/2021,20,California
+Los Angeles,3/15/2021,29850,California
+Madera,3/15/2021,303,California
+Marin,3/15/2021,1109,California
+Mariposa,3/15/2021,24,California
+Mendocino,3/15/2021,30,California
+Merced,3/15/2021,523,California
+Modoc,3/15/2021,9,California
+Mono,3/15/2021,1,California
+Monterey,3/15/2021,1353,California
+Napa,3/15/2021,278,California
+Nevada,3/15/2021,223,California
+Orange,3/15/2021,11660,California
+Outside California,3/15/2021,2024,Not in California
+Placer,3/15/2021,594,California
+Plumas,3/15/2021,9,California
+Riverside,3/15/2021,10840,California
+Sacramento,3/15/2021,2415,California
+San Benito,3/15/2021,142,California
+San Bernardino,3/15/2021,5083,California
+San Diego,3/15/2021,7368,California
+San Francisco,3/15/2021,6248,California
+San Joaquin,3/15/2021,1633,California
+San Luis Obispo,3/15/2021,1799,California
+San Mateo,3/15/2021,2381,California
+Santa Barbara,3/15/2021,1036,California
+Santa Clara,3/15/2021,6316,California
+Santa Cruz,3/15/2021,404,California
+Shasta,3/15/2021,102,California
+Siskiyou,3/15/2021,302,California
+Solano,3/15/2021,596,California
+Sonoma,3/15/2021,1478,California
+Stanislaus,3/15/2021,1817,California
+Sutter,3/15/2021,85,California
+Tehama,3/15/2021,61,California
+Trinity,3/15/2021,1,California
+Tulare,3/15/2021,1226,California
+Tuolumne,3/15/2021,80,California
+Ventura,3/15/2021,1216,California
+Yolo,3/15/2021,409,California
+Yuba,3/15/2021,33,California
+Alameda,3/14/2021,9641,California
+Amador,3/14/2021,59,California
+Butte,3/14/2021,112,California
+Calaveras,3/14/2021,84,California
+Colusa,3/14/2021,11,California
+Contra Costa,3/14/2021,3736,California
+Del Norte,3/14/2021,1,California
+El Dorado,3/14/2021,546,California
+Fresno,3/14/2021,1088,California
+Glenn,3/14/2021,3,California
+Humboldt,3/14/2021,83,California
+Imperial,3/14/2021,137,California
+Inyo,3/14/2021,430,California
+Kern,3/14/2021,1770,California
+Kings,3/14/2021,141,California
+Lake,3/14/2021,11,California
+Lassen,3/14/2021,7,California
+Los Angeles,3/14/2021,29238,California
+Madera,3/14/2021,109,California
+Marin,3/14/2021,2012,California
+Mariposa,3/14/2021,14,California
+Mendocino,3/14/2021,61,California
+Merced,3/14/2021,160,California
+Modoc,3/14/2021,1,California
+Mono,3/14/2021,4,California
+Monterey,3/14/2021,515,California
+Napa,3/14/2021,386,California
+Nevada,3/14/2021,93,California
+Orange,3/14/2021,15702,California
+Outside California,3/14/2021,1915,Not in California
+Placer,3/14/2021,1147,California
+Plumas,3/14/2021,11,California
+Riverside,3/14/2021,3022,California
+Sacramento,3/14/2021,4633,California
+San Benito,3/14/2021,75,California
+San Bernardino,3/14/2021,1971,California
+San Diego,3/14/2021,10692,California
+San Francisco,3/14/2021,7132,California
+San Joaquin,3/14/2021,1565,California
+San Luis Obispo,3/14/2021,320,California
+San Mateo,3/14/2021,4393,California
+Santa Barbara,3/14/2021,433,California
+Santa Clara,3/14/2021,4529,California
+Santa Cruz,3/14/2021,631,California
+Shasta,3/14/2021,179,California
+Siskiyou,3/14/2021,17,California
+Solano,3/14/2021,991,California
+Sonoma,3/14/2021,997,California
+Stanislaus,3/14/2021,685,California
+Sutter,3/14/2021,74,California
+Tehama,3/14/2021,25,California
+Tulare,3/14/2021,1548,California
+Tuolumne,3/14/2021,81,California
+Unknown,3/14/2021,118,Not in California
+Ventura,3/14/2021,1164,California
+Yolo,3/14/2021,490,California
+Yuba,3/14/2021,66,California
+Alameda,3/13/2021,12046,California
+Amador,3/13/2021,63,California
+Butte,3/13/2021,146,California
+Calaveras,3/13/2021,85,California
+Colusa,3/13/2021,26,California
+Contra Costa,3/13/2021,6031,California
+Del Norte,3/13/2021,91,California
+El Dorado,3/13/2021,743,California
+Fresno,3/13/2021,5959,California
+Glenn,3/13/2021,10,California
+Humboldt,3/13/2021,771,California
+Imperial,3/13/2021,896,California
+Inyo,3/13/2021,502,California
+Kern,3/13/2021,3417,California
+Kings,3/13/2021,274,California
+Lake,3/13/2021,161,California
+Lassen,3/13/2021,12,California
+Los Angeles,3/13/2021,42561,California
+Madera,3/13/2021,731,California
+Marin,3/13/2021,2547,California
+Mariposa,3/13/2021,20,California
+Mendocino,3/13/2021,559,California
+Merced,3/13/2021,553,California
+Modoc,3/13/2021,4,California
+Mono,3/13/2021,6,California
+Monterey,3/13/2021,1940,California
+Napa,3/13/2021,414,California
+Nevada,3/13/2021,174,California
+Orange,3/13/2021,17988,California
+Outside California,3/13/2021,2987,Not in California
+Placer,3/13/2021,1461,California
+Plumas,3/13/2021,20,California
+Riverside,3/13/2021,5496,California
+Sacramento,3/13/2021,6421,California
+San Benito,3/13/2021,138,California
+San Bernardino,3/13/2021,4399,California
+San Diego,3/13/2021,22583,California
+San Francisco,3/13/2021,5426,California
+San Joaquin,3/13/2021,2489,California
+San Luis Obispo,3/13/2021,542,California
+San Mateo,3/13/2021,5493,California
+Santa Barbara,3/13/2021,2236,California
+Santa Clara,3/13/2021,7817,California
+Santa Cruz,3/13/2021,1244,California
+Shasta,3/13/2021,170,California
+Sierra,3/13/2021,13,California
+Siskiyou,3/13/2021,327,California
+Solano,3/13/2021,1311,California
+Sonoma,3/13/2021,1972,California
+Stanislaus,3/13/2021,3213,California
+Sutter,3/13/2021,203,California
+Tehama,3/13/2021,19,California
+Trinity,3/13/2021,5,California
+Tulare,3/13/2021,2518,California
+Tuolumne,3/13/2021,58,California
+Unknown,3/13/2021,93,Not in California
+Ventura,3/13/2021,2005,California
+Yolo,3/13/2021,868,California
+Yuba,3/13/2021,100,California
+Alameda,3/12/2021,16913,California
+Alpine,3/12/2021,20,California
+Amador,3/12/2021,252,California
+Butte,3/12/2021,933,California
+Calaveras,3/12/2021,325,California
+Colusa,3/12/2021,69,California
+Contra Costa,3/12/2021,10440,California
+Del Norte,3/12/2021,158,California
+El Dorado,3/12/2021,1069,California
+Fresno,3/12/2021,7391,California
+Glenn,3/12/2021,395,California
+Humboldt,3/12/2021,638,California
+Imperial,3/12/2021,967,California
+Inyo,3/12/2021,96,California
+Kern,3/12/2021,5345,California
+Kings,3/12/2021,826,California
+Lake,3/12/2021,236,California
+Lassen,3/12/2021,29,California
+Los Angeles,3/12/2021,57052,California
+Madera,3/12/2021,848,California
+Marin,3/12/2021,2451,California
+Mariposa,3/12/2021,62,California
+Mendocino,3/12/2021,799,California
+Merced,3/12/2021,1891,California
+Modoc,3/12/2021,7,California
+Mono,3/12/2021,7,California
+Monterey,3/12/2021,2604,California
+Napa,3/12/2021,858,California
+Nevada,3/12/2021,848,California
+Orange,3/12/2021,22445,California
+Outside California,3/12/2021,5211,Not in California
+Oxford,3/12/2021,2,California
+Placer,3/12/2021,2298,California
+Plumas,3/12/2021,521,California
+Riverside,3/12/2021,14230,California
+Sacramento,3/12/2021,9977,California
+San Benito,3/12/2021,393,California
+San Bernardino,3/12/2021,8943,California
+San Diego,3/12/2021,23693,California
+San Francisco,3/12/2021,8772,California
+San Joaquin,3/12/2021,5010,California
+San Luis Obispo,3/12/2021,2551,California
+San Mateo,3/12/2021,6995,California
+Santa Barbara,3/12/2021,2729,California
+Santa Clara,3/12/2021,12886,California
+Santa Cruz,3/12/2021,2332,California
+Shasta,3/12/2021,477,California
+Sierra,3/12/2021,20,California
+Siskiyou,3/12/2021,410,California
+Skagit,3/12/2021,1,California
+Solano,3/12/2021,2616,California
+Sonoma,3/12/2021,4321,California
+Stanislaus,3/12/2021,5297,California
+Sutter,3/12/2021,334,California
+Tehama,3/12/2021,228,California
+Trinity,3/12/2021,319,California
+Tulare,3/12/2021,3052,California
+Tuolumne,3/12/2021,177,California
+Unknown,3/12/2021,120,Not in California
+Ventura,3/12/2021,2245,California
+Yolo,3/12/2021,1255,California
+Yuba,3/12/2021,203,California
+Alameda,3/11/2021,16860,California
+Alpine,3/11/2021,35,California
+Amador,3/11/2021,152,California
+Butte,3/11/2021,1550,California
+Calaveras,3/11/2021,590,California
+Colusa,3/11/2021,255,California
+Contra Costa,3/11/2021,10467,California
+Del Norte,3/11/2021,119,California
+El Dorado,3/11/2021,1095,California
+Fresno,3/11/2021,8721,California
+Glenn,3/11/2021,482,California
+Humboldt,3/11/2021,623,California
+Imperial,3/11/2021,519,California
+Inyo,3/11/2021,178,California
+Kern,3/11/2021,4945,California
+Kings,3/11/2021,564,California
+Lake,3/11/2021,105,California
+Lassen,3/11/2021,143,California
+Los Angeles,3/11/2021,63798,California
+Madera,3/11/2021,803,California
+Marin,3/11/2021,2948,California
+Mariposa,3/11/2021,24,California
+Mendocino,3/11/2021,660,California
+Merced,3/11/2021,1504,California
+Modoc,3/11/2021,164,California
+Mono,3/11/2021,12,California
+Monterey,3/11/2021,2140,California
+Napa,3/11/2021,991,California
+Nevada,3/11/2021,827,California
+Orange,3/11/2021,24830,California
+Outside California,3/11/2021,5750,Not in California
+Placer,3/11/2021,2176,California
+Plumas,3/11/2021,150,California
+Riverside,3/11/2021,11709,California
+Sacramento,3/11/2021,9262,California
+San Benito,3/11/2021,345,California
+San Bernardino,3/11/2021,7811,California
+San Diego,3/11/2021,27041,California
+San Francisco,3/11/2021,8417,California
+San Joaquin,3/11/2021,3573,California
+San Luis Obispo,3/11/2021,2554,California
+San Mateo,3/11/2021,6748,California
+Santa Barbara,3/11/2021,4046,California
+Santa Clara,3/11/2021,13538,California
+Santa Cruz,3/11/2021,2389,California
+Shasta,3/11/2021,755,California
+Sierra,3/11/2021,148,California
+Siskiyou,3/11/2021,332,California
+Solano,3/11/2021,2771,California
+Sonoma,3/11/2021,4626,California
+Stanislaus,3/11/2021,5370,California
+Sutter,3/11/2021,355,California
+Tehama,3/11/2021,420,California
+Trinity,3/11/2021,10,California
+Tulare,3/11/2021,2785,California
+Tuolumne,3/11/2021,1195,California
+Unknown,3/11/2021,158,Not in California
+Ventura,3/11/2021,2494,California
+Yolo,3/11/2021,1271,California
+Yuba,3/11/2021,175,California
+Alameda,3/10/2021,15101,California
+Alpine,3/10/2021,72,California
+Amador,3/10/2021,135,California
+Butte,3/10/2021,1370,California
+Calaveras,3/10/2021,389,California
+Colusa,3/10/2021,192,California
+Contra Costa,3/10/2021,9820,California
+Cottonwood,3/10/2021,1,California
+Del Norte,3/10/2021,92,California
+El Dorado,3/10/2021,682,California
+Fresno,3/10/2021,4858,California
+Glenn,3/10/2021,99,California
+Humboldt,3/10/2021,573,California
+Imperial,3/10/2021,301,California
+Inyo,3/10/2021,48,California
+Kern,3/10/2021,5128,California
+Kings,3/10/2021,351,California
+Lake,3/10/2021,157,California
+Lassen,3/10/2021,150,California
+Los Angeles,3/10/2021,55307,California
+Madera,3/10/2021,797,California
+Marin,3/10/2021,2919,California
+Mariposa,3/10/2021,16,California
+Mendocino,3/10/2021,816,California
+Merced,3/10/2021,1783,California
+Modoc,3/10/2021,5,California
+Mono,3/10/2021,4,California
+Monterey,3/10/2021,1871,California
+Napa,3/10/2021,841,California
+Nevada,3/10/2021,651,California
+Orange,3/10/2021,17673,California
+Outside California,3/10/2021,4401,Not in California
+Placer,3/10/2021,1991,California
+Plumas,3/10/2021,195,California
+Riverside,3/10/2021,9540,California
+Sacramento,3/10/2021,8342,California
+San Benito,3/10/2021,338,California
+San Bernardino,3/10/2021,8047,California
+San Diego,3/10/2021,24019,California
+San Francisco,3/10/2021,9003,California
+San Joaquin,3/10/2021,4256,California
+San Luis Obispo,3/10/2021,2509,California
+San Mateo,3/10/2021,4826,California
+Santa Barbara,3/10/2021,1195,California
+Santa Clara,3/10/2021,11110,California
+Santa Cruz,3/10/2021,2304,California
+Shasta,3/10/2021,531,California
+Sierra,3/10/2021,4,California
+Siskiyou,3/10/2021,145,California
+Solano,3/10/2021,1823,California
+Sonoma,3/10/2021,3934,California
+Stanislaus,3/10/2021,5115,California
+Sutter,3/10/2021,174,California
+Tarrant,3/10/2021,3,California
+Tehama,3/10/2021,301,California
+Trinity,3/10/2021,107,California
+Tulare,3/10/2021,2078,California
+Tuolumne,3/10/2021,76,California
+Unknown,3/10/2021,192,Not in California
+Ventura,3/10/2021,1971,California
+Windham,3/10/2021,1,California
+Yolo,3/10/2021,952,California
+Yuba,3/10/2021,145,California
+Alameda,3/9/2021,10509,California
+Alpine,3/9/2021,1,California
+Amador,3/9/2021,92,California
+Butte,3/9/2021,1651,California
+Calaveras,3/9/2021,184,California
+Clallam,3/9/2021,1,California
+Colusa,3/9/2021,196,California
+Contra Costa,3/9/2021,7923,California
+Del Norte,3/9/2021,100,California
+El Dorado,3/9/2021,735,California
+Fresno,3/9/2021,5460,California
+Glenn,3/9/2021,55,California
+Humboldt,3/9/2021,399,California
+Imperial,3/9/2021,402,California
+Inyo,3/9/2021,176,California
+Kern,3/9/2021,3026,California
+Kings,3/9/2021,316,California
+Lake,3/9/2021,169,California
+Lassen,3/9/2021,110,California
+Los Angeles,3/9/2021,46127,California
+Madera,3/9/2021,366,California
+Marin,3/9/2021,1395,California
+Mariposa,3/9/2021,22,California
+Mendocino,3/9/2021,321,California
+Merced,3/9/2021,1166,California
+Modoc,3/9/2021,113,California
+Mono,3/9/2021,5,California
+Monterey,3/9/2021,1478,California
+Napa,3/9/2021,496,California
+Nevada,3/9/2021,434,California
+Orange,3/9/2021,17542,California
+Outside California,3/9/2021,3812,Not in California
+Placer,3/9/2021,1798,California
+Plumas,3/9/2021,123,California
+Riverside,3/9/2021,8874,California
+Sacramento,3/9/2021,6748,California
+San Benito,3/9/2021,223,California
+San Bernardino,3/9/2021,7917,California
+San Diego,3/9/2021,24711,California
+San Francisco,3/9/2021,6374,California
+San Joaquin,3/9/2021,3672,California
+San Luis Obispo,3/9/2021,2671,California
+San Mateo,3/9/2021,4222,California
+Santa Barbara,3/9/2021,1249,California
+Santa Clara,3/9/2021,10359,California
+Santa Cruz,3/9/2021,1339,California
+Shasta,3/9/2021,448,California
+Sierra,3/9/2021,53,California
+Siskiyou,3/9/2021,70,California
+Snohomish,3/9/2021,1,California
+Solano,3/9/2021,1656,California
+Sonoma,3/9/2021,3838,California
+Stanislaus,3/9/2021,2365,California
+Sutter,3/9/2021,214,California
+Tehama,3/9/2021,266,California
+Trinity,3/9/2021,92,California
+Tulare,3/9/2021,1694,California
+Tuolumne,3/9/2021,857,California
+Unknown,3/9/2021,177,Not in California
+Ventura,3/9/2021,2338,California
+Yolo,3/9/2021,749,California
+Yuba,3/9/2021,127,California
+Alameda,3/8/2021,10405,California
+Alpine,3/8/2021,27,California
+Amador,3/8/2021,128,California
+Butte,3/8/2021,1105,California
+Calaveras,3/8/2021,84,California
+Colusa,3/8/2021,77,California
+Contra Costa,3/8/2021,7056,California
+Del Norte,3/8/2021,23,California
+El Dorado,3/8/2021,1029,California
+Fresno,3/8/2021,3912,California
+Glenn,3/8/2021,19,California
+Humboldt,3/8/2021,161,California
+Imperial,3/8/2021,272,California
+Inyo,3/8/2021,109,California
+Kern,3/8/2021,2330,California
+Kings,3/8/2021,262,California
+Lake,3/8/2021,198,California
+Lassen,3/8/2021,85,California
+Los Angeles,3/8/2021,37363,California
+Madera,3/8/2021,484,California
+Marin,3/8/2021,1299,California
+Mariposa,3/8/2021,34,California
+Mendocino,3/8/2021,108,California
+Merced,3/8/2021,973,California
+Modoc,3/8/2021,5,California
+Mono,3/8/2021,9,California
+Monterey,3/8/2021,1216,California
+Napa,3/8/2021,595,California
+Nevada,3/8/2021,659,California
+Orange,3/8/2021,11031,California
+Outside California,3/8/2021,2749,Not in California
+Placer,3/8/2021,2398,California
+Plumas,3/8/2021,31,California
+Riverside,3/8/2021,6060,California
+Sacramento,3/8/2021,7283,California
+San Benito,3/8/2021,246,California
+San Bernardino,3/8/2021,5884,California
+San Diego,3/8/2021,21985,California
+San Francisco,3/8/2021,6479,California
+San Joaquin,3/8/2021,2505,California
+San Luis Obispo,3/8/2021,2314,California
+San Mateo,3/8/2021,3733,California
+Santa Barbara,3/8/2021,960,California
+Santa Clara,3/8/2021,11611,California
+Santa Cruz,3/8/2021,843,California
+Shasta,3/8/2021,449,California
+Sierra,3/8/2021,3,California
+Siskiyou,3/8/2021,317,California
+Solano,3/8/2021,1249,California
+Sonoma,3/8/2021,3160,California
+Stanislaus,3/8/2021,1671,California
+Sutter,3/8/2021,137,California
+Tehama,3/8/2021,45,California
+Trinity,3/8/2021,3,California
+Tulare,3/8/2021,1106,California
+Tuolumne,3/8/2021,166,California
+Unknown,3/8/2021,142,Not in California
+Ventura,3/8/2021,4844,California
+Yolo,3/8/2021,825,California
+Yuba,3/8/2021,106,California
+Alameda,3/7/2021,9084,California
+Amador,3/7/2021,62,California
+Butte,3/7/2021,57,California
+Calaveras,3/7/2021,62,California
+Colusa,3/7/2021,7,California
+Contra Costa,3/7/2021,3443,California
+Del Norte,3/7/2021,3,California
+El Dorado,3/7/2021,390,California
+Fresno,3/7/2021,1061,California
+Glenn,3/7/2021,1,California
+Humboldt,3/7/2021,343,California
+Imperial,3/7/2021,76,California
+Inyo,3/7/2021,6,California
+Kern,3/7/2021,1914,California
+Kings,3/7/2021,211,California
+Lake,3/7/2021,6,California
+Lassen,3/7/2021,55,California
+Los Angeles,3/7/2021,22741,California
+Madera,3/7/2021,127,California
+Marin,3/7/2021,1332,California
+Mariposa,3/7/2021,1,California
+Mendocino,3/7/2021,482,California
+Merced,3/7/2021,197,California
+Modoc,3/7/2021,6,California
+Mono,3/7/2021,1,California
+Monterey,3/7/2021,451,California
+Napa,3/7/2021,426,California
+Nevada,3/7/2021,187,California
+Orange,3/7/2021,13588,California
+Outside California,3/7/2021,2072,Not in California
+Placer,3/7/2021,1203,California
+Plumas,3/7/2021,10,California
+Riverside,3/7/2021,3478,California
+Sacramento,3/7/2021,7208,California
+San Benito,3/7/2021,620,California
+San Bernardino,3/7/2021,1386,California
+San Diego,3/7/2021,17133,California
+San Francisco,3/7/2021,4902,California
+San Joaquin,3/7/2021,1117,California
+San Luis Obispo,3/7/2021,194,California
+San Mateo,3/7/2021,3351,California
+Santa Barbara,3/7/2021,494,California
+Santa Clara,3/7/2021,6124,California
+Santa Cruz,3/7/2021,1321,California
+Shasta,3/7/2021,76,California
+Siskiyou,3/7/2021,10,California
+Solano,3/7/2021,2640,California
+Sonoma,3/7/2021,1574,California
+Stanislaus,3/7/2021,804,California
+Sutter,3/7/2021,56,California
+Tehama,3/7/2021,5,California
+Trinity,3/7/2021,3,California
+Tulare,3/7/2021,1002,California
+Tuolumne,3/7/2021,29,California
+Unknown,3/7/2021,56,Not in California
+Ventura,3/7/2021,1483,California
+Yolo,3/7/2021,445,California
+Yuba,3/7/2021,45,California
+Alameda,3/6/2021,11491,California
+Amador,3/6/2021,72,California
+Butte,3/6/2021,141,California
+Calaveras,3/6/2021,81,California
+Colusa,3/6/2021,235,California
+Contra Costa,3/6/2021,6350,California
+Del Norte,3/6/2021,425,California
+El Dorado,3/6/2021,521,California
+Fresno,3/6/2021,5438,California
+Glenn,3/6/2021,24,California
+Humboldt,3/6/2021,1174,California
+Imperial,3/6/2021,642,California
+Inyo,3/6/2021,29,California
+Kern,3/6/2021,3801,California
+Kings,3/6/2021,442,California
+Lake,3/6/2021,28,California
+Lassen,3/6/2021,45,California
+Los Angeles,3/6/2021,52638,California
+Madera,3/6/2021,618,California
+Marin,3/6/2021,2242,California
+Mariposa,3/6/2021,5,California
+Mendocino,3/6/2021,224,California
+Merced,3/6/2021,820,California
+Modoc,3/6/2021,8,California
+Mono,3/6/2021,319,California
+Monterey,3/6/2021,2479,California
+Napa,3/6/2021,497,California
+Nevada,3/6/2021,293,California
+Orange,3/6/2021,16025,California
+Outside California,3/6/2021,4749,Not in California
+Placer,3/6/2021,2063,California
+Plumas,3/6/2021,10,California
+Riverside,3/6/2021,6711,California
+Sacramento,3/6/2021,5390,California
+San Benito,3/6/2021,147,California
+San Bernardino,3/6/2021,7100,California
+San Diego,3/6/2021,22241,California
+San Francisco,3/6/2021,5909,California
+San Joaquin,3/6/2021,2772,California
+San Luis Obispo,3/6/2021,666,California
+San Mateo,3/6/2021,7142,California
+Santa Barbara,3/6/2021,1870,California
+Santa Clara,3/6/2021,8089,California
+Santa Cruz,3/6/2021,3539,California
+Shasta,3/6/2021,713,California
+Siskiyou,3/6/2021,22,California
+Solano,3/6/2021,3330,California
+Sonoma,3/6/2021,2340,California
+Stanislaus,3/6/2021,3307,California
+Sutter,3/6/2021,535,California
+Tehama,3/6/2021,269,California
+Trinity,3/6/2021,181,California
+Tulare,3/6/2021,2244,California
+Tuolumne,3/6/2021,1024,California
+Unknown,3/6/2021,120,Not in California
+Ventura,3/6/2021,4802,California
+Yolo,3/6/2021,532,California
+Yuba,3/6/2021,260,California
+Alameda,3/5/2021,13464,California
+Alpine,3/5/2021,29,California
+Amador,3/5/2021,476,California
+Butte,3/5/2021,1253,California
+Calaveras,3/5/2021,442,California
+Colusa,3/5/2021,84,California
+Contra Costa,3/5/2021,9494,California
+Del Norte,3/5/2021,68,California
+El Dorado,3/5/2021,1090,California
+Fresno,3/5/2021,6650,California
+Glenn,3/5/2021,329,California
+Humboldt,3/5/2021,857,California
+Imperial,3/5/2021,2539,California
+Inyo,3/5/2021,149,California
+Kern,3/5/2021,5680,California
+Kings,3/5/2021,845,California
+Lake,3/5/2021,790,California
+Lassen,3/5/2021,44,California
+Los Angeles,3/5/2021,72948,California
+Madera,3/5/2021,1093,California
+Marin,3/5/2021,2478,California
+Mariposa,3/5/2021,32,California
+Mendocino,3/5/2021,165,California
+Merced,3/5/2021,1925,California
+Modoc,3/5/2021,3,California
+Mono,3/5/2021,30,California
+Monterey,3/5/2021,2677,California
+Morgan,3/5/2021,1,California
+Napa,3/5/2021,1583,California
+Nevada,3/5/2021,680,California
+Orange,3/5/2021,16723,California
+Outside California,3/5/2021,5562,Not in California
+Placer,3/5/2021,2482,California
+Plumas,3/5/2021,370,California
+Riverside,3/5/2021,13804,California
+Sacramento,3/5/2021,7722,California
+San Benito,3/5/2021,404,California
+San Bernardino,3/5/2021,11219,California
+San Diego,3/5/2021,27800,California
+San Francisco,3/5/2021,7569,California
+San Joaquin,3/5/2021,3989,California
+San Luis Obispo,3/5/2021,2067,California
+San Mateo,3/5/2021,7934,California
+Santa Barbara,3/5/2021,3684,California
+Santa Clara,3/5/2021,12995,California
+Santa Cruz,3/5/2021,2223,California
+Shasta,3/5/2021,899,California
+Sierra,3/5/2021,12,California
+Siskiyou,3/5/2021,193,California
+Solano,3/5/2021,3421,California
+Sonoma,3/5/2021,4946,California
+Stanislaus,3/5/2021,3785,California
+Sutter,3/5/2021,255,California
+Tehama,3/5/2021,340,California
+Trinity,3/5/2021,282,California
+Tulare,3/5/2021,2890,California
+Tuolumne,3/5/2021,74,California
+Unknown,3/5/2021,184,Not in California
+Ventura,3/5/2021,8848,California
+Yolo,3/5/2021,1278,California
+Yuba,3/5/2021,260,California
+Alameda,3/4/2021,14930,California
+Alpine,3/4/2021,11,California
+Amador,3/4/2021,466,California
+Butte,3/4/2021,2609,California
+Calaveras,3/4/2021,529,California
+Colusa,3/4/2021,109,California
+Contra Costa,3/4/2021,10433,California
+Del Norte,3/4/2021,120,California
+El Dorado,3/4/2021,2100,California
+Fresno,3/4/2021,7384,California
+Glenn,3/4/2021,382,California
+Hamilton,3/4/2021,1,Not in California
+Humboldt,3/4/2021,827,California
+Imperial,3/4/2021,683,California
+Inyo,3/4/2021,120,California
+Kern,3/4/2021,4620,California
+Kings,3/4/2021,546,California
+La Paz,3/4/2021,2,California
+Lake,3/4/2021,505,California
+Lassen,3/4/2021,139,California
+Los Angeles,3/4/2021,79018,California
+Madera,3/4/2021,1080,California
+Marin,3/4/2021,2681,California
+Mariposa,3/4/2021,16,California
+Mendocino,3/4/2021,1071,California
+Merced,3/4/2021,2668,California
+Modoc,3/4/2021,155,California
+Mono,3/4/2021,7,California
+Monterey,3/4/2021,4040,California
+Napa,3/4/2021,1274,California
+Nevada,3/4/2021,975,California
+Orange,3/4/2021,18638,California
+Outside California,3/4/2021,7248,Not in California
+Placer,3/4/2021,3031,California
+Plumas,3/4/2021,211,California
+Riverside,3/4/2021,14437,California
+Sacramento,3/4/2021,9334,California
+San Benito,3/4/2021,286,California
+San Bernardino,3/4/2021,10634,California
+San Diego,3/4/2021,27329,California
+San Francisco,3/4/2021,7521,California
+San Joaquin,3/4/2021,4594,California
+San Luis Obispo,3/4/2021,1940,California
+San Mateo,3/4/2021,7170,California
+Santa Barbara,3/4/2021,3092,California
+Santa Clara,3/4/2021,12911,California
+Santa Cruz,3/4/2021,2508,California
+Shasta,3/4/2021,992,California
+Sierra,3/4/2021,100,California
+Siskiyou,3/4/2021,659,California
+Solano,3/4/2021,2554,California
+Sonoma,3/4/2021,4754,California
+Stanislaus,3/4/2021,5193,California
+Sutter,3/4/2021,1154,California
+Tehama,3/4/2021,511,California
+Trinity,3/4/2021,15,California
+Tulare,3/4/2021,2608,California
+Tuolumne,3/4/2021,1132,California
+Unknown,3/4/2021,58,Not in California
+Ventura,3/4/2021,7718,California
+Walla Walla,3/4/2021,1,California
+Yolo,3/4/2021,1588,California
+Yuba,3/4/2021,444,California
+Alameda,3/3/2021,13687,California
+Alpine,3/3/2021,30,California
+Amador,3/3/2021,211,California
+Bennington,3/3/2021,1,California
+Butte,3/3/2021,2318,California
+Calaveras,3/3/2021,477,California
+Clallam,3/3/2021,1,California
+Colusa,3/3/2021,211,California
+Contra Costa,3/3/2021,9786,California
+Del Norte,3/3/2021,150,California
+El Dorado,3/3/2021,1301,California
+Fresno,3/3/2021,5209,California
+Glenn,3/3/2021,169,California
+Humboldt,3/3/2021,1429,California
+Imperial,3/3/2021,847,California
+Inyo,3/3/2021,82,California
+Jackson,3/3/2021,1,California
+Kern,3/3/2021,5395,California
+Kings,3/3/2021,526,California
+Lake,3/3/2021,324,California
+Lassen,3/3/2021,156,California
+Los Angeles,3/3/2021,75890,California
+Madera,3/3/2021,1144,California
+Marin,3/3/2021,3872,California
+Mariposa,3/3/2021,7,California
+Mendocino,3/3/2021,1542,California
+Merced,3/3/2021,2010,California
+Modoc,3/3/2021,10,California
+Mono,3/3/2021,82,California
+Monterey,3/3/2021,2686,California
+Napa,3/3/2021,1210,California
+Nevada,3/3/2021,879,California
+Orange,3/3/2021,18170,California
+Outside California,3/3/2021,8842,Not in California
+Placer,3/3/2021,2793,California
+Plumas,3/3/2021,138,California
+Riverside,3/3/2021,15625,California
+Sacramento,3/3/2021,9027,California
+San Benito,3/3/2021,354,California
+San Bernardino,3/3/2021,11652,California
+San Diego,3/3/2021,32270,California
+San Francisco,3/3/2021,9975,California
+San Joaquin,3/3/2021,5165,California
+San Luis Obispo,3/3/2021,2059,California
+San Mateo,3/3/2021,7449,California
+Santa Barbara,3/3/2021,4406,California
+Santa Clara,3/3/2021,16052,California
+Santa Cruz,3/3/2021,2155,California
+Shasta,3/3/2021,531,California
+Sierra,3/3/2021,2,California
+Siskiyou,3/3/2021,328,California
+Solano,3/3/2021,1653,California
+Sonoma,3/3/2021,4065,California
+Stanislaus,3/3/2021,3408,California
+Sutter,3/3/2021,1329,California
+Tehama,3/3/2021,82,California
+Trinity,3/3/2021,5,California
+Tulare,3/3/2021,3186,California
+Tuolumne,3/3/2021,77,California
+Unknown,3/3/2021,23,Not in California
+Ventura,3/3/2021,8043,California
+Yolo,3/3/2021,1681,California
+Yuba,3/3/2021,594,California
+Alameda,3/2/2021,12723,California
+Alpine,3/2/2021,1,California
+Amador,3/2/2021,370,California
+Butte,3/2/2021,1362,California
+Calaveras,3/2/2021,232,California
+Carson City,3/2/2021,1,California
+Colusa,3/2/2021,45,California
+Contra Costa,3/2/2021,8793,California
+Del Norte,3/2/2021,210,California
+El Dorado,3/2/2021,804,California
+Fresno,3/2/2021,7427,California
+Glenn,3/2/2021,31,California
+Hawaii,3/2/2021,1,California
+Humboldt,3/2/2021,232,California
+Imperial,3/2/2021,674,California
+Inyo,3/2/2021,176,California
+Kern,3/2/2021,3752,California
+Kings,3/2/2021,425,California
+Lake,3/2/2021,710,California
+Lassen,3/2/2021,100,California
+Los Angeles,3/2/2021,66355,California
+Madera,3/2/2021,591,California
+Marin,3/2/2021,2267,California
+Mariposa,3/2/2021,6,California
+Mendocino,3/2/2021,62,California
+Merced,3/2/2021,1544,California
+Modoc,3/2/2021,187,California
+Mono,3/2/2021,6,California
+Monterey,3/2/2021,2547,California
+Napa,3/2/2021,1274,California
+Nevada,3/2/2021,648,California
+Orange,3/2/2021,13403,California
+Outside California,3/2/2021,7158,Not in California
+Placer,3/2/2021,2703,California
+Plumas,3/2/2021,8,California
+Riverside,3/2/2021,13465,California
+Sacramento,3/2/2021,8053,California
+San Benito,3/2/2021,237,California
+San Bernardino,3/2/2021,12717,California
+San Diego,3/2/2021,24959,California
+San Francisco,3/2/2021,8225,California
+San Joaquin,3/2/2021,3807,California
+San Luis Obispo,3/2/2021,2721,California
+San Mateo,3/2/2021,5141,California
+Santa Barbara,3/2/2021,2363,California
+Santa Clara,3/2/2021,12075,California
+Santa Cruz,3/2/2021,1427,California
+Shasta,3/2/2021,473,California
+Sierra,3/2/2021,50,California
+Siskiyou,3/2/2021,175,California
+Solano,3/2/2021,1563,California
+Sonoma,3/2/2021,3979,California
+Stanislaus,3/2/2021,2236,California
+Sutter,3/2/2021,312,California
+Tehama,3/2/2021,70,California
+Trinity,3/2/2021,6,California
+Tulare,3/2/2021,2260,California
+Tuolumne,3/2/2021,700,California
+Unknown,3/2/2021,20,Not in California
+Ventura,3/2/2021,7166,California
+Yolo,3/2/2021,1338,California
+Yuba,3/2/2021,145,California
+Alameda,3/1/2021,12510,California
+Alpine,3/1/2021,33,California
+Amador,3/1/2021,183,California
+Butte,3/1/2021,1131,California
+Calaveras,3/1/2021,184,California
+Colusa,3/1/2021,43,California
+Contra Costa,3/1/2021,7389,California
+Del Norte,3/1/2021,26,California
+El Dorado,3/1/2021,1006,California
+Fresno,3/1/2021,4459,California
+Glenn,3/1/2021,27,California
+Humboldt,3/1/2021,233,California
+Imperial,3/1/2021,510,California
+Inyo,3/1/2021,23,California
+Kern,3/1/2021,3576,California
+Kings,3/1/2021,241,California
+Lake,3/1/2021,570,California
+Lassen,3/1/2021,36,California
+Linn,3/1/2021,1,California
+Los Angeles,3/1/2021,51894,California
+Madera,3/1/2021,355,California
+Marin,3/1/2021,2246,California
+Mariposa,3/1/2021,56,California
+Mendocino,3/1/2021,562,California
+Merced,3/1/2021,1112,California
+Modoc,3/1/2021,4,California
+Monterey,3/1/2021,1225,California
+Napa,3/1/2021,1029,California
+Nevada,3/1/2021,768,California
+Orange,3/1/2021,17406,California
+Outside California,3/1/2021,5535,Not in California
+Placer,3/1/2021,2805,California
+Plumas,3/1/2021,10,California
+Riverside,3/1/2021,13108,California
+Sacramento,3/1/2021,7098,California
+San Benito,3/1/2021,214,California
+San Bernardino,3/1/2021,7190,California
+San Diego,3/1/2021,22956,California
+San Francisco,3/1/2021,9555,California
+San Joaquin,3/1/2021,3924,California
+San Luis Obispo,3/1/2021,2868,California
+San Mateo,3/1/2021,5264,California
+Santa Barbara,3/1/2021,1486,California
+Santa Clara,3/1/2021,12982,California
+Santa Cruz,3/1/2021,1773,California
+Shasta,3/1/2021,549,California
+Sierra,3/1/2021,2,California
+Siskiyou,3/1/2021,270,California
+Solano,3/1/2021,1423,California
+Sonoma,3/1/2021,3390,California
+Stanislaus,3/1/2021,2917,California
+Sutter,3/1/2021,232,California
+Tehama,3/1/2021,61,California
+Trinity,3/1/2021,7,California
+Tulare,3/1/2021,1527,California
+Tuolumne,3/1/2021,101,California
+Unknown,3/1/2021,48,Not in California
+Ventura,3/1/2021,6718,California
+Yolo,3/1/2021,983,California
+Yuba,3/1/2021,148,California
+Alameda,2/28/2021,8905,California
+Amador,2/28/2021,94,California
+Butte,2/28/2021,114,California
+Calaveras,2/28/2021,87,California
+Colusa,2/28/2021,24,California
+Contra Costa,2/28/2021,3640,California
+Del Norte,2/28/2021,6,California
+El Dorado,2/28/2021,506,California
+Fresno,2/28/2021,1490,California
+Glenn,2/28/2021,5,California
+Humboldt,2/28/2021,106,California
+Imperial,2/28/2021,83,California
+Inyo,2/28/2021,2,California
+Kern,2/28/2021,843,California
+Kings,2/28/2021,993,California
+Lake,2/28/2021,17,California
+Lassen,2/28/2021,5,California
+Los Angeles,2/28/2021,25383,California
+Madera,2/28/2021,179,California
+Marin,2/28/2021,1316,California
+Mariposa,2/28/2021,2,California
+Mendocino,2/28/2021,35,California
+Merced,2/28/2021,278,California
+Mono,2/28/2021,1,California
+Monterey,2/28/2021,1464,California
+Napa,2/28/2021,541,California
+Nevada,2/28/2021,233,California
+Orange,2/28/2021,18309,California
+Outside California,2/28/2021,3548,Not in California
+Placer,2/28/2021,1348,California
+Riverside,2/28/2021,4407,California
+Sacramento,2/28/2021,5035,California
+San Benito,2/28/2021,191,California
+San Bernardino,2/28/2021,1611,California
+San Diego,2/28/2021,13524,California
+San Francisco,2/28/2021,7441,California
+San Joaquin,2/28/2021,2908,California
+San Luis Obispo,2/28/2021,175,California
+San Mateo,2/28/2021,3976,California
+Santa Barbara,2/28/2021,998,California
+Santa Clara,2/28/2021,4556,California
+Santa Cruz,2/28/2021,1273,California
+Shasta,2/28/2021,167,California
+Siskiyou,2/28/2021,3,California
+Solano,2/28/2021,1274,California
+Sonoma,2/28/2021,2144,California
+Stanislaus,2/28/2021,731,California
+Sutter,2/28/2021,75,California
+Tehama,2/28/2021,22,California
+Trinity,2/28/2021,1,California
+Tulare,2/28/2021,1221,California
+Tuolumne,2/28/2021,44,California
+Unknown,2/28/2021,24,Not in California
+Ventura,2/28/2021,2474,California
+Yolo,2/28/2021,1634,California
+Yuba,2/28/2021,61,California
+Alameda,2/27/2021,14406,California
+Amador,2/27/2021,284,California
+Butte,2/27/2021,227,California
+Calaveras,2/27/2021,203,California
+Colusa,2/27/2021,54,California
+Contra Costa,2/27/2021,6375,California
+Del Norte,2/27/2021,152,California
+El Dorado,2/27/2021,1562,California
+Fresno,2/27/2021,6052,California
+Glenn,2/27/2021,14,California
+Humboldt,2/27/2021,877,California
+Imperial,2/27/2021,931,California
+Inyo,2/27/2021,13,California
+Kern,2/27/2021,3528,California
+Kings,2/27/2021,1232,California
+Lake,2/27/2021,57,California
+Lassen,2/27/2021,8,California
+Los Angeles,2/27/2021,57366,California
+Madera,2/27/2021,844,California
+Marin,2/27/2021,2543,California
+Mariposa,2/27/2021,153,California
+Mendocino,2/27/2021,187,California
+Merced,2/27/2021,1907,California
+Modoc,2/27/2021,5,California
+Mono,2/27/2021,136,California
+Monterey,2/27/2021,964,California
+Napa,2/27/2021,1018,California
+Nevada,2/27/2021,330,California
+Orange,2/27/2021,24414,California
+Outside California,2/27/2021,5666,Not in California
+Placer,2/27/2021,2675,California
+Plumas,2/27/2021,42,California
+Riverside,2/27/2021,10934,California
+Sacramento,2/27/2021,9353,California
+San Benito,2/27/2021,96,California
+San Bernardino,2/27/2021,6412,California
+San Diego,2/27/2021,20445,California
+San Francisco,2/27/2021,8649,California
+San Joaquin,2/27/2021,5256,California
+San Luis Obispo,2/27/2021,565,California
+San Mateo,2/27/2021,6460,California
+Santa Barbara,2/27/2021,1464,California
+Santa Clara,2/27/2021,7897,California
+Santa Cruz,2/27/2021,2613,California
+Shasta,2/27/2021,806,California
+Sierra,2/27/2021,2,California
+Siskiyou,2/27/2021,30,California
+Solano,2/27/2021,3420,California
+Sonoma,2/27/2021,3887,California
+Stanislaus,2/27/2021,1963,California
+Sutter,2/27/2021,802,California
+Tehama,2/27/2021,296,California
+Trinity,2/27/2021,4,California
+Tulare,2/27/2021,2670,California
+Tuolumne,2/27/2021,943,California
+Unknown,2/27/2021,30,Not in California
+Ventura,2/27/2021,9805,California
+Yolo,2/27/2021,1583,California
+Yuba,2/27/2021,449,California
+Alameda,2/26/2021,16828,California
+Alpine,2/26/2021,29,California
+Amador,2/26/2021,591,California
+Butte,2/26/2021,854,California
+Calaveras,2/26/2021,637,California
+Colusa,2/26/2021,95,California
+Contra Costa,2/26/2021,9423,California
+Del Norte,2/26/2021,99,California
+El Dorado,2/26/2021,2009,California
+Fresno,2/26/2021,7249,California
+Glenn,2/26/2021,303,California
+Humboldt,2/26/2021,2071,California
+Imperial,2/26/2021,1637,California
+Inyo,2/26/2021,103,California
+Kern,2/26/2021,6090,California
+Kings,2/26/2021,600,California
+Lake,2/26/2021,974,California
+Lassen,2/26/2021,64,California
+Los Angeles,2/26/2021,78742,California
+Madera,2/26/2021,1017,California
+Marin,2/26/2021,3307,California
+Mariposa,2/26/2021,411,California
+Mendocino,2/26/2021,1337,California
+Merced,2/26/2021,2049,California
+Modoc,2/26/2021,3,California
+Mono,2/26/2021,576,California
+Monterey,2/26/2021,4953,California
+Napa,2/26/2021,1396,California
+Nevada,2/26/2021,1180,California
+Orange,2/26/2021,26051,California
+Outside California,2/26/2021,7107,Not in California
+Placer,2/26/2021,3825,California
+Plumas,2/26/2021,255,California
+Riverside,2/26/2021,17000,California
+Sacramento,2/26/2021,12224,California
+San Benito,2/26/2021,604,California
+San Bernardino,2/26/2021,12297,California
+San Diego,2/26/2021,32428,California
+San Francisco,2/26/2021,11177,California
+San Joaquin,2/26/2021,5185,California
+San Luis Obispo,2/26/2021,2577,California
+San Mateo,2/26/2021,8878,California
+Santa Barbara,2/26/2021,3272,California
+Santa Clara,2/26/2021,11942,California
+Santa Cruz,2/26/2021,2621,California
+Shasta,2/26/2021,748,California
+Sierra,2/26/2021,9,California
+Siskiyou,2/26/2021,660,California
+Solano,2/26/2021,2245,California
+Sonoma,2/26/2021,5731,California
+Stanislaus,2/26/2021,3945,California
+Sutter,2/26/2021,347,California
+Tehama,2/26/2021,448,California
+Trinity,2/26/2021,10,California
+Tulare,2/26/2021,3319,California
+Tuolumne,2/26/2021,135,California
+Unknown,2/26/2021,35,Not in California
+Ventura,2/26/2021,8935,California
+Yolo,2/26/2021,2072,California
+Yuba,2/26/2021,234,California
+Alameda,2/25/2021,14842,California
+Alpine,2/25/2021,7,California
+Amador,2/25/2021,501,California
+Butte,2/25/2021,1998,California
+Calaveras,2/25/2021,469,California
+Colusa,2/25/2021,95,California
+Contra Costa,2/25/2021,10521,California
+Del Norte,2/25/2021,300,California
+El Dorado,2/25/2021,1416,California
+Fresno,2/25/2021,6942,California
+Glenn,2/25/2021,255,California
+Humboldt,2/25/2021,808,California
+Imperial,2/25/2021,807,California
+Inyo,2/25/2021,125,California
+Kern,2/25/2021,4969,California
+Kings,2/25/2021,639,California
+Lake,2/25/2021,671,California
+Lassen,2/25/2021,146,California
+Lewis,2/25/2021,1,California
+Los Angeles,2/25/2021,69508,California
+Madera,2/25/2021,991,California
+Marin,2/25/2021,3705,California
+Mariposa,2/25/2021,4,California
+Meeker,2/25/2021,1,California
+Mendocino,2/25/2021,1172,California
+Merced,2/25/2021,1630,California
+Modoc,2/25/2021,169,California
+Mono,2/25/2021,5,California
+Monterey,2/25/2021,4171,California
+Napa,2/25/2021,2340,California
+Nevada,2/25/2021,826,California
+Orange,2/25/2021,21721,California
+Outside California,2/25/2021,7909,Not in California
+Placer,2/25/2021,3138,California
+Plumas,2/25/2021,221,California
+Riverside,2/25/2021,16028,California
+Sacramento,2/25/2021,9063,California
+San Benito,2/25/2021,383,California
+San Bernardino,2/25/2021,11858,California
+San Diego,2/25/2021,31550,California
+San Francisco,2/25/2021,9447,California
+San Joaquin,2/25/2021,6027,California
+San Luis Obispo,2/25/2021,2025,California
+San Mateo,2/25/2021,8615,California
+Santa Barbara,2/25/2021,3374,California
+Santa Clara,2/25/2021,13124,California
+Santa Cruz,2/25/2021,3098,California
+Shasta,2/25/2021,458,California
+Sierra,2/25/2021,127,California
+Siskiyou,2/25/2021,294,California
+Solano,2/25/2021,2099,California
+Sonoma,2/25/2021,5351,California
+Stanislaus,2/25/2021,3727,California
+Sutter,2/25/2021,764,California
+Tehama,2/25/2021,373,California
+Trinity,2/25/2021,36,California
+Tulare,2/25/2021,3190,California
+Tuolumne,2/25/2021,1034,California
+Unknown,2/25/2021,85,Not in California
+Ventura,2/25/2021,7262,California
+Yolo,2/25/2021,1287,California
+Yuba,2/25/2021,316,California
+Alameda,2/24/2021,13847,California
+Amador,2/24/2021,387,California
+Butte,2/24/2021,2057,California
+Calaveras,2/24/2021,90,California
+Colusa,2/24/2021,298,California
+Contra Costa,2/24/2021,9390,California
+Del Norte,2/24/2021,149,California
+El Dorado,2/24/2021,865,California
+Fresno,2/24/2021,3800,California
+Glenn,2/24/2021,219,California
+Humboldt,2/24/2021,1140,California
+Imperial,2/24/2021,668,California
+Inyo,2/24/2021,117,California
+Kern,2/24/2021,4968,California
+Kings,2/24/2021,570,California
+Lake,2/24/2021,713,California
+Lassen,2/24/2021,163,California
+Los Angeles,2/24/2021,60458,California
+Madera,2/24/2021,886,California
+Marin,2/24/2021,3304,California
+Mariposa,2/24/2021,12,California
+Mendocino,2/24/2021,1781,California
+Merced,2/24/2021,788,California
+Modoc,2/24/2021,89,California
+Mono,2/24/2021,6,California
+Monterey,2/24/2021,2339,California
+Napa,2/24/2021,1059,California
+Nevada,2/24/2021,460,California
+Orange,2/24/2021,20074,California
+Outside California,2/24/2021,7487,Not in California
+Placer,2/24/2021,3093,California
+Plumas,2/24/2021,449,California
+Riverside,2/24/2021,13988,California
+Sacramento,2/24/2021,8712,California
+San Benito,2/24/2021,355,California
+San Bernardino,2/24/2021,11081,California
+San Diego,2/24/2021,27172,California
+San Francisco,2/24/2021,8684,California
+San Joaquin,2/24/2021,5474,California
+San Luis Obispo,2/24/2021,2625,California
+San Mateo,2/24/2021,7012,California
+Santa Barbara,2/24/2021,3050,California
+Santa Clara,2/24/2021,12511,California
+Santa Cruz,2/24/2021,3099,California
+Shasta,2/24/2021,503,California
+Sierra,2/24/2021,2,California
+Siskiyou,2/24/2021,145,California
+Solano,2/24/2021,2073,California
+Sonoma,2/24/2021,5029,California
+Stanislaus,2/24/2021,3861,California
+Sutter,2/24/2021,951,California
+Tehama,2/24/2021,294,California
+Trinity,2/24/2021,16,California
+Tulare,2/24/2021,2293,California
+Tuolumne,2/24/2021,81,California
+Unknown,2/24/2021,52,Not in California
+Ventura,2/24/2021,4734,California
+Yolo,2/24/2021,1878,California
+Yuba,2/24/2021,467,California
+Alameda,2/23/2021,12284,California
+Amador,2/23/2021,309,California
+Butte,2/23/2021,1553,California
+Calaveras,2/23/2021,145,California
+Colusa,2/23/2021,18,California
+Contra Costa,2/23/2021,10917,California
+Del Norte,2/23/2021,101,California
+El Dorado,2/23/2021,718,California
+Fresno,2/23/2021,3577,California
+Glenn,2/23/2021,38,California
+Humboldt,2/23/2021,134,California
+Imperial,2/23/2021,883,California
+Inyo,2/23/2021,193,California
+Kern,2/23/2021,3011,California
+Kings,2/23/2021,274,California
+Lake,2/23/2021,162,California
+Lassen,2/23/2021,151,California
+Los Angeles,2/23/2021,51509,California
+Madera,2/23/2021,716,California
+Marin,2/23/2021,2731,California
+Mariposa,2/23/2021,4,California
+Mendocino,2/23/2021,645,California
+Merced,2/23/2021,1057,California
+Modoc,2/23/2021,23,California
+Mono,2/23/2021,133,California
+Monterey,2/23/2021,933,California
+Napa,2/23/2021,1008,California
+Nevada,2/23/2021,432,California
+Orange,2/23/2021,12753,California
+Outside California,2/23/2021,7009,Not in California
+Placer,2/23/2021,2356,California
+Plumas,2/23/2021,21,California
+Riverside,2/23/2021,10727,California
+Sacramento,2/23/2021,6645,California
+San Benito,2/23/2021,345,California
+San Bernardino,2/23/2021,8373,California
+San Diego,2/23/2021,23841,California
+San Francisco,2/23/2021,5279,California
+San Joaquin,2/23/2021,3976,California
+San Luis Obispo,2/23/2021,1846,California
+San Mateo,2/23/2021,4047,California
+Santa Barbara,2/23/2021,3136,California
+Santa Clara,2/23/2021,10933,California
+Santa Cruz,2/23/2021,2085,California
+Shasta,2/23/2021,398,California
+Sierra,2/23/2021,4,California
+Siskiyou,2/23/2021,191,California
+Solano,2/23/2021,1788,California
+Sonoma,2/23/2021,2871,California
+Stanislaus,2/23/2021,3574,California
+Sutter,2/23/2021,217,California
+Tehama,2/23/2021,43,California
+Trinity,2/23/2021,5,California
+Tulare,2/23/2021,1620,California
+Tuolumne,2/23/2021,38,California
+Unknown,2/23/2021,86,Not in California
+Ventura,2/23/2021,5813,California
+Yolo,2/23/2021,1101,California
+Yuba,2/23/2021,110,California
+Alameda,2/22/2021,10240,California
+Alpine,2/22/2021,27,California
+Amador,2/22/2021,63,California
+Butte,2/22/2021,1431,California
+Calaveras,2/22/2021,64,California
+Colusa,2/22/2021,41,California
+Contra Costa,2/22/2021,7061,California
+Del Norte,2/22/2021,2,California
+El Dorado,2/22/2021,822,California
+Fresno,2/22/2021,2138,California
+Glenn,2/22/2021,31,California
+Humboldt,2/22/2021,95,California
+Imperial,2/22/2021,765,California
+Inyo,2/22/2021,60,California
+Kern,2/22/2021,2586,California
+Kings,2/22/2021,100,California
+Lake,2/22/2021,92,California
+Lassen,2/22/2021,23,California
+Los Angeles,2/22/2021,32816,California
+Madera,2/22/2021,903,California
+Marin,2/22/2021,1671,California
+Mariposa,2/22/2021,15,California
+Mendocino,2/22/2021,159,California
+Merced,2/22/2021,817,California
+Modoc,2/22/2021,16,California
+Mono,2/22/2021,284,California
+Monterey,2/22/2021,902,California
+Napa,2/22/2021,413,California
+Nevada,2/22/2021,483,California
+Orange,2/22/2021,9113,California
+Outside California,2/22/2021,4388,Not in California
+Placer,2/22/2021,2400,California
+Plumas,2/22/2021,5,California
+Riverside,2/22/2021,12010,California
+Sacramento,2/22/2021,5882,California
+San Benito,2/22/2021,104,California
+San Bernardino,2/22/2021,8273,California
+San Diego,2/22/2021,11075,California
+San Francisco,2/22/2021,4887,California
+San Joaquin,2/22/2021,3351,California
+San Luis Obispo,2/22/2021,2398,California
+San Mateo,2/22/2021,4172,California
+Santa Barbara,2/22/2021,887,California
+Santa Clara,2/22/2021,9409,California
+Santa Cruz,2/22/2021,1220,California
+Shasta,2/22/2021,335,California
+Sierra,2/22/2021,2,California
+Siskiyou,2/22/2021,124,California
+Solano,2/22/2021,1457,California
+Sonoma,2/22/2021,2560,California
+Stanislaus,2/22/2021,2180,California
+Sutter,2/22/2021,197,California
+Tehama,2/22/2021,39,California
+Trinity,2/22/2021,3,California
+Tulare,2/22/2021,1035,California
+Tuolumne,2/22/2021,72,California
+Unknown,2/22/2021,16,Not in California
+Ventura,2/22/2021,5282,California
+Yolo,2/22/2021,1335,California
+Yuba,2/22/2021,112,California
+Alameda,2/21/2021,5860,California
+Amador,2/21/2021,40,California
+Butte,2/21/2021,14,California
+Calaveras,2/21/2021,20,California
+Colusa,2/21/2021,1,California
+Contra Costa,2/21/2021,1649,California
+El Dorado,2/21/2021,230,California
+Fresno,2/21/2021,167,California
+Humboldt,2/21/2021,474,California
+Imperial,2/21/2021,539,California
+Inyo,2/21/2021,267,California
+Kern,2/21/2021,201,California
+Kings,2/21/2021,1,California
+Lake,2/21/2021,5,California
+Lassen,2/21/2021,18,California
+Los Angeles,2/21/2021,13880,California
+Madera,2/21/2021,941,California
+Marin,2/21/2021,940,California
+Mariposa,2/21/2021,232,California
+Mendocino,2/21/2021,18,California
+Merced,2/21/2021,68,California
+Mono,2/21/2021,3,California
+Monterey,2/21/2021,1190,California
+Napa,2/21/2021,722,California
+Nevada,2/21/2021,72,California
+Orange,2/21/2021,3785,California
+Outside California,2/21/2021,2324,Not in California
+Placer,2/21/2021,851,California
+Plumas,2/21/2021,6,California
+Riverside,2/21/2021,3189,California
+Sacramento,2/21/2021,2257,California
+San Benito,2/21/2021,23,California
+San Bernardino,2/21/2021,778,California
+San Diego,2/21/2021,9454,California
+San Francisco,2/21/2021,2175,California
+San Joaquin,2/21/2021,555,California
+San Luis Obispo,2/21/2021,32,California
+San Mateo,2/21/2021,2081,California
+Santa Barbara,2/21/2021,76,California
+Santa Clara,2/21/2021,3050,California
+Santa Cruz,2/21/2021,753,California
+Shasta,2/21/2021,32,California
+Siskiyou,2/21/2021,2,California
+Solano,2/21/2021,1906,California
+Sonoma,2/21/2021,335,California
+Stanislaus,2/21/2021,711,California
+Sutter,2/21/2021,26,California
+Trinity,2/21/2021,1,California
+Tulare,2/21/2021,40,California
+Tuolumne,2/21/2021,974,California
+Unknown,2/21/2021,13,Not in California
+Ventura,2/21/2021,926,California
+Yolo,2/21/2021,196,California
+Yuba,2/21/2021,14,California
+Alameda,2/20/2021,11453,California
+Amador,2/20/2021,83,California
+Butte,2/20/2021,458,California
+Calaveras,2/20/2021,55,California
+Colusa,2/20/2021,25,California
+Contra Costa,2/20/2021,6154,California
+Del Norte,2/20/2021,7,California
+El Dorado,2/20/2021,882,California
+Fresno,2/20/2021,4110,California
+Glenn,2/20/2021,8,California
+Humboldt,2/20/2021,1021,California
+Imperial,2/20/2021,1037,California
+Inyo,2/20/2021,501,California
+Kern,2/20/2021,2310,California
+Kings,2/20/2021,153,California
+Lake,2/20/2021,57,California
+Lassen,2/20/2021,7,California
+Los Angeles,2/20/2021,28433,California
+Madera,2/20/2021,1001,California
+Marin,2/20/2021,2385,California
+Mariposa,2/20/2021,248,California
+Mendocino,2/20/2021,563,California
+Merced,2/20/2021,253,California
+Modoc,2/20/2021,1,California
+Mono,2/20/2021,4,California
+Monterey,2/20/2021,954,California
+Napa,2/20/2021,785,California
+Nevada,2/20/2021,270,California
+Orange,2/20/2021,6678,California
+Outside California,2/20/2021,3585,Not in California
+Placer,2/20/2021,1878,California
+Plumas,2/20/2021,101,California
+Riverside,2/20/2021,7278,California
+Sacramento,2/20/2021,6967,California
+San Benito,2/20/2021,41,California
+San Bernardino,2/20/2021,3970,California
+San Diego,2/20/2021,9676,California
+San Francisco,2/20/2021,4220,California
+San Joaquin,2/20/2021,1447,California
+San Luis Obispo,2/20/2021,224,California
+San Mateo,2/20/2021,3572,California
+Santa Barbara,2/20/2021,2151,California
+Santa Clara,2/20/2021,6583,California
+Santa Cruz,2/20/2021,2247,California
+Shasta,2/20/2021,742,California
+Sierra,2/20/2021,2,California
+Siskiyou,2/20/2021,21,California
+Solano,2/20/2021,2352,California
+Sonoma,2/20/2021,2968,California
+Stanislaus,2/20/2021,720,California
+Sutter,2/20/2021,576,California
+Tehama,2/20/2021,273,California
+Trinity,2/20/2021,138,California
+Tulare,2/20/2021,2817,California
+Tuolumne,2/20/2021,899,California
+Unknown,2/20/2021,11,Not in California
+Ventura,2/20/2021,4632,California
+Yolo,2/20/2021,2440,California
+Yuba,2/20/2021,357,California
+Alameda,2/19/2021,16299,California
+Alpine,2/19/2021,34,California
+Amador,2/19/2021,181,California
+Butte,2/19/2021,1163,California
+Calaveras,2/19/2021,438,California
+Colusa,2/19/2021,152,California
+Contra Costa,2/19/2021,10769,California
+Del Norte,2/19/2021,44,California
+El Dorado,2/19/2021,1055,California
+Fresno,2/19/2021,3705,California
+Glenn,2/19/2021,301,California
+Humboldt,2/19/2021,471,California
+Imperial,2/19/2021,770,California
+Inyo,2/19/2021,48,California
+Kenai Peninsula Borough,2/19/2021,1,California
+Kern,2/19/2021,4037,California
+Kings,2/19/2021,151,California
+Lake,2/19/2021,360,California
+Lassen,2/19/2021,82,California
+Los Angeles,2/19/2021,54079,California
+Madera,2/19/2021,831,California
+Marin,2/19/2021,2508,California
+Mariposa,2/19/2021,74,California
+Mendocino,2/19/2021,698,California
+Merced,2/19/2021,1194,California
+Mono,2/19/2021,51,California
+Monterey,2/19/2021,2853,California
+Napa,2/19/2021,1206,California
+Nevada,2/19/2021,918,California
+Orange,2/19/2021,17257,California
+Outside California,2/19/2021,5973,Not in California
+Placer,2/19/2021,3306,California
+Plumas,2/19/2021,38,California
+Riverside,2/19/2021,14612,California
+Sacramento,2/19/2021,9247,California
+San Benito,2/19/2021,313,California
+San Bernardino,2/19/2021,10921,California
+San Diego,2/19/2021,15171,California
+San Francisco,2/19/2021,4944,California
+San Joaquin,2/19/2021,4026,California
+San Luis Obispo,2/19/2021,1436,California
+San Mateo,2/19/2021,7437,California
+Santa Barbara,2/19/2021,3600,California
+Santa Clara,2/19/2021,13963,California
+Santa Cruz,2/19/2021,3218,California
+Shasta,2/19/2021,624,California
+Sierra,2/19/2021,1,California
+Siskiyou,2/19/2021,58,California
+Solano,2/19/2021,1803,California
+Sonoma,2/19/2021,4890,California
+Stanislaus,2/19/2021,2595,California
+Sutter,2/19/2021,658,California
+Tehama,2/19/2021,214,California
+Trinity,2/19/2021,209,California
+Tulare,2/19/2021,2210,California
+Tuolumne,2/19/2021,132,California
+Unknown,2/19/2021,222,Not in California
+Ventura,2/19/2021,6318,California
+Yolo,2/19/2021,1677,California
+Yuba,2/19/2021,208,California
+Alameda,2/18/2021,14721,California
+Alpine,2/18/2021,2,California
+Amador,2/18/2021,393,California
+Butte,2/18/2021,1536,California
+Calaveras,2/18/2021,491,California
+Colusa,2/18/2021,132,California
+Contra Costa,2/18/2021,9789,California
+Del Norte,2/18/2021,76,California
+El Dorado,2/18/2021,1923,California
+Fresno,2/18/2021,6552,California
+Glenn,2/18/2021,137,California
+Humboldt,2/18/2021,963,California
+Imperial,2/18/2021,645,California
+Inyo,2/18/2021,111,California
+Kern,2/18/2021,3490,California
+Kings,2/18/2021,143,California
+Kitsap,2/18/2021,1,California
+Lake,2/18/2021,395,California
+Lassen,2/18/2021,73,California
+Los Angeles,2/18/2021,62882,California
+Madera,2/18/2021,1259,California
+Marin,2/18/2021,2286,California
+Mariposa,2/18/2021,37,California
+Mendocino,2/18/2021,1049,California
+Merced,2/18/2021,1183,California
+Modoc,2/18/2021,189,California
+Mono,2/18/2021,1,California
+Monterey,2/18/2021,2093,California
+Napa,2/18/2021,1832,California
+Nevada,2/18/2021,990,California
+Orange,2/18/2021,13674,California
+Outside California,2/18/2021,6744,Not in California
+Placer,2/18/2021,3400,California
+Plumas,2/18/2021,125,California
+Riverside,2/18/2021,14034,California
+Sacramento,2/18/2021,8153,California
+San Benito,2/18/2021,286,California
+San Bernardino,2/18/2021,11766,California
+San Diego,2/18/2021,22481,California
+San Francisco,2/18/2021,4895,California
+San Joaquin,2/18/2021,3202,California
+San Luis Obispo,2/18/2021,2800,California
+San Mateo,2/18/2021,6273,California
+Santa Barbara,2/18/2021,3227,California
+Santa Clara,2/18/2021,12556,California
+Santa Cruz,2/18/2021,2854,California
+Shasta,2/18/2021,603,California
+Sierra,2/18/2021,145,California
+Siskiyou,2/18/2021,220,California
+Solano,2/18/2021,1675,California
+Sonoma,2/18/2021,6412,California
+Stanislaus,2/18/2021,3171,California
+Sutter,2/18/2021,697,California
+Tehama,2/18/2021,298,California
+Trinity,2/18/2021,3,California
+Tulare,2/18/2021,2240,California
+Tuolumne,2/18/2021,660,California
+Unknown,2/18/2021,121,Not in California
+Ventura,2/18/2021,5565,California
+Yolo,2/18/2021,2398,California
+Yuba,2/18/2021,300,California
+Alameda,2/17/2021,13494,California
+Alpine,2/17/2021,22,California
+Amador,2/17/2021,258,California
+Butte,2/17/2021,1500,California
+Calaveras,2/17/2021,476,California
+Colusa,2/17/2021,204,California
+Contra Costa,2/17/2021,10423,California
+Del Norte,2/17/2021,90,California
+El Dorado,2/17/2021,813,California
+Fresno,2/17/2021,4941,California
+Glenn,2/17/2021,380,California
+Humboldt,2/17/2021,437,California
+Imperial,2/17/2021,439,California
+Inyo,2/17/2021,36,California
+Kern,2/17/2021,3980,California
+Kings,2/17/2021,360,California
+Lake,2/17/2021,310,California
+Lassen,2/17/2021,184,California
+Los Angeles,2/17/2021,61075,California
+Madera,2/17/2021,592,California
+Maricopa,2/17/2021,1,California
+Marin,2/17/2021,2021,California
+Mariposa,2/17/2021,21,California
+Mendocino,2/17/2021,1319,California
+Merced,2/17/2021,1866,California
+Modoc,2/17/2021,22,California
+Mono,2/17/2021,5,California
+Monterey,2/17/2021,1819,California
+Napa,2/17/2021,969,California
+Nevada,2/17/2021,1168,California
+Orange,2/17/2021,17092,California
+Outside California,2/17/2021,6341,Not in California
+Placer,2/17/2021,3360,California
+Plumas,2/17/2021,133,California
+Riverside,2/17/2021,14019,California
+Sacramento,2/17/2021,8338,California
+San Benito,2/17/2021,308,California
+San Bernardino,2/17/2021,10497,California
+San Diego,2/17/2021,22148,California
+San Francisco,2/17/2021,5182,California
+San Joaquin,2/17/2021,3135,California
+San Luis Obispo,2/17/2021,2748,California
+San Mateo,2/17/2021,6708,California
+Santa Barbara,2/17/2021,1419,California
+Santa Clara,2/17/2021,12969,California
+Santa Cruz,2/17/2021,2900,California
+Shasta,2/17/2021,950,California
+Sierra,2/17/2021,3,California
+Siskiyou,2/17/2021,182,California
+Solano,2/17/2021,2273,California
+Sonoma,2/17/2021,5059,California
+Stanislaus,2/17/2021,2660,California
+Sutter,2/17/2021,824,California
+Tehama,2/17/2021,291,California
+Trinity,2/17/2021,93,California
+Tulare,2/17/2021,2671,California
+Tuolumne,2/17/2021,103,California
+Unknown,2/17/2021,17,Not in California
+Ventura,2/17/2021,5132,California
+Yavapai,2/17/2021,1,California
+Yolo,2/17/2021,1349,California
+Yuba,2/17/2021,367,California
+Alameda,2/16/2021,12110,California
+Amador,2/16/2021,400,California
+Butte,2/16/2021,725,California
+Calaveras,2/16/2021,289,California
+Colusa,2/16/2021,67,California
+Contra Costa,2/16/2021,10072,California
+Del Norte,2/16/2021,131,California
+El Dorado,2/16/2021,1138,California
+Fresno,2/16/2021,6238,California
+Glenn,2/16/2021,36,California
+Humboldt,2/16/2021,507,California
+Imperial,2/16/2021,513,California
+Inyo,2/16/2021,180,California
+Kern,2/16/2021,2839,California
+Kings,2/16/2021,473,California
+Lake,2/16/2021,378,California
+Lassen,2/16/2021,193,California
+Los Angeles,2/16/2021,61356,California
+Madera,2/16/2021,754,California
+Marin,2/16/2021,2410,California
+Mariposa,2/16/2021,19,California
+Mendocino,2/16/2021,185,California
+Merced,2/16/2021,1190,California
+Modoc,2/16/2021,140,California
+Mono,2/16/2021,530,California
+Monterey,2/16/2021,1047,California
+Napa,2/16/2021,1204,California
+Nevada,2/16/2021,608,California
+Orange,2/16/2021,19482,California
+Outside California,2/16/2021,7005,Not in California
+Placer,2/16/2021,3472,California
+Plumas,2/16/2021,73,California
+Riverside,2/16/2021,15827,California
+Sacramento,2/16/2021,8546,California
+San Benito,2/16/2021,200,California
+San Bernardino,2/16/2021,12250,California
+San Diego,2/16/2021,18038,California
+San Francisco,2/16/2021,4857,California
+San Joaquin,2/16/2021,2858,California
+San Luis Obispo,2/16/2021,2934,California
+San Mateo,2/16/2021,6980,California
+Santa Barbara,2/16/2021,2082,California
+Santa Clara,2/16/2021,13185,California
+Santa Cruz,2/16/2021,1669,California
+Shasta,2/16/2021,692,California
+Sierra,2/16/2021,44,California
+Siskiyou,2/16/2021,107,California
+Solano,2/16/2021,2179,California
+Sonoma,2/16/2021,4461,California
+Stanislaus,2/16/2021,1290,California
+Sutter,2/16/2021,274,California
+Tehama,2/16/2021,239,California
+Trinity,2/16/2021,6,California
+Tulare,2/16/2021,2779,California
+Tuolumne,2/16/2021,517,California
+Unknown,2/16/2021,112,Not in California
+Ventura,2/16/2021,5397,California
+Yolo,2/16/2021,1098,California
+Yuba,2/16/2021,186,California
+Alameda,2/15/2021,5639,California
+Amador,2/15/2021,181,California
+Butte,2/15/2021,256,California
+Calaveras,2/15/2021,369,California
+Colusa,2/15/2021,46,California
+Contra Costa,2/15/2021,4381,California
+Del Norte,2/15/2021,4,California
+El Dorado,2/15/2021,1122,California
+Fresno,2/15/2021,2829,California
+Glenn,2/15/2021,8,California
+Humboldt,2/15/2021,285,California
+Imperial,2/15/2021,36,California
+Inyo,2/15/2021,29,California
+Kern,2/15/2021,2712,California
+Kings,2/15/2021,224,California
+Lake,2/15/2021,164,California
+Lassen,2/15/2021,21,California
+Los Angeles,2/15/2021,31572,California
+Madera,2/15/2021,225,California
+Marin,2/15/2021,1200,California
+Mariposa,2/15/2021,8,California
+Mendocino,2/15/2021,202,California
+Merced,2/15/2021,270,California
+Mono,2/15/2021,171,California
+Monterey,2/15/2021,1330,California
+Napa,2/15/2021,838,California
+Nevada,2/15/2021,706,California
+Orange,2/15/2021,16964,California
+Outside California,2/15/2021,2932,Not in California
+Placer,2/15/2021,2108,California
+Plumas,2/15/2021,26,California
+Riverside,2/15/2021,9777,California
+Sacramento,2/15/2021,5577,California
+San Benito,2/15/2021,105,California
+San Bernardino,2/15/2021,5437,California
+San Diego,2/15/2021,14447,California
+San Francisco,2/15/2021,2721,California
+San Joaquin,2/15/2021,1898,California
+San Luis Obispo,2/15/2021,704,California
+San Mateo,2/15/2021,3124,California
+Santa Barbara,2/15/2021,944,California
+Santa Clara,2/15/2021,6177,California
+Santa Cruz,2/15/2021,1571,California
+Shasta,2/15/2021,382,California
+Sierra,2/15/2021,1,California
+Siskiyou,2/15/2021,103,California
+Solano,2/15/2021,1186,California
+Sonoma,2/15/2021,2044,California
+Stanislaus,2/15/2021,1762,California
+Sutter,2/15/2021,190,California
+Tehama,2/15/2021,51,California
+Trinity,2/15/2021,47,California
+Tulare,2/15/2021,899,California
+Tuolumne,2/15/2021,182,California
+Unknown,2/15/2021,50,Not in California
+Ventura,2/15/2021,3946,California
+Yolo,2/15/2021,521,California
+Yuba,2/15/2021,90,California
+Alameda,2/14/2021,4007,California
+Amador,2/14/2021,123,California
+Butte,2/14/2021,158,California
+Calaveras,2/14/2021,214,California
+Colusa,2/14/2021,19,California
+Contra Costa,2/14/2021,2052,California
+Del Norte,2/14/2021,3,California
+El Dorado,2/14/2021,467,California
+Fresno,2/14/2021,1544,California
+Glenn,2/14/2021,1,California
+Humboldt,2/14/2021,112,California
+Imperial,2/14/2021,26,California
+Inyo,2/14/2021,1,California
+Kern,2/14/2021,352,California
+Kings,2/14/2021,99,California
+Lake,2/14/2021,17,California
+Lassen,2/14/2021,13,California
+Los Angeles,2/14/2021,21725,California
+Madera,2/14/2021,385,California
+Marin,2/14/2021,805,California
+Mariposa,2/14/2021,6,California
+Mendocino,2/14/2021,694,California
+Merced,2/14/2021,113,California
+Monterey,2/14/2021,584,California
+Napa,2/14/2021,321,California
+Nevada,2/14/2021,223,California
+Orange,2/14/2021,16079,California
+Outside California,2/14/2021,1750,Not in California
+Placer,2/14/2021,1061,California
+Plumas,2/14/2021,7,California
+Riverside,2/14/2021,4939,California
+Sacramento,2/14/2021,2877,California
+San Benito,2/14/2021,40,California
+San Bernardino,2/14/2021,1532,California
+San Diego,2/14/2021,10276,California
+San Francisco,2/14/2021,3406,California
+San Joaquin,2/14/2021,1853,California
+San Luis Obispo,2/14/2021,305,California
+San Mateo,2/14/2021,4608,California
+Santa Barbara,2/14/2021,327,California
+Santa Clara,2/14/2021,4613,California
+Santa Cruz,2/14/2021,1381,California
+Shasta,2/14/2021,147,California
+Sierra,2/14/2021,1,California
+Siskiyou,2/14/2021,5,California
+Solano,2/14/2021,672,California
+Sonoma,2/14/2021,2267,California
+Stanislaus,2/14/2021,423,California
+Sutter,2/14/2021,81,California
+Tehama,2/14/2021,33,California
+Trinity,2/14/2021,2,California
+Tulare,2/14/2021,328,California
+Tuolumne,2/14/2021,141,California
+Unknown,2/14/2021,12,Not in California
+Ventura,2/14/2021,1210,California
+Yolo,2/14/2021,439,California
+Yuba,2/14/2021,53,California
+Alameda,2/13/2021,7670,California
+Amador,2/13/2021,160,California
+Butte,2/13/2021,246,California
+Calaveras,2/13/2021,192,California
+Colusa,2/13/2021,60,California
+Contra Costa,2/13/2021,4757,California
+Del Norte,2/13/2021,2,California
+El Dorado,2/13/2021,949,California
+Fresno,2/13/2021,3677,California
+Glenn,2/13/2021,32,California
+Humboldt,2/13/2021,1293,California
+Imperial,2/13/2021,46,California
+Inyo,2/13/2021,60,California
+Kern,2/13/2021,1964,California
+Kings,2/13/2021,99,California
+Lake,2/13/2021,249,California
+Lassen,2/13/2021,13,California
+Los Angeles,2/13/2021,33423,California
+Madera,2/13/2021,478,California
+Marin,2/13/2021,2306,California
+Mariposa,2/13/2021,5,California
+Mendocino,2/13/2021,489,California
+Merced,2/13/2021,357,California
+Modoc,2/13/2021,1,California
+Mono,2/13/2021,592,California
+Monterey,2/13/2021,1047,California
+Napa,2/13/2021,484,California
+Nevada,2/13/2021,573,California
+Orange,2/13/2021,21535,California
+Outside California,2/13/2021,2615,Not in California
+Placer,2/13/2021,2474,California
+Plumas,2/13/2021,72,California
+Riverside,2/13/2021,6292,California
+Sacramento,2/13/2021,6871,California
+San Benito,2/13/2021,60,California
+San Bernardino,2/13/2021,5968,California
+San Diego,2/13/2021,19186,California
+San Francisco,2/13/2021,3911,California
+San Joaquin,2/13/2021,2078,California
+San Luis Obispo,2/13/2021,372,California
+San Mateo,2/13/2021,5937,California
+Santa Barbara,2/13/2021,1220,California
+Santa Clara,2/13/2021,6018,California
+Santa Cruz,2/13/2021,1695,California
+Shasta,2/13/2021,1379,California
+Siskiyou,2/13/2021,36,California
+Solano,2/13/2021,2740,California
+Sonoma,2/13/2021,1948,California
+Stanislaus,2/13/2021,1335,California
+Sutter,2/13/2021,898,California
+Tehama,2/13/2021,390,California
+Trinity,2/13/2021,11,California
+Tulare,2/13/2021,2432,California
+Tuolumne,2/13/2021,144,California
+Unknown,2/13/2021,12,Not in California
+Ventura,2/13/2021,3251,California
+Yolo,2/13/2021,2013,California
+Yuba,2/13/2021,438,California
+Alameda,2/12/2021,12212,California
+Alpine,2/12/2021,2,California
+Amador,2/12/2021,322,California
+Butte,2/12/2021,858,California
+Calaveras,2/12/2021,558,California
+Colusa,2/12/2021,118,California
+Contra Costa,2/12/2021,9511,California
+Del Norte,2/12/2021,115,California
+El Dorado,2/12/2021,1454,California
+Fresno,2/12/2021,4913,California
+Glenn,2/12/2021,421,California
+Humboldt,2/12/2021,1120,California
+Imperial,2/12/2021,2116,California
+Inyo,2/12/2021,301,California
+Kern,2/12/2021,4904,California
+Kings,2/12/2021,589,California
+Lake,2/12/2021,340,California
+Lassen,2/12/2021,45,California
+Los Angeles,2/12/2021,58804,California
+Madera,2/12/2021,822,California
+Marin,2/12/2021,2975,California
+Mariposa,2/12/2021,171,California
+Mendocino,2/12/2021,978,California
+Merced,2/12/2021,1715,California
+Modoc,2/12/2021,5,California
+Mono,2/12/2021,82,California
+Monterey,2/12/2021,2542,California
+Napa,2/12/2021,2144,California
+Nevada,2/12/2021,916,California
+Orange,2/12/2021,24473,California
+Outside California,2/12/2021,5386,Not in California
+Placer,2/12/2021,2706,California
+Plumas,2/12/2021,121,California
+Riverside,2/12/2021,17231,California
+Sacramento,2/12/2021,10150,California
+San Benito,2/12/2021,401,California
+San Bernardino,2/12/2021,10214,California
+San Diego,2/12/2021,23007,California
+San Francisco,2/12/2021,5003,California
+San Joaquin,2/12/2021,2594,California
+San Luis Obispo,2/12/2021,764,California
+San Mateo,2/12/2021,6454,California
+Santa Barbara,2/12/2021,3262,California
+Santa Clara,2/12/2021,13971,California
+Santa Cruz,2/12/2021,3163,California
+Shasta,2/12/2021,1633,California
+Sierra,2/12/2021,20,California
+Siskiyou,2/12/2021,1681,California
+Solano,2/12/2021,3897,California
+Sonoma,2/12/2021,5493,California
+Stanislaus,2/12/2021,3236,California
+Sutter,2/12/2021,615,California
+Tehama,2/12/2021,350,California
+Trinity,2/12/2021,9,California
+Tulare,2/12/2021,2756,California
+Tuolumne,2/12/2021,638,California
+Unknown,2/12/2021,51,Not in California
+Ventura,2/12/2021,6225,California
+Yolo,2/12/2021,1877,California
+Yuba,2/12/2021,260,California
+Alameda,2/11/2021,12688,California
+Alpine,2/11/2021,8,California
+Amador,2/11/2021,302,California
+Butte,2/11/2021,2189,California
+Calaveras,2/11/2021,573,California
+Colusa,2/11/2021,98,California
+Contra Costa,2/11/2021,8313,California
+Del Norte,2/11/2021,174,California
+El Dorado,2/11/2021,2001,California
+Fresno,2/11/2021,6207,California
+Glenn,2/11/2021,233,California
+Humboldt,2/11/2021,1268,California
+Imperial,2/11/2021,463,California
+Inyo,2/11/2021,214,California
+Kern,2/11/2021,4240,California
+Kings,2/11/2021,412,California
+La Paz,2/11/2021,1,California
+Lake,2/11/2021,136,California
+Lassen,2/11/2021,174,California
+Los Angeles,2/11/2021,56424,California
+Madera,2/11/2021,916,California
+Marin,2/11/2021,2604,California
+Mariposa,2/11/2021,364,California
+Mendocino,2/11/2021,1059,California
+Merced,2/11/2021,2478,California
+Modoc,2/11/2021,201,California
+Mono,2/11/2021,7,California
+Monterey,2/11/2021,2437,California
+Napa,2/11/2021,1477,California
+Nevada,2/11/2021,854,California
+Orange,2/11/2021,21641,California
+Outside California,2/11/2021,5611,Not in California
+Placer,2/11/2021,3494,California
+Plumas,2/11/2021,320,California
+Riverside,2/11/2021,16260,California
+Sacramento,2/11/2021,7846,California
+San Benito,2/11/2021,281,California
+San Bernardino,2/11/2021,11722,California
+San Diego,2/11/2021,22505,California
+San Francisco,2/11/2021,6205,California
+San Joaquin,2/11/2021,2713,California
+San Luis Obispo,2/11/2021,1323,California
+San Mateo,2/11/2021,6732,California
+Santa Barbara,2/11/2021,4164,California
+Santa Clara,2/11/2021,12168,California
+Santa Cruz,2/11/2021,1807,California
+Shasta,2/11/2021,776,California
+Sierra,2/11/2021,198,California
+Siskiyou,2/11/2021,184,California
+Solano,2/11/2021,2255,California
+Sonoma,2/11/2021,5242,California
+Stanislaus,2/11/2021,5269,California
+Sutter,2/11/2021,592,California
+Tehama,2/11/2021,219,California
+Trinity,2/11/2021,260,California
+Tulare,2/11/2021,1277,California
+Tuolumne,2/11/2021,138,California
+Unknown,2/11/2021,100,Not in California
+Ventura,2/11/2021,4590,California
+Yavapai,2/11/2021,1,California
+Yolo,2/11/2021,1453,California
+Yuba,2/11/2021,399,California
+Alameda,2/10/2021,11366,California
+Alpine,2/10/2021,32,California
+Amador,2/10/2021,708,California
+Bennington,2/10/2021,1,California
+Butte,2/10/2021,1695,California
+Calaveras,2/10/2021,500,California
+Colusa,2/10/2021,115,California
+Contra Costa,2/10/2021,8503,California
+Del Norte,2/10/2021,138,California
+El Dorado,2/10/2021,1167,California
+Fresno,2/10/2021,3647,California
+Glenn,2/10/2021,137,California
+Humboldt,2/10/2021,484,California
+Imperial,2/10/2021,397,California
+Inyo,2/10/2021,147,California
+Kern,2/10/2021,3713,California
+Kings,2/10/2021,284,California
+Lake,2/10/2021,329,California
+Lassen,2/10/2021,184,California
+Los Angeles,2/10/2021,66098,California
+Madera,2/10/2021,419,California
+Marin,2/10/2021,2316,California
+Mariposa,2/10/2021,17,California
+Mendocino,2/10/2021,1467,California
+Merced,2/10/2021,1844,California
+Modoc,2/10/2021,5,California
+Mono,2/10/2021,441,California
+Monterey,2/10/2021,2004,California
+Napa,2/10/2021,1651,California
+Nevada,2/10/2021,635,California
+Orange,2/10/2021,20649,California
+Outside California,2/10/2021,6417,Not in California
+Placer,2/10/2021,3699,California
+Plumas,2/10/2021,87,California
+Riverside,2/10/2021,11688,California
+Sacramento,2/10/2021,7438,California
+San Benito,2/10/2021,320,California
+San Bernardino,2/10/2021,11872,California
+San Diego,2/10/2021,21817,California
+San Francisco,2/10/2021,6765,California
+San Joaquin,2/10/2021,2434,California
+San Luis Obispo,2/10/2021,1420,California
+San Mateo,2/10/2021,6475,California
+Santa Barbara,2/10/2021,2749,California
+Santa Clara,2/10/2021,12536,California
+Santa Cruz,2/10/2021,2179,California
+Shasta,2/10/2021,630,California
+Sierra,2/10/2021,5,California
+Siskiyou,2/10/2021,367,California
+Solano,2/10/2021,2202,California
+Sonoma,2/10/2021,4358,California
+Stanislaus,2/10/2021,1911,California
+Sutter,2/10/2021,649,California
+Tehama,2/10/2021,229,California
+Trinity,2/10/2021,113,California
+Tulare,2/10/2021,2441,California
+Tuolumne,2/10/2021,89,California
+Unknown,2/10/2021,38,Not in California
+Ventura,2/10/2021,4582,California
+Yolo,2/10/2021,1405,California
+Yuba,2/10/2021,292,California
+Alameda,2/9/2021,9585,California
+Amador,2/9/2021,168,California
+Butte,2/9/2021,949,California
+Calaveras,2/9/2021,200,California
+Colusa,2/9/2021,232,California
+Contra Costa,2/9/2021,8381,California
+Del Norte,2/9/2021,7,California
+El Dorado,2/9/2021,875,California
+Fresno,2/9/2021,5318,California
+Glenn,2/9/2021,48,California
+Humboldt,2/9/2021,376,California
+Imperial,2/9/2021,471,California
+Inyo,2/9/2021,193,California
+Kern,2/9/2021,3008,California
+Kings,2/9/2021,250,California
+Lake,2/9/2021,323,California
+Lassen,2/9/2021,127,California
+Los Angeles,2/9/2021,54510,California
+Madera,2/9/2021,472,California
+Marin,2/9/2021,1759,California
+Mariposa,2/9/2021,9,California
+Mendocino,2/9/2021,101,California
+Merced,2/9/2021,1179,California
+Modoc,2/9/2021,197,California
+Mono,2/9/2021,227,California
+Monterey,2/9/2021,859,California
+Napa,2/9/2021,1069,California
+Nevada,2/9/2021,602,California
+Orange,2/9/2021,17342,California
+Outside California,2/9/2021,5336,Not in California
+Placer,2/9/2021,3494,California
+Plumas,2/9/2021,170,California
+Riverside,2/9/2021,9568,California
+Sacramento,2/9/2021,6627,California
+San Benito,2/9/2021,323,California
+San Bernardino,2/9/2021,9766,California
+San Diego,2/9/2021,19177,California
+San Francisco,2/9/2021,5866,California
+San Joaquin,2/9/2021,1987,California
+San Luis Obispo,2/9/2021,1120,California
+San Mateo,2/9/2021,6112,California
+Santa Barbara,2/9/2021,2423,California
+Santa Clara,2/9/2021,10439,California
+Santa Cruz,2/9/2021,2360,California
+Shasta,2/9/2021,727,California
+Sierra,2/9/2021,54,California
+Siskiyou,2/9/2021,188,California
+Snohomish,2/9/2021,1,California
+Solano,2/9/2021,1849,California
+Sonoma,2/9/2021,3506,California
+Stanislaus,2/9/2021,1815,California
+Sutter,2/9/2021,235,California
+Tehama,2/9/2021,74,California
+Trinity,2/9/2021,19,California
+Tulare,2/9/2021,1398,California
+Tuolumne,2/9/2021,863,California
+Unknown,2/9/2021,23,Not in California
+Ventura,2/9/2021,4690,California
+Yolo,2/9/2021,844,California
+Yuba,2/9/2021,144,California
+Alameda,2/8/2021,7919,California
+Alpine,2/8/2021,32,California
+Amador,2/8/2021,90,California
+Butte,2/8/2021,687,California
+Calaveras,2/8/2021,33,California
+Colusa,2/8/2021,40,California
+Contra Costa,2/8/2021,5704,California
+Del Norte,2/8/2021,36,California
+El Dorado,2/8/2021,847,California
+Fresno,2/8/2021,4233,California
+Glenn,2/8/2021,21,California
+Humboldt,2/8/2021,275,California
+Imperial,2/8/2021,252,California
+Inyo,2/8/2021,116,California
+Kern,2/8/2021,2552,California
+Kings,2/8/2021,167,California
+Lake,2/8/2021,251,California
+Lassen,2/8/2021,45,California
+Los Angeles,2/8/2021,46083,California
+Madera,2/8/2021,374,California
+Marin,2/8/2021,1498,California
+Mariposa,2/8/2021,39,California
+Mendocino,2/8/2021,739,California
+Merced,2/8/2021,278,California
+Modoc,2/8/2021,9,California
+Mono,2/8/2021,172,California
+Monterey,2/8/2021,497,California
+Napa,2/8/2021,828,California
+Nevada,2/8/2021,642,California
+Orange,2/8/2021,14555,California
+Outside California,2/8/2021,6108,Not in California
+Placer,2/8/2021,3257,California
+Plumas,2/8/2021,16,California
+Riverside,2/8/2021,12240,California
+Sacramento,2/8/2021,6025,California
+San Benito,2/8/2021,130,California
+San Bernardino,2/8/2021,6993,California
+San Diego,2/8/2021,19071,California
+San Francisco,2/8/2021,6579,California
+San Joaquin,2/8/2021,1678,California
+San Luis Obispo,2/8/2021,848,California
+San Mateo,2/8/2021,5211,California
+Santa Barbara,2/8/2021,948,California
+Santa Clara,2/8/2021,9444,California
+Santa Cruz,2/8/2021,704,California
+Shasta,2/8/2021,526,California
+Siskiyou,2/8/2021,220,California
+Solano,2/8/2021,1650,California
+Sonoma,2/8/2021,3159,California
+Stanislaus,2/8/2021,1991,California
+Sutter,2/8/2021,131,California
+Tehama,2/8/2021,34,California
+Trinity,2/8/2021,23,California
+Tulare,2/8/2021,945,California
+Tuolumne,2/8/2021,90,California
+Unknown,2/8/2021,62,Not in California
+Ventura,2/8/2021,3461,California
+Yolo,2/8/2021,948,California
+Yuba,2/8/2021,95,California
+Alameda,2/7/2021,3548,California
+Alpine,2/7/2021,1,California
+Amador,2/7/2021,37,California
+Butte,2/7/2021,38,California
+Calaveras,2/7/2021,4,California
+Colusa,2/7/2021,2,California
+Contra Costa,2/7/2021,974,California
+Del Norte,2/7/2021,4,California
+El Dorado,2/7/2021,241,California
+Fresno,2/7/2021,452,California
+Glenn,2/7/2021,1,California
+Humboldt,2/7/2021,378,California
+Imperial,2/7/2021,36,California
+Inyo,2/7/2021,3,California
+Kern,2/7/2021,279,California
+Kings,2/7/2021,5,California
+Lake,2/7/2021,2,California
+Lassen,2/7/2021,1,California
+Los Angeles,2/7/2021,10715,California
+Madera,2/7/2021,36,California
+Marin,2/7/2021,1287,California
+Mendocino,2/7/2021,29,California
+Merced,2/7/2021,19,California
+Mono,2/7/2021,2,California
+Monterey,2/7/2021,311,California
+Napa,2/7/2021,178,California
+Nevada,2/7/2021,243,California
+Orange,2/7/2021,11511,California
+Outside California,2/7/2021,2971,Not in California
+Placer,2/7/2021,1205,California
+Riverside,2/7/2021,2214,California
+Sacramento,2/7/2021,3860,California
+San Benito,2/7/2021,14,California
+San Bernardino,2/7/2021,840,California
+San Diego,2/7/2021,10989,California
+San Francisco,2/7/2021,4285,California
+San Joaquin,2/7/2021,601,California
+San Luis Obispo,2/7/2021,143,California
+San Mateo,2/7/2021,1888,California
+Santa Barbara,2/7/2021,299,California
+Santa Clara,2/7/2021,3460,California
+Santa Cruz,2/7/2021,905,California
+Shasta,2/7/2021,26,California
+Siskiyou,2/7/2021,3,California
+Solano,2/7/2021,846,California
+Sonoma,2/7/2021,1508,California
+Stanislaus,2/7/2021,208,California
+Sutter,2/7/2021,22,California
+Tehama,2/7/2021,5,California
+Tulare,2/7/2021,76,California
+Tuolumne,2/7/2021,7,California
+Unknown,2/7/2021,13,Not in California
+Ventura,2/7/2021,711,California
+Yolo,2/7/2021,512,California
+Yuba,2/7/2021,18,California
+Alameda,2/6/2021,6842,California
+Alpine,2/6/2021,1,California
+Amador,2/6/2021,100,California
+Butte,2/6/2021,142,California
+Calaveras,2/6/2021,20,California
+Colusa,2/6/2021,287,California
+Contra Costa,2/6/2021,3427,California
+Del Norte,2/6/2021,265,California
+El Dorado,2/6/2021,638,California
+Fresno,2/6/2021,2910,California
+Glenn,2/6/2021,14,California
+Humboldt,2/6/2021,901,California
+Imperial,2/6/2021,875,California
+Inyo,2/6/2021,3,California
+Kern,2/6/2021,1722,California
+Kings,2/6/2021,58,California
+Lake,2/6/2021,281,California
+Lassen,2/6/2021,70,California
+Los Angeles,2/6/2021,35093,California
+Madera,2/6/2021,358,California
+Marin,2/6/2021,1419,California
+Mariposa,2/6/2021,1,California
+Mendocino,2/6/2021,556,California
+Merced,2/6/2021,390,California
+Mono,2/6/2021,140,California
+Monterey,2/6/2021,1088,California
+Napa,2/6/2021,427,California
+Nevada,2/6/2021,273,California
+Orange,2/6/2021,16257,California
+Outside California,2/6/2021,4807,Not in California
+Placer,2/6/2021,1892,California
+Plumas,2/6/2021,8,California
+Riverside,2/6/2021,7287,California
+Sacramento,2/6/2021,8324,California
+San Benito,2/6/2021,50,California
+San Bernardino,2/6/2021,5223,California
+San Diego,2/6/2021,19853,California
+San Francisco,2/6/2021,5421,California
+San Joaquin,2/6/2021,1109,California
+San Luis Obispo,2/6/2021,159,California
+San Mateo,2/6/2021,3268,California
+Santa Barbara,2/6/2021,1190,California
+Santa Clara,2/6/2021,5082,California
+Santa Cruz,2/6/2021,2575,California
+Shasta,2/6/2021,1721,California
+Siskiyou,2/6/2021,15,California
+Solano,2/6/2021,2920,California
+Sonoma,2/6/2021,2617,California
+Stanislaus,2/6/2021,869,California
+Sutter,2/6/2021,730,California
+Tehama,2/6/2021,29,California
+Trinity,2/6/2021,208,California
+Tulare,2/6/2021,834,California
+Tuolumne,2/6/2021,847,California
+Unknown,2/6/2021,18,Not in California
+Ventura,2/6/2021,2815,California
+Yolo,2/6/2021,1922,California
+Yuba,2/6/2021,446,California
+Alameda,2/5/2021,10240,California
+Alpine,2/5/2021,30,California
+Amador,2/5/2021,315,California
+Butte,2/5/2021,1164,California
+Calaveras,2/5/2021,61,California
+Colusa,2/5/2021,33,California
+Contra Costa,2/5/2021,8372,California
+Del Norte,2/5/2021,133,California
+El Dorado,2/5/2021,1428,California
+Fresno,2/5/2021,5098,California
+Glenn,2/5/2021,320,California
+Humboldt,2/5/2021,809,California
+Imperial,2/5/2021,397,California
+Inyo,2/5/2021,118,California
+Kern,2/5/2021,4817,California
+Kings,2/5/2021,251,California
+Lake,2/5/2021,352,California
+Lassen,2/5/2021,64,California
+Los Angeles,2/5/2021,60141,California
+Madera,2/5/2021,965,California
+Marin,2/5/2021,2151,California
+Mariposa,2/5/2021,177,California
+Mendocino,2/5/2021,1306,California
+Merced,2/5/2021,529,California
+Modoc,2/5/2021,4,California
+Mono,2/5/2021,623,California
+Monterey,2/5/2021,3630,California
+Napa,2/5/2021,704,California
+Nevada,2/5/2021,635,California
+Orange,2/5/2021,20551,California
+Outside California,2/5/2021,7134,Not in California
+Placer,2/5/2021,2690,California
+Plumas,2/5/2021,24,California
+Riverside,2/5/2021,14275,California
+Sacramento,2/5/2021,7452,California
+San Benito,2/5/2021,290,California
+San Bernardino,2/5/2021,10877,California
+San Diego,2/5/2021,24394,California
+San Francisco,2/5/2021,5896,California
+San Joaquin,2/5/2021,3162,California
+San Luis Obispo,2/5/2021,1592,California
+San Mateo,2/5/2021,6747,California
+Santa Barbara,2/5/2021,2900,California
+Santa Clara,2/5/2021,11759,California
+Santa Cruz,2/5/2021,3154,California
+Shasta,2/5/2021,1203,California
+Sierra,2/5/2021,5,California
+Siskiyou,2/5/2021,504,California
+Solano,2/5/2021,3018,California
+Sonoma,2/5/2021,4773,California
+Stanislaus,2/5/2021,2800,California
+Sutter,2/5/2021,278,California
+Tehama,2/5/2021,158,California
+Trinity,2/5/2021,348,California
+Tulare,2/5/2021,1225,California
+Tuolumne,2/5/2021,97,California
+Unknown,2/5/2021,15,Not in California
+Ventura,2/5/2021,4795,California
+Yolo,2/5/2021,1187,California
+Yuba,2/5/2021,144,California
+Alameda,2/4/2021,9398,California
+Alpine,2/4/2021,8,California
+Amador,2/4/2021,245,California
+Butte,2/4/2021,2947,California
+Calaveras,2/4/2021,349,California
+Colusa,2/4/2021,142,California
+Contra Costa,2/4/2021,7391,California
+Del Norte,2/4/2021,70,California
+El Dorado,2/4/2021,1230,California
+Fresno,2/4/2021,4181,California
+Glenn,2/4/2021,146,California
+Hamilton,2/4/2021,1,Not in California
+Humboldt,2/4/2021,631,California
+Imperial,2/4/2021,1755,California
+Inyo,2/4/2021,148,California
+Kern,2/4/2021,3775,California
+Kings,2/4/2021,390,California
+Lake,2/4/2021,80,California
+Lassen,2/4/2021,111,California
+Los Angeles,2/4/2021,56570,California
+Madera,2/4/2021,386,California
+Marin,2/4/2021,1517,California
+Mariposa,2/4/2021,86,California
+Mendocino,2/4/2021,581,California
+Merced,2/4/2021,372,California
+Modoc,2/4/2021,154,California
+Mono,2/4/2021,213,California
+Monterey,2/4/2021,2691,California
+Napa,2/4/2021,783,California
+Nevada,2/4/2021,749,California
+Orange,2/4/2021,19600,California
+Outside California,2/4/2021,7889,Not in California
+Placer,2/4/2021,2733,California
+Plumas,2/4/2021,102,California
+Riverside,2/4/2021,13567,California
+Sacramento,2/4/2021,7533,California
+San Benito,2/4/2021,160,California
+San Bernardino,2/4/2021,10517,California
+San Diego,2/4/2021,22938,California
+San Francisco,2/4/2021,5003,California
+San Joaquin,2/4/2021,3405,California
+San Luis Obispo,2/4/2021,1652,California
+San Mateo,2/4/2021,6250,California
+Santa Barbara,2/4/2021,2776,California
+Santa Clara,2/4/2021,10436,California
+Santa Cruz,2/4/2021,1799,California
+Shasta,2/4/2021,604,California
+Sierra,2/4/2021,106,California
+Siskiyou,2/4/2021,315,California
+Solano,2/4/2021,1729,California
+Sonoma,2/4/2021,4102,California
+Stanislaus,2/4/2021,2059,California
+Sutter,2/4/2021,666,California
+Tehama,2/4/2021,439,California
+Trinity,2/4/2021,33,California
+Tulare,2/4/2021,551,California
+Tuolumne,2/4/2021,129,California
+Unknown,2/4/2021,75,Not in California
+Ventura,2/4/2021,4726,California
+Yolo,2/4/2021,1783,California
+Yuba,2/4/2021,295,California
+Alameda,2/3/2021,7019,California
+Alpine,2/3/2021,33,California
+Amador,2/3/2021,140,California
+Butte,2/3/2021,2728,California
+Calaveras,2/3/2021,417,California
+Colusa,2/3/2021,70,California
+Contra Costa,2/3/2021,8214,California
+Del Norte,2/3/2021,126,California
+El Dorado,2/3/2021,860,California
+Fresno,2/3/2021,3471,California
+Glenn,2/3/2021,206,California
+Humboldt,2/3/2021,626,California
+Imperial,2/3/2021,482,California
+Inyo,2/3/2021,117,California
+Kern,2/3/2021,3648,California
+Kings,2/3/2021,349,California
+Lake,2/3/2021,354,California
+Lassen,2/3/2021,99,California
+Los Angeles,2/3/2021,51517,California
+Madera,2/3/2021,582,California
+Marin,2/3/2021,1572,California
+Mariposa,2/3/2021,15,California
+Mendocino,2/3/2021,384,California
+Merced,2/3/2021,357,California
+Modoc,2/3/2021,18,California
+Mono,2/3/2021,4,California
+Monterey,2/3/2021,2326,California
+Napa,2/3/2021,726,California
+Nevada,2/3/2021,806,California
+Orange,2/3/2021,16666,California
+Outside California,2/3/2021,8719,Not in California
+Placer,2/3/2021,2883,California
+Plumas,2/3/2021,127,California
+Riverside,2/3/2021,12041,California
+Sacramento,2/3/2021,6878,California
+San Benito,2/3/2021,328,California
+San Bernardino,2/3/2021,8903,California
+San Diego,2/3/2021,25669,California
+San Francisco,2/3/2021,5035,California
+San Joaquin,2/3/2021,3000,California
+San Luis Obispo,2/3/2021,1699,California
+San Mateo,2/3/2021,4849,California
+Santa Barbara,2/3/2021,1946,California
+Santa Clara,2/3/2021,9091,California
+Santa Cruz,2/3/2021,2184,California
+Shasta,2/3/2021,649,California
+Sierra,2/3/2021,6,California
+Siskiyou,2/3/2021,311,California
+Solano,2/3/2021,2183,California
+Sonoma,2/3/2021,3900,California
+Stanislaus,2/3/2021,2453,California
+Sutter,2/3/2021,443,California
+Tehama,2/3/2021,353,California
+Trinity,2/3/2021,6,California
+Tulare,2/3/2021,602,California
+Tuolumne,2/3/2021,236,California
+Unknown,2/3/2021,55,Not in California
+Ventura,2/3/2021,4446,California
+Yolo,2/3/2021,1513,California
+Yuba,2/3/2021,225,California
+Alameda,2/2/2021,7358,California
+Amador,2/2/2021,214,California
+Butte,2/2/2021,1928,California
+Calaveras,2/2/2021,110,California
+Colusa,2/2/2021,42,California
+Contra Costa,2/2/2021,7702,California
+Del Norte,2/2/2021,142,California
+El Dorado,2/2/2021,807,California
+Fresno,2/2/2021,2684,California
+Glenn,2/2/2021,27,California
+Humboldt,2/2/2021,399,California
+Imperial,2/2/2021,683,California
+Inyo,2/2/2021,129,California
+Kern,2/2/2021,2881,California
+Kings,2/2/2021,206,California
+Lake,2/2/2021,525,California
+Lassen,2/2/2021,175,California
+Los Angeles,2/2/2021,43594,California
+Madera,2/2/2021,245,California
+Marin,2/2/2021,1310,California
+Mariposa,2/2/2021,8,California
+Mendocino,2/2/2021,680,California
+Merced,2/2/2021,301,California
+Modoc,2/2/2021,170,California
+Mono,2/2/2021,5,California
+Monterey,2/2/2021,2139,California
+Napa,2/2/2021,571,California
+Nevada,2/2/2021,512,California
+Orange,2/2/2021,15235,California
+Outside California,2/2/2021,8125,Not in California
+Placer,2/2/2021,2340,California
+Plumas,2/2/2021,20,California
+Riverside,2/2/2021,9357,California
+Sacramento,2/2/2021,6743,California
+San Benito,2/2/2021,222,California
+San Bernardino,2/2/2021,10230,California
+San Diego,2/2/2021,21768,California
+San Francisco,2/2/2021,4616,California
+San Joaquin,2/2/2021,2547,California
+San Luis Obispo,2/2/2021,1890,California
+San Mateo,2/2/2021,3125,California
+Santa Barbara,2/2/2021,1806,California
+Santa Clara,2/2/2021,7939,California
+Santa Cruz,2/2/2021,1006,California
+Shasta,2/2/2021,601,California
+Sierra,2/2/2021,58,California
+Siskiyou,2/2/2021,285,California
+Solano,2/2/2021,2480,California
+Sonoma,2/2/2021,3396,California
+Stanislaus,2/2/2021,1232,California
+Sutter,2/2/2021,240,California
+Tehama,2/2/2021,310,California
+Trinity,2/2/2021,10,California
+Tulare,2/2/2021,668,California
+Tuolumne,2/2/2021,647,California
+Unknown,2/2/2021,77,Not in California
+Ventura,2/2/2021,4368,California
+Yolo,2/2/2021,1317,California
+Yuba,2/2/2021,121,California
+Alameda,2/1/2021,5862,California
+Alpine,2/1/2021,23,California
+Amador,2/1/2021,61,California
+Butte,2/1/2021,1733,California
+Calaveras,2/1/2021,53,California
+Colusa,2/1/2021,27,California
+Contra Costa,2/1/2021,5465,California
+Del Norte,2/1/2021,40,California
+El Dorado,2/1/2021,781,California
+Fresno,2/1/2021,3298,California
+Glenn,2/1/2021,29,California
+Humboldt,2/1/2021,303,California
+Imperial,2/1/2021,440,California
+Inyo,2/1/2021,12,California
+Kern,2/1/2021,2399,California
+Kings,2/1/2021,198,California
+Lake,2/1/2021,162,California
+Lassen,2/1/2021,61,California
+Los Angeles,2/1/2021,37288,California
+Madera,2/1/2021,259,California
+Marin,2/1/2021,1053,California
+Mariposa,2/1/2021,56,California
+Mendocino,2/1/2021,364,California
+Merced,2/1/2021,368,California
+Modoc,2/1/2021,24,California
+Mono,2/1/2021,29,California
+Monterey,2/1/2021,1644,California
+Napa,2/1/2021,310,California
+Nevada,2/1/2021,290,California
+Orange,2/1/2021,13837,California
+Outside California,2/1/2021,6611,Not in California
+Placer,2/1/2021,2045,California
+Plumas,2/1/2021,15,California
+Riverside,2/1/2021,10774,California
+Sacramento,2/1/2021,5824,California
+San Benito,2/1/2021,133,California
+San Bernardino,2/1/2021,7403,California
+San Diego,2/1/2021,19529,California
+San Francisco,2/1/2021,3724,California
+San Joaquin,2/1/2021,2469,California
+San Luis Obispo,2/1/2021,1651,California
+San Mateo,2/1/2021,2897,California
+Santa Barbara,2/1/2021,931,California
+Santa Clara,2/1/2021,7741,California
+Santa Cruz,2/1/2021,1227,California
+Shasta,2/1/2021,500,California
+Sierra,2/1/2021,1,California
+Siskiyou,2/1/2021,194,California
+Solano,2/1/2021,1454,California
+Sonoma,2/1/2021,2459,California
+Stanislaus,2/1/2021,1238,California
+Sutter,2/1/2021,161,California
+Tehama,2/1/2021,79,California
+Trinity,2/1/2021,2,California
+Tulare,2/1/2021,1164,California
+Tuolumne,2/1/2021,25,California
+Unknown,2/1/2021,40,Not in California
+Ventura,2/1/2021,3909,California
+Yolo,2/1/2021,838,California
+Yuba,2/1/2021,149,California
+Alameda,1/31/2021,2124,California
+Amador,1/31/2021,32,California
+Butte,1/31/2021,15,California
+Calaveras,1/31/2021,5,California
+Colusa,1/31/2021,7,California
+Contra Costa,1/31/2021,745,California
+El Dorado,1/31/2021,206,California
+Fresno,1/31/2021,230,California
+Glenn,1/31/2021,1,California
+Humboldt,1/31/2021,307,California
+Imperial,1/31/2021,24,California
+Inyo,1/31/2021,32,California
+Kern,1/31/2021,400,California
+Lake,1/31/2021,14,California
+Linn,1/31/2021,1,California
+Los Angeles,1/31/2021,12925,California
+Madera,1/31/2021,9,California
+Marin,1/31/2021,449,California
+Mariposa,1/31/2021,1,California
+Mendocino,1/31/2021,274,California
+Merced,1/31/2021,47,California
+Mono,1/31/2021,242,California
+Monterey,1/31/2021,494,California
+Napa,1/31/2021,649,California
+Nevada,1/31/2021,100,California
+Orange,1/31/2021,13745,California
+Outside California,1/31/2021,4175,Not in California
+Placer,1/31/2021,778,California
+Plumas,1/31/2021,3,California
+Riverside,1/31/2021,5181,California
+Sacramento,1/31/2021,2221,California
+San Benito,1/31/2021,22,California
+San Bernardino,1/31/2021,925,California
+San Diego,1/31/2021,13557,California
+San Francisco,1/31/2021,2381,California
+San Joaquin,1/31/2021,1546,California
+San Luis Obispo,1/31/2021,30,California
+San Mateo,1/31/2021,1899,California
+Santa Barbara,1/31/2021,1460,California
+Santa Clara,1/31/2021,2554,California
+Santa Cruz,1/31/2021,227,California
+Shasta,1/31/2021,29,California
+Solano,1/31/2021,474,California
+Sonoma,1/31/2021,769,California
+Stanislaus,1/31/2021,363,California
+Sutter,1/31/2021,27,California
+Tehama,1/31/2021,1,California
+Trinity,1/31/2021,1,California
+Tulare,1/31/2021,50,California
+Tuolumne,1/31/2021,8,California
+Unknown,1/31/2021,22,Not in California
+Ventura,1/31/2021,827,California
+Yolo,1/31/2021,250,California
+Yuba,1/31/2021,17,California
+Alameda,1/30/2021,3229,California
+Amador,1/30/2021,165,California
+Butte,1/30/2021,32,California
+Calaveras,1/30/2021,26,California
+Colusa,1/30/2021,27,California
+Contra Costa,1/30/2021,2027,California
+Del Norte,1/30/2021,8,California
+El Dorado,1/30/2021,605,California
+Fresno,1/30/2021,1386,California
+Glenn,1/30/2021,4,California
+Humboldt,1/30/2021,949,California
+Imperial,1/30/2021,65,California
+Inyo,1/30/2021,11,California
+Kern,1/30/2021,1319,California
+Kings,1/30/2021,1422,California
+Lake,1/30/2021,553,California
+Los Angeles,1/30/2021,29638,California
+Madera,1/30/2021,504,California
+Marin,1/30/2021,1710,California
+Mariposa,1/30/2021,3,California
+Mendocino,1/30/2021,45,California
+Merced,1/30/2021,262,California
+Mono,1/30/2021,201,California
+Monterey,1/30/2021,410,California
+Napa,1/30/2021,785,California
+Nevada,1/30/2021,229,California
+Orange,1/30/2021,12838,California
+Outside California,1/30/2021,4793,Not in California
+Placer,1/30/2021,1709,California
+Plumas,1/30/2021,7,California
+Riverside,1/30/2021,9026,California
+Sacramento,1/30/2021,4470,California
+San Benito,1/30/2021,45,California
+San Bernardino,1/30/2021,3061,California
+San Diego,1/30/2021,15291,California
+San Francisco,1/30/2021,3709,California
+San Joaquin,1/30/2021,2106,California
+San Luis Obispo,1/30/2021,30,California
+San Mateo,1/30/2021,3218,California
+Santa Barbara,1/30/2021,1893,California
+Santa Clara,1/30/2021,3776,California
+Santa Cruz,1/30/2021,1045,California
+Shasta,1/30/2021,613,California
+Sierra,1/30/2021,3,California
+Siskiyou,1/30/2021,3,California
+Solano,1/30/2021,705,California
+Sonoma,1/30/2021,2568,California
+Stanislaus,1/30/2021,283,California
+Sutter,1/30/2021,780,California
+Tehama,1/30/2021,102,California
+Trinity,1/30/2021,13,California
+Tulare,1/30/2021,1670,California
+Tuolumne,1/30/2021,708,California
+Unknown,1/30/2021,12,Not in California
+Ventura,1/30/2021,3014,California
+Yolo,1/30/2021,1515,California
+Yuba,1/30/2021,410,California
+Alameda,1/29/2021,7760,California
+Amador,1/29/2021,93,California
+Butte,1/29/2021,1668,California
+Calaveras,1/29/2021,400,California
+Colusa,1/29/2021,40,California
+Contra Costa,1/29/2021,7363,California
+Del Norte,1/29/2021,49,California
+El Dorado,1/29/2021,922,California
+Fresno,1/29/2021,1683,California
+Glenn,1/29/2021,295,California
+Humboldt,1/29/2021,1121,California
+Imperial,1/29/2021,422,California
+Inyo,1/29/2021,24,California
+Kern,1/29/2021,3737,California
+Kings,1/29/2021,85,California
+Lake,1/29/2021,618,California
+Lassen,1/29/2021,23,California
+Los Angeles,1/29/2021,48426,California
+Madera,1/29/2021,465,California
+Marin,1/29/2021,2172,California
+Mariposa,1/29/2021,57,California
+Mendocino,1/29/2021,387,California
+Merced,1/29/2021,853,California
+Modoc,1/29/2021,3,California
+Monterey,1/29/2021,1216,California
+Napa,1/29/2021,246,California
+Nevada,1/29/2021,590,California
+Orange,1/29/2021,13404,California
+Outside California,1/29/2021,5093,Not in California
+Placer,1/29/2021,1813,California
+Plumas,1/29/2021,7,California
+Riverside,1/29/2021,11799,California
+Sacramento,1/29/2021,5209,California
+San Benito,1/29/2021,284,California
+San Bernardino,1/29/2021,8068,California
+San Diego,1/29/2021,19389,California
+San Francisco,1/29/2021,4668,California
+San Joaquin,1/29/2021,2104,California
+San Luis Obispo,1/29/2021,1722,California
+San Mateo,1/29/2021,2877,California
+Santa Barbara,1/29/2021,1322,California
+Santa Clara,1/29/2021,9386,California
+Santa Cruz,1/29/2021,1724,California
+Shasta,1/29/2021,829,California
+Sierra,1/29/2021,1,California
+Siskiyou,1/29/2021,245,California
+Solano,1/29/2021,1621,California
+Sonoma,1/29/2021,2915,California
+Stanislaus,1/29/2021,2405,California
+Sutter,1/29/2021,397,California
+Tehama,1/29/2021,320,California
+Trinity,1/29/2021,2,California
+Tulare,1/29/2021,1119,California
+Tuolumne,1/29/2021,69,California
+Unknown,1/29/2021,162,Not in California
+Ventura,1/29/2021,4202,California
+Yolo,1/29/2021,849,California
+Yuba,1/29/2021,150,California
+Alameda,1/28/2021,7721,California
+Alpine,1/28/2021,2,California
+Amador,1/28/2021,337,California
+Butte,1/28/2021,2249,California
+Calaveras,1/28/2021,162,California
+Colusa,1/28/2021,78,California
+Contra Costa,1/28/2021,6694,California
+Del Norte,1/28/2021,291,California
+El Dorado,1/28/2021,1056,California
+Fresno,1/28/2021,4384,California
+Glenn,1/28/2021,145,California
+Humboldt,1/28/2021,1439,California
+Imperial,1/28/2021,634,California
+Inyo,1/28/2021,93,California
+Kern,1/28/2021,2822,California
+Kings,1/28/2021,322,California
+Lake,1/28/2021,449,California
+Lassen,1/28/2021,85,California
+Los Angeles,1/28/2021,47790,California
+Madera,1/28/2021,532,California
+Marin,1/28/2021,1989,California
+Mariposa,1/28/2021,119,California
+Mendocino,1/28/2021,544,California
+Merced,1/28/2021,1129,California
+Modoc,1/28/2021,144,California
+Mono,1/28/2021,6,California
+Monterey,1/28/2021,1993,California
+Napa,1/28/2021,370,California
+Nevada,1/28/2021,449,California
+Orange,1/28/2021,12805,California
+Outside California,1/28/2021,5935,Not in California
+Placer,1/28/2021,1754,California
+Plumas,1/28/2021,23,California
+Riverside,1/28/2021,11322,California
+Sacramento,1/28/2021,5195,California
+San Benito,1/28/2021,152,California
+San Bernardino,1/28/2021,8455,California
+San Diego,1/28/2021,20459,California
+San Francisco,1/28/2021,3712,California
+San Joaquin,1/28/2021,1969,California
+San Luis Obispo,1/28/2021,1457,California
+San Mateo,1/28/2021,2757,California
+Santa Barbara,1/28/2021,880,California
+Santa Clara,1/28/2021,9311,California
+Santa Cruz,1/28/2021,1718,California
+Shasta,1/28/2021,841,California
+Sierra,1/28/2021,53,California
+Siskiyou,1/28/2021,228,California
+Solano,1/28/2021,1803,California
+Sonoma,1/28/2021,4044,California
+Stanislaus,1/28/2021,2161,California
+Sutter,1/28/2021,522,California
+Tehama,1/28/2021,334,California
+Trinity,1/28/2021,13,California
+Tulare,1/28/2021,1184,California
+Tuolumne,1/28/2021,27,California
+Unknown,1/28/2021,163,Not in California
+Ventura,1/28/2021,3827,California
+Yolo,1/28/2021,1039,California
+Yuba,1/28/2021,209,California
+Alameda,1/27/2021,6627,California
+Alpine,1/27/2021,1,California
+Amador,1/27/2021,295,California
+Butte,1/27/2021,2070,California
+Calaveras,1/27/2021,132,California
+Colusa,1/27/2021,107,California
+Contra Costa,1/27/2021,8150,California
+Del Norte,1/27/2021,62,California
+El Dorado,1/27/2021,888,California
+Fresno,1/27/2021,2214,California
+Glenn,1/27/2021,188,California
+Humboldt,1/27/2021,1249,California
+Imperial,1/27/2021,575,California
+Inyo,1/27/2021,23,California
+Kern,1/27/2021,3543,California
+Kings,1/27/2021,316,California
+Lake,1/27/2021,339,California
+Lassen,1/27/2021,79,California
+Los Angeles,1/27/2021,47737,California
+Madera,1/27/2021,737,California
+Marin,1/27/2021,1625,California
+Mariposa,1/27/2021,19,California
+Mendocino,1/27/2021,424,California
+Merced,1/27/2021,971,California
+Modoc,1/27/2021,40,California
+Mono,1/27/2021,5,California
+Monterey,1/27/2021,854,California
+Napa,1/27/2021,620,California
+Nevada,1/27/2021,400,California
+Orange,1/27/2021,13270,California
+Outside California,1/27/2021,5748,Not in California
+Placer,1/27/2021,1803,California
+Plumas,1/27/2021,25,California
+Riverside,1/27/2021,10487,California
+Sacramento,1/27/2021,5692,California
+San Benito,1/27/2021,231,California
+San Bernardino,1/27/2021,8199,California
+San Diego,1/27/2021,19767,California
+San Francisco,1/27/2021,4390,California
+San Joaquin,1/27/2021,1682,California
+San Luis Obispo,1/27/2021,1609,California
+San Mateo,1/27/2021,2735,California
+Santa Barbara,1/27/2021,1154,California
+Santa Clara,1/27/2021,8526,California
+Santa Cruz,1/27/2021,1638,California
+Shasta,1/27/2021,457,California
+Sierra,1/27/2021,4,California
+Siskiyou,1/27/2021,181,California
+Solano,1/27/2021,1740,California
+Sonoma,1/27/2021,3574,California
+Stanislaus,1/27/2021,1784,California
+Sutter,1/27/2021,383,California
+Tehama,1/27/2021,299,California
+Trinity,1/27/2021,12,California
+Tulare,1/27/2021,1455,California
+Tuolumne,1/27/2021,59,California
+Unknown,1/27/2021,24,Not in California
+Ventura,1/27/2021,3427,California
+Yolo,1/27/2021,555,California
+Yuba,1/27/2021,180,California
+Alameda,1/26/2021,7187,California
+Amador,1/26/2021,239,California
+Butte,1/26/2021,1453,California
+Calaveras,1/26/2021,47,California
+Colusa,1/26/2021,9,California
+Contra Costa,1/26/2021,7871,California
+Del Norte,1/26/2021,18,California
+El Dorado,1/26/2021,664,California
+Fresno,1/26/2021,1979,California
+Glenn,1/26/2021,29,California
+Humboldt,1/26/2021,513,California
+Imperial,1/26/2021,358,California
+Inyo,1/26/2021,133,California
+Kern,1/26/2021,2726,California
+Kings,1/26/2021,153,California
+Lake,1/26/2021,393,California
+Lassen,1/26/2021,126,California
+Los Angeles,1/26/2021,48534,California
+Madera,1/26/2021,477,California
+Maricopa,1/26/2021,1,California
+Marin,1/26/2021,1490,California
+Mariposa,1/26/2021,32,California
+Mendocino,1/26/2021,153,California
+Merced,1/26/2021,896,California
+Modoc,1/26/2021,66,California
+Mono,1/26/2021,510,California
+Monterey,1/26/2021,915,California
+Napa,1/26/2021,866,California
+Nevada,1/26/2021,393,California
+Orange,1/26/2021,11655,California
+Outside California,1/26/2021,6995,Not in California
+Placer,1/26/2021,1822,California
+Plumas,1/26/2021,60,California
+Riverside,1/26/2021,9044,California
+Sacramento,1/26/2021,4639,California
+San Benito,1/26/2021,135,California
+San Bernardino,1/26/2021,7060,California
+San Diego,1/26/2021,13962,California
+San Francisco,1/26/2021,4606,California
+San Joaquin,1/26/2021,2077,California
+San Luis Obispo,1/26/2021,1998,California
+San Mateo,1/26/2021,4274,California
+Santa Barbara,1/26/2021,2031,California
+Santa Clara,1/26/2021,8139,California
+Santa Cruz,1/26/2021,1669,California
+Shasta,1/26/2021,708,California
+Sierra,1/26/2021,64,California
+Siskiyou,1/26/2021,150,California
+Solano,1/26/2021,1655,California
+Sonoma,1/26/2021,1983,California
+Stanislaus,1/26/2021,1698,California
+Sutter,1/26/2021,237,California
+Tehama,1/26/2021,325,California
+Trinity,1/26/2021,10,California
+Tulare,1/26/2021,1495,California
+Tuolumne,1/26/2021,81,California
+Unknown,1/26/2021,94,Not in California
+Ventura,1/26/2021,3664,California
+Yolo,1/26/2021,807,California
+Yuba,1/26/2021,146,California
+Alameda,1/25/2021,5134,California
+Alpine,1/25/2021,16,California
+Amador,1/25/2021,54,California
+Butte,1/25/2021,648,California
+Calaveras,1/25/2021,85,California
+Colusa,1/25/2021,7,California
+Contra Costa,1/25/2021,6561,California
+Del Norte,1/25/2021,97,California
+El Dorado,1/25/2021,584,California
+Fresno,1/25/2021,2313,California
+Glenn,1/25/2021,27,California
+Humboldt,1/25/2021,296,California
+Imperial,1/25/2021,217,California
+Inyo,1/25/2021,49,California
+Kern,1/25/2021,2369,California
+Kings,1/25/2021,123,California
+Lake,1/25/2021,208,California
+Lassen,1/25/2021,12,California
+Los Angeles,1/25/2021,38074,California
+Madera,1/25/2021,248,California
+Marin,1/25/2021,1108,California
+Mariposa,1/25/2021,4,California
+Mendocino,1/25/2021,186,California
+Merced,1/25/2021,727,California
+Modoc,1/25/2021,12,California
+Mono,1/25/2021,204,California
+Monterey,1/25/2021,778,California
+Napa,1/25/2021,1512,California
+Nevada,1/25/2021,262,California
+Orange,1/25/2021,10268,California
+Outside California,1/25/2021,5127,Not in California
+Placer,1/25/2021,1627,California
+Plumas,1/25/2021,9,California
+Riverside,1/25/2021,7818,California
+Sacramento,1/25/2021,4284,California
+San Benito,1/25/2021,67,California
+San Bernardino,1/25/2021,6808,California
+San Diego,1/25/2021,11705,California
+San Francisco,1/25/2021,4534,California
+San Joaquin,1/25/2021,1902,California
+San Luis Obispo,1/25/2021,2070,California
+San Mateo,1/25/2021,4364,California
+Santa Barbara,1/25/2021,1232,California
+Santa Clara,1/25/2021,8252,California
+Santa Cruz,1/25/2021,1056,California
+Shasta,1/25/2021,752,California
+Siskiyou,1/25/2021,183,California
+Solano,1/25/2021,1565,California
+Sonoma,1/25/2021,2143,California
+Stanislaus,1/25/2021,3093,California
+Sutter,1/25/2021,301,California
+Tehama,1/25/2021,30,California
+Trinity,1/25/2021,14,California
+Tulare,1/25/2021,1276,California
+Tuolumne,1/25/2021,48,California
+Unknown,1/25/2021,23,Not in California
+Ventura,1/25/2021,3107,California
+Yolo,1/25/2021,718,California
+Yuba,1/25/2021,81,California
+Alameda,1/24/2021,2080,California
+Amador,1/24/2021,26,California
+Butte,1/24/2021,7,California
+Calaveras,1/24/2021,15,California
+Contra Costa,1/24/2021,1559,California
+Del Norte,1/24/2021,1,California
+El Dorado,1/24/2021,125,California
+Fresno,1/24/2021,547,California
+Glenn,1/24/2021,1,California
+Humboldt,1/24/2021,221,California
+Imperial,1/24/2021,11,California
+Kern,1/24/2021,161,California
+Kings,1/24/2021,2,California
+Lake,1/24/2021,4,California
+Lassen,1/24/2021,1,California
+Los Angeles,1/24/2021,15627,California
+Madera,1/24/2021,101,California
+Marin,1/24/2021,605,California
+Mendocino,1/24/2021,4,California
+Merced,1/24/2021,33,California
+Monterey,1/24/2021,58,California
+Napa,1/24/2021,275,California
+Nevada,1/24/2021,104,California
+Orange,1/24/2021,9819,California
+Outside California,1/24/2021,1110,Not in California
+Placer,1/24/2021,502,California
+Plumas,1/24/2021,1,California
+Riverside,1/24/2021,3067,California
+Sacramento,1/24/2021,1498,California
+San Benito,1/24/2021,11,California
+San Bernardino,1/24/2021,1187,California
+San Diego,1/24/2021,11222,California
+San Francisco,1/24/2021,2419,California
+San Joaquin,1/24/2021,328,California
+San Luis Obispo,1/24/2021,242,California
+San Mateo,1/24/2021,1558,California
+Santa Barbara,1/24/2021,846,California
+Santa Clara,1/24/2021,2842,California
+Santa Cruz,1/24/2021,113,California
+Shasta,1/24/2021,25,California
+Solano,1/24/2021,371,California
+Sonoma,1/24/2021,756,California
+Stanislaus,1/24/2021,287,California
+Sutter,1/24/2021,16,California
+Tulare,1/24/2021,29,California
+Tuolumne,1/24/2021,523,California
+Unknown,1/24/2021,6,Not in California
+Ventura,1/24/2021,446,California
+Yolo,1/24/2021,201,California
+Yuba,1/24/2021,9,California
+Alameda,1/23/2021,3260,California
+Alpine,1/23/2021,1,California
+Amador,1/23/2021,51,California
+Butte,1/23/2021,123,California
+Calaveras,1/23/2021,23,California
+Colusa,1/23/2021,35,California
+Contra Costa,1/23/2021,2004,California
+Del Norte,1/23/2021,1,California
+El Dorado,1/23/2021,731,California
+Fresno,1/23/2021,3017,California
+Glenn,1/23/2021,13,California
+Humboldt,1/23/2021,583,California
+Imperial,1/23/2021,1048,California
+Inyo,1/23/2021,53,California
+Kern,1/23/2021,1241,California
+Kings,1/23/2021,26,California
+Lake,1/23/2021,121,California
+Lassen,1/23/2021,1,California
+Los Angeles,1/23/2021,33701,California
+Madera,1/23/2021,102,California
+Marin,1/23/2021,1846,California
+Mariposa,1/23/2021,113,California
+Mendocino,1/23/2021,155,California
+Merced,1/23/2021,307,California
+Mono,1/23/2021,598,California
+Monterey,1/23/2021,237,California
+Napa,1/23/2021,394,California
+Nevada,1/23/2021,171,California
+Orange,1/23/2021,13093,California
+Outside California,1/23/2021,2453,Not in California
+Placer,1/23/2021,1185,California
+Plumas,1/23/2021,92,California
+Riverside,1/23/2021,5948,California
+Sacramento,1/23/2021,3708,California
+San Benito,1/23/2021,32,California
+San Bernardino,1/23/2021,3096,California
+San Diego,1/23/2021,14202,California
+San Francisco,1/23/2021,3068,California
+San Joaquin,1/23/2021,890,California
+San Luis Obispo,1/23/2021,309,California
+San Mateo,1/23/2021,2877,California
+Santa Barbara,1/23/2021,1732,California
+Santa Clara,1/23/2021,3771,California
+Santa Cruz,1/23/2021,401,California
+Shasta,1/23/2021,69,California
+Sierra,1/23/2021,2,California
+Siskiyou,1/23/2021,6,California
+Solano,1/23/2021,727,California
+Sonoma,1/23/2021,755,California
+Stanislaus,1/23/2021,341,California
+Sutter,1/23/2021,396,California
+Tehama,1/23/2021,264,California
+Trinity,1/23/2021,3,California
+Tulare,1/23/2021,439,California
+Tuolumne,1/23/2021,664,California
+Unknown,1/23/2021,13,Not in California
+Ventura,1/23/2021,1181,California
+Yolo,1/23/2021,610,California
+Yuba,1/23/2021,201,California
+Alameda,1/22/2021,6896,California
+Alpine,1/22/2021,31,California
+Amador,1/22/2021,133,California
+Butte,1/22/2021,986,California
+Calaveras,1/22/2021,399,California
+Colusa,1/22/2021,39,California
+Contra Costa,1/22/2021,6319,California
+Del Norte,1/22/2021,19,California
+El Dorado,1/22/2021,1088,California
+Fresno,1/22/2021,3287,California
+Glenn,1/22/2021,337,California
+Humboldt,1/22/2021,676,California
+Imperial,1/22/2021,467,California
+Inyo,1/22/2021,62,California
+Kern,1/22/2021,2687,California
+Kings,1/22/2021,122,California
+Lake,1/22/2021,308,California
+Lassen,1/22/2021,32,California
+Los Angeles,1/22/2021,47378,California
+Madera,1/22/2021,253,California
+Marin,1/22/2021,1680,California
+Mariposa,1/22/2021,49,California
+Mendocino,1/22/2021,147,California
+Merced,1/22/2021,1298,California
+Modoc,1/22/2021,2,California
+Mono,1/22/2021,4,California
+Monterey,1/22/2021,1011,California
+Napa,1/22/2021,1495,California
+Nevada,1/22/2021,339,California
+Orange,1/22/2021,13475,California
+Outside California,1/22/2021,4944,Not in California
+Placer,1/22/2021,2264,California
+Plumas,1/22/2021,3,California
+Riverside,1/22/2021,8592,California
+Sacramento,1/22/2021,4920,California
+San Benito,1/22/2021,229,California
+San Bernardino,1/22/2021,6475,California
+San Diego,1/22/2021,17465,California
+San Francisco,1/22/2021,3133,California
+San Joaquin,1/22/2021,1861,California
+San Luis Obispo,1/22/2021,1514,California
+San Mateo,1/22/2021,2831,California
+Santa Barbara,1/22/2021,2991,California
+Santa Clara,1/22/2021,8634,California
+Santa Cruz,1/22/2021,1795,California
+Shasta,1/22/2021,445,California
+Sierra,1/22/2021,1,California
+Siskiyou,1/22/2021,1331,California
+Solano,1/22/2021,1609,California
+Sonoma,1/22/2021,2695,California
+Stanislaus,1/22/2021,1056,California
+Sutter,1/22/2021,265,California
+Tehama,1/22/2021,215,California
+Trinity,1/22/2021,4,California
+Tulare,1/22/2021,1048,California
+Tuolumne,1/22/2021,165,California
+Unknown,1/22/2021,47,Not in California
+Ventura,1/22/2021,3586,California
+Yolo,1/22/2021,742,California
+Yuba,1/22/2021,102,California
+Alameda,1/21/2021,7606,California
+Alpine,1/21/2021,1,California
+Amador,1/21/2021,251,California
+Butte,1/21/2021,1472,California
+Calaveras,1/21/2021,458,California
+Colusa,1/21/2021,57,California
+Contra Costa,1/21/2021,6911,California
+Del Norte,1/21/2021,43,California
+El Dorado,1/21/2021,1135,California
+Fresno,1/21/2021,4313,California
+Glenn,1/21/2021,123,California
+Humboldt,1/21/2021,957,California
+Imperial,1/21/2021,416,California
+Inyo,1/21/2021,120,California
+Kern,1/21/2021,2144,California
+Kings,1/21/2021,185,California
+Lake,1/21/2021,303,California
+Lassen,1/21/2021,145,California
+Los Angeles,1/21/2021,48148,California
+Madera,1/21/2021,229,California
+Marin,1/21/2021,1677,California
+Mariposa,1/21/2021,56,California
+Mendocino,1/21/2021,524,California
+Merced,1/21/2021,1007,California
+Modoc,1/21/2021,158,California
+Mono,1/21/2021,3,California
+Monterey,1/21/2021,834,California
+Napa,1/21/2021,1329,California
+Nevada,1/21/2021,334,California
+Orange,1/21/2021,10739,California
+Outside California,1/21/2021,4365,Not in California
+Placer,1/21/2021,2517,California
+Plumas,1/21/2021,112,California
+Riverside,1/21/2021,8115,California
+Sacramento,1/21/2021,5101,California
+San Benito,1/21/2021,123,California
+San Bernardino,1/21/2021,5973,California
+San Diego,1/21/2021,17333,California
+San Francisco,1/21/2021,3257,California
+San Joaquin,1/21/2021,1868,California
+San Luis Obispo,1/21/2021,1567,California
+San Mateo,1/21/2021,2786,California
+Santa Barbara,1/21/2021,3077,California
+Santa Clara,1/21/2021,8420,California
+Santa Cruz,1/21/2021,1695,California
+Shasta,1/21/2021,629,California
+Sierra,1/21/2021,55,California
+Siskiyou,1/21/2021,42,California
+Solano,1/21/2021,2304,California
+Sonoma,1/21/2021,2193,California
+Stanislaus,1/21/2021,3592,California
+Sutter,1/21/2021,431,California
+Tehama,1/21/2021,215,California
+Trinity,1/21/2021,14,California
+Tulare,1/21/2021,1503,California
+Tuolumne,1/21/2021,58,California
+Unknown,1/21/2021,65,Not in California
+Ventura,1/21/2021,3822,California
+Yolo,1/21/2021,634,California
+Yuba,1/21/2021,210,California
+Alameda,1/20/2021,6565,California
+Alpine,1/20/2021,19,California
+Amador,1/20/2021,182,California
+Butte,1/20/2021,1342,California
+Calaveras,1/20/2021,372,California
+Colusa,1/20/2021,114,California
+Contra Costa,1/20/2021,6532,California
+Del Norte,1/20/2021,157,California
+El Dorado,1/20/2021,1004,California
+Fresno,1/20/2021,2965,California
+Glenn,1/20/2021,162,California
+Humboldt,1/20/2021,810,California
+Imperial,1/20/2021,289,California
+Inyo,1/20/2021,141,California
+Kern,1/20/2021,2434,California
+Kings,1/20/2021,223,California
+Lake,1/20/2021,374,California
+Lassen,1/20/2021,184,California
+Los Angeles,1/20/2021,45156,California
+Madera,1/20/2021,232,California
+Marin,1/20/2021,1769,California
+Mariposa,1/20/2021,22,California
+Mendocino,1/20/2021,548,California
+Merced,1/20/2021,571,California
+Modoc,1/20/2021,11,California
+Mono,1/20/2021,233,California
+Monterey,1/20/2021,511,California
+Napa,1/20/2021,818,California
+Nevada,1/20/2021,258,California
+Orange,1/20/2021,8155,California
+Outside California,1/20/2021,4578,Not in California
+Placer,1/20/2021,2225,California
+Plumas,1/20/2021,121,California
+Riverside,1/20/2021,7946,California
+Sacramento,1/20/2021,4715,California
+San Benito,1/20/2021,262,California
+San Bernardino,1/20/2021,6781,California
+San Diego,1/20/2021,18107,California
+San Francisco,1/20/2021,2657,California
+San Joaquin,1/20/2021,2020,California
+San Luis Obispo,1/20/2021,1881,California
+San Mateo,1/20/2021,2615,California
+Santa Barbara,1/20/2021,1979,California
+Santa Clara,1/20/2021,7850,California
+Santa Cruz,1/20/2021,1224,California
+Shasta,1/20/2021,665,California
+Sierra,1/20/2021,1,California
+Siskiyou,1/20/2021,45,California
+Solano,1/20/2021,1895,California
+Sonoma,1/20/2021,2048,California
+Stanislaus,1/20/2021,987,California
+Sutter,1/20/2021,255,California
+Tehama,1/20/2021,302,California
+Trinity,1/20/2021,18,California
+Tulare,1/20/2021,2363,California
+Tuolumne,1/20/2021,74,California
+Unknown,1/20/2021,80,Not in California
+Ventura,1/20/2021,4037,California
+Yolo,1/20/2021,645,California
+Yuba,1/20/2021,131,California
+Alameda,1/19/2021,5475,California
+Amador,1/19/2021,120,California
+Butte,1/19/2021,485,California
+Calaveras,1/19/2021,199,California
+Clark,1/19/2021,1,California
+Colusa,1/19/2021,8,California
+Contra Costa,1/19/2021,6994,California
+Del Norte,1/19/2021,119,California
+El Dorado,1/19/2021,629,California
+Fresno,1/19/2021,4262,California
+Glenn,1/19/2021,28,California
+Humboldt,1/19/2021,606,California
+Imperial,1/19/2021,168,California
+Inyo,1/19/2021,115,California
+Kern,1/19/2021,1828,California
+Kings,1/19/2021,376,California
+Lake,1/19/2021,267,California
+Lassen,1/19/2021,187,California
+Los Angeles,1/19/2021,37898,California
+Madera,1/19/2021,551,California
+Marin,1/19/2021,1142,California
+Mariposa,1/19/2021,1,California
+Mendocino,1/19/2021,327,California
+Merced,1/19/2021,713,California
+Modoc,1/19/2021,5,California
+Mono,1/19/2021,206,California
+Monterey,1/19/2021,569,California
+Napa,1/19/2021,999,California
+Nevada,1/19/2021,230,California
+Orange,1/19/2021,7372,California
+Outside California,1/19/2021,4177,Not in California
+Placer,1/19/2021,2536,California
+Plumas,1/19/2021,36,California
+Riverside,1/19/2021,7353,California
+Sacramento,1/19/2021,4555,California
+San Benito,1/19/2021,147,California
+San Bernardino,1/19/2021,6235,California
+San Diego,1/19/2021,14817,California
+San Francisco,1/19/2021,2542,California
+San Joaquin,1/19/2021,1801,California
+San Luis Obispo,1/19/2021,1582,California
+San Mateo,1/19/2021,2756,California
+Santa Barbara,1/19/2021,1630,California
+Santa Clara,1/19/2021,8318,California
+Santa Cruz,1/19/2021,1616,California
+Shasta,1/19/2021,1014,California
+Sierra,1/19/2021,33,California
+Siskiyou,1/19/2021,21,California
+Solano,1/19/2021,1618,California
+Sonoma,1/19/2021,2079,California
+Stanislaus,1/19/2021,1231,California
+Sutter,1/19/2021,100,California
+Tehama,1/19/2021,289,California
+Trinity,1/19/2021,31,California
+Tulare,1/19/2021,1003,California
+Tuolumne,1/19/2021,469,California
+Unknown,1/19/2021,26,Not in California
+Ventura,1/19/2021,3001,California
+Yolo,1/19/2021,535,California
+Yuba,1/19/2021,79,California
+Alameda,1/18/2021,3224,California
+Amador,1/18/2021,31,California
+Butte,1/18/2021,342,California
+Calaveras,1/18/2021,131,California
+Colusa,1/18/2021,4,California
+Contra Costa,1/18/2021,3192,California
+Del Norte,1/18/2021,2,California
+El Dorado,1/18/2021,415,California
+Fresno,1/18/2021,3066,California
+Glenn,1/18/2021,17,California
+Humboldt,1/18/2021,267,California
+Imperial,1/18/2021,1053,California
+Inyo,1/18/2021,58,California
+Kern,1/18/2021,1637,California
+Kings,1/18/2021,170,California
+Lake,1/18/2021,240,California
+Lassen,1/18/2021,5,California
+Los Angeles,1/18/2021,15235,California
+Madera,1/18/2021,73,California
+Marin,1/18/2021,359,California
+Mariposa,1/18/2021,2,California
+Mendocino,1/18/2021,482,California
+Merced,1/18/2021,262,California
+Modoc,1/18/2021,1,California
+Mono,1/18/2021,63,California
+Monterey,1/18/2021,396,California
+Napa,1/18/2021,1072,California
+Nevada,1/18/2021,148,California
+Orange,1/18/2021,9708,California
+Outside California,1/18/2021,1270,Not in California
+Placer,1/18/2021,974,California
+Plumas,1/18/2021,2,California
+Riverside,1/18/2021,3687,California
+Sacramento,1/18/2021,2840,California
+San Benito,1/18/2021,38,California
+San Bernardino,1/18/2021,4245,California
+San Diego,1/18/2021,12355,California
+San Francisco,1/18/2021,1381,California
+San Joaquin,1/18/2021,673,California
+San Luis Obispo,1/18/2021,1370,California
+San Mateo,1/18/2021,1392,California
+Santa Barbara,1/18/2021,1150,California
+Santa Clara,1/18/2021,5198,California
+Santa Cruz,1/18/2021,1026,California
+Shasta,1/18/2021,597,California
+Sierra,1/18/2021,2,California
+Siskiyou,1/18/2021,75,California
+Solano,1/18/2021,1405,California
+Sonoma,1/18/2021,1092,California
+Stanislaus,1/18/2021,2146,California
+Sutter,1/18/2021,116,California
+Tehama,1/18/2021,10,California
+Trinity,1/18/2021,31,California
+Tulare,1/18/2021,695,California
+Tuolumne,1/18/2021,46,California
+Unknown,1/18/2021,58,Not in California
+Ventura,1/18/2021,2201,California
+Yolo,1/18/2021,476,California
+Yuba,1/18/2021,60,California
+Alameda,1/17/2021,1863,California
+Amador,1/17/2021,22,California
+Butte,1/17/2021,239,California
+Calaveras,1/17/2021,10,California
+Colusa,1/17/2021,3,California
+Contra Costa,1/17/2021,1639,California
+Del Norte,1/17/2021,1,California
+El Dorado,1/17/2021,96,California
+Fresno,1/17/2021,968,California
+Glenn,1/17/2021,4,California
+Humboldt,1/17/2021,4,California
+Imperial,1/17/2021,10,California
+Kern,1/17/2021,69,California
+Kings,1/17/2021,8,California
+Lake,1/17/2021,14,California
+Lassen,1/17/2021,1,California
+Los Angeles,1/17/2021,5131,California
+Madera,1/17/2021,325,California
+Marin,1/17/2021,1233,California
+Mariposa,1/17/2021,2,California
+Mendocino,1/17/2021,552,California
+Merced,1/17/2021,48,California
+Monterey,1/17/2021,313,California
+Napa,1/17/2021,337,California
+Nevada,1/17/2021,36,California
+Orange,1/17/2021,8114,California
+Outside California,1/17/2021,543,Not in California
+Placer,1/17/2021,557,California
+Riverside,1/17/2021,3599,California
+Sacramento,1/17/2021,1620,California
+San Benito,1/17/2021,10,California
+San Bernardino,1/17/2021,1180,California
+San Diego,1/17/2021,8488,California
+San Francisco,1/17/2021,1914,California
+San Joaquin,1/17/2021,1591,California
+San Luis Obispo,1/17/2021,65,California
+San Mateo,1/17/2021,1301,California
+Santa Barbara,1/17/2021,124,California
+Santa Clara,1/17/2021,3214,California
+Santa Cruz,1/17/2021,284,California
+Shasta,1/17/2021,26,California
+Solano,1/17/2021,984,California
+Sonoma,1/17/2021,662,California
+Stanislaus,1/17/2021,246,California
+Sutter,1/17/2021,25,California
+Tehama,1/17/2021,13,California
+Tulare,1/17/2021,139,California
+Tuolumne,1/17/2021,4,California
+Unknown,1/17/2021,3,Not in California
+Ventura,1/17/2021,261,California
+Yolo,1/17/2021,184,California
+Yuba,1/17/2021,13,California
+Alameda,1/16/2021,3105,California
+Amador,1/16/2021,18,California
+Butte,1/16/2021,583,California
+Calaveras,1/16/2021,13,California
+Colusa,1/16/2021,12,California
+Contra Costa,1/16/2021,1698,California
+El Dorado,1/16/2021,171,California
+Fresno,1/16/2021,3129,California
+Glenn,1/16/2021,34,California
+Humboldt,1/16/2021,167,California
+Imperial,1/16/2021,77,California
+Inyo,1/16/2021,74,California
+Kern,1/16/2021,657,California
+Kings,1/16/2021,31,California
+Lake,1/16/2021,131,California
+Lassen,1/16/2021,34,California
+Los Angeles,1/16/2021,17059,California
+Madera,1/16/2021,374,California
+Marin,1/16/2021,1103,California
+Mariposa,1/16/2021,12,California
+Mendocino,1/16/2021,776,California
+Merced,1/16/2021,200,California
+Modoc,1/16/2021,1,California
+Mono,1/16/2021,4,California
+Monterey,1/16/2021,365,California
+Napa,1/16/2021,351,California
+Nevada,1/16/2021,292,California
+Orange,1/16/2021,8594,California
+Outside California,1/16/2021,2669,Not in California
+Placer,1/16/2021,1468,California
+Plumas,1/16/2021,58,California
+Riverside,1/16/2021,3595,California
+Sacramento,1/16/2021,2082,California
+San Benito,1/16/2021,28,California
+San Bernardino,1/16/2021,2247,California
+San Diego,1/16/2021,10673,California
+San Francisco,1/16/2021,2260,California
+San Joaquin,1/16/2021,1129,California
+San Luis Obispo,1/16/2021,99,California
+San Mateo,1/16/2021,3112,California
+Santa Barbara,1/16/2021,1267,California
+Santa Clara,1/16/2021,4402,California
+Santa Cruz,1/16/2021,433,California
+Shasta,1/16/2021,900,California
+Siskiyou,1/16/2021,7,California
+Solano,1/16/2021,1253,California
+Sonoma,1/16/2021,1070,California
+Stanislaus,1/16/2021,466,California
+Sutter,1/16/2021,390,California
+Tehama,1/16/2021,274,California
+Trinity,1/16/2021,4,California
+Tulare,1/16/2021,1868,California
+Tuolumne,1/16/2021,6,California
+Unknown,1/16/2021,7,Not in California
+Ventura,1/16/2021,484,California
+Yolo,1/16/2021,737,California
+Yuba,1/16/2021,184,California
+Alameda,1/15/2021,5768,California
+Alpine,1/15/2021,1,California
+Amador,1/15/2021,56,California
+Butte,1/15/2021,1167,California
+Calaveras,1/15/2021,113,California
+Colusa,1/15/2021,43,California
+Contra Costa,1/15/2021,5283,California
+Del Norte,1/15/2021,107,California
+El Dorado,1/15/2021,661,California
+Fresno,1/15/2021,3586,California
+Glenn,1/15/2021,41,California
+Humboldt,1/15/2021,371,California
+Imperial,1/15/2021,240,California
+Inyo,1/15/2021,162,California
+Kern,1/15/2021,2623,California
+Kings,1/15/2021,412,California
+Lake,1/15/2021,209,California
+Lassen,1/15/2021,33,California
+Los Angeles,1/15/2021,33346,California
+Madera,1/15/2021,594,California
+Marin,1/15/2021,1141,California
+Mariposa,1/15/2021,40,California
+Mendocino,1/15/2021,1849,California
+Merced,1/15/2021,562,California
+Modoc,1/15/2021,6,California
+Mono,1/15/2021,60,California
+Monterey,1/15/2021,1027,California
+Napa,1/15/2021,1431,California
+Nevada,1/15/2021,392,California
+Orange,1/15/2021,9992,California
+Outside California,1/15/2021,4476,Not in California
+Placer,1/15/2021,1897,California
+Plumas,1/15/2021,62,California
+Riverside,1/15/2021,6127,California
+Sacramento,1/15/2021,4360,California
+San Benito,1/15/2021,211,California
+San Bernardino,1/15/2021,5908,California
+San Diego,1/15/2021,14869,California
+San Francisco,1/15/2021,2732,California
+San Joaquin,1/15/2021,1426,California
+San Luis Obispo,1/15/2021,733,California
+San Mateo,1/15/2021,4332,California
+Santa Barbara,1/15/2021,1790,California
+Santa Clara,1/15/2021,9471,California
+Santa Cruz,1/15/2021,1462,California
+Shasta,1/15/2021,634,California
+Sierra,1/15/2021,2,California
+Siskiyou,1/15/2021,35,California
+Solano,1/15/2021,1641,California
+Sonoma,1/15/2021,1549,California
+Stanislaus,1/15/2021,2769,California
+Sutter,1/15/2021,432,California
+Tehama,1/15/2021,248,California
+Tulare,1/15/2021,1597,California
+Tuolumne,1/15/2021,472,California
+Unknown,1/15/2021,4,Not in California
+Ventura,1/15/2021,2857,California
+Yolo,1/15/2021,617,California
+Yuba,1/15/2021,200,California
+Alameda,1/14/2021,5544,California
+Alpine,1/14/2021,1,California
+Amador,1/14/2021,146,California
+Butte,1/14/2021,1637,California
+Calaveras,1/14/2021,135,California
+Colusa,1/14/2021,35,California
+Contra Costa,1/14/2021,4250,California
+Del Norte,1/14/2021,52,California
+El Dorado,1/14/2021,669,California
+Fresno,1/14/2021,4115,California
+Glenn,1/14/2021,183,California
+Humboldt,1/14/2021,514,California
+Imperial,1/14/2021,260,California
+Inyo,1/14/2021,58,California
+Kern,1/14/2021,2173,California
+Kings,1/14/2021,206,California
+Lake,1/14/2021,118,California
+Lassen,1/14/2021,161,California
+Los Angeles,1/14/2021,28914,California
+Madera,1/14/2021,555,California
+Marin,1/14/2021,1064,California
+Mariposa,1/14/2021,56,California
+Mendocino,1/14/2021,626,California
+Merced,1/14/2021,330,California
+Modoc,1/14/2021,129,California
+Mono,1/14/2021,74,California
+Monterey,1/14/2021,1039,California
+Napa,1/14/2021,1043,California
+Nevada,1/14/2021,228,California
+Orange,1/14/2021,9799,California
+Outside California,1/14/2021,3835,Not in California
+Placer,1/14/2021,1726,California
+Plumas,1/14/2021,96,California
+Riverside,1/14/2021,5410,California
+Sacramento,1/14/2021,4527,California
+San Benito,1/14/2021,116,California
+San Bernardino,1/14/2021,4715,California
+San Diego,1/14/2021,12201,California
+San Francisco,1/14/2021,2381,California
+San Joaquin,1/14/2021,1467,California
+San Luis Obispo,1/14/2021,728,California
+San Mateo,1/14/2021,3723,California
+Santa Barbara,1/14/2021,1239,California
+Santa Clara,1/14/2021,8049,California
+Santa Cruz,1/14/2021,539,California
+Shasta,1/14/2021,442,California
+Sierra,1/14/2021,35,California
+Siskiyou,1/14/2021,26,California
+Solano,1/14/2021,1703,California
+Sonoma,1/14/2021,1514,California
+Stanislaus,1/14/2021,2194,California
+Sutter,1/14/2021,145,California
+Tehama,1/14/2021,226,California
+Trinity,1/14/2021,3,California
+Tulare,1/14/2021,491,California
+Tuolumne,1/14/2021,126,California
+Unknown,1/14/2021,6,Not in California
+Ventura,1/14/2021,2714,California
+Yolo,1/14/2021,376,California
+Yuba,1/14/2021,109,California
+Alameda,1/13/2021,4975,California
+Alpine,1/13/2021,32,California
+Amador,1/13/2021,39,California
+Butte,1/13/2021,1443,California
+Calaveras,1/13/2021,106,California
+Colusa,1/13/2021,21,California
+Contra Costa,1/13/2021,4635,California
+Del Norte,1/13/2021,84,California
+El Dorado,1/13/2021,690,California
+Fresno,1/13/2021,3505,California
+Glenn,1/13/2021,153,California
+Humboldt,1/13/2021,473,California
+Imperial,1/13/2021,379,California
+Inyo,1/13/2021,87,California
+Kern,1/13/2021,1834,California
+Kings,1/13/2021,413,California
+Lake,1/13/2021,125,California
+Lassen,1/13/2021,162,California
+Los Angeles,1/13/2021,28968,California
+Madera,1/13/2021,179,California
+Marin,1/13/2021,1172,California
+Mariposa,1/13/2021,16,California
+Mendocino,1/13/2021,478,California
+Merced,1/13/2021,371,California
+Modoc,1/13/2021,24,California
+Mono,1/13/2021,234,California
+Monterey,1/13/2021,1218,California
+Napa,1/13/2021,1266,California
+Nevada,1/13/2021,259,California
+Orange,1/13/2021,10073,California
+Outside California,1/13/2021,3796,Not in California
+Placer,1/13/2021,1616,California
+Plumas,1/13/2021,54,California
+Riverside,1/13/2021,4356,California
+Sacramento,1/13/2021,3731,California
+San Benito,1/13/2021,186,California
+San Bernardino,1/13/2021,4533,California
+San Diego,1/13/2021,11394,California
+San Francisco,1/13/2021,2792,California
+San Joaquin,1/13/2021,1360,California
+San Luis Obispo,1/13/2021,882,California
+San Mateo,1/13/2021,3403,California
+Santa Barbara,1/13/2021,1227,California
+Santa Clara,1/13/2021,7275,California
+Santa Cruz,1/13/2021,517,California
+Shasta,1/13/2021,541,California
+Sierra,1/13/2021,4,California
+Siskiyou,1/13/2021,157,California
+Solano,1/13/2021,1397,California
+Sonoma,1/13/2021,2055,California
+Stanislaus,1/13/2021,1409,California
+Sutter,1/13/2021,156,California
+Tehama,1/13/2021,72,California
+Trinity,1/13/2021,7,California
+Tulare,1/13/2021,449,California
+Tuolumne,1/13/2021,230,California
+Unknown,1/13/2021,11,Not in California
+Ventura,1/13/2021,2922,California
+Yolo,1/13/2021,760,California
+Yuba,1/13/2021,119,California
+Alameda,1/12/2021,4724,California
+Amador,1/12/2021,62,California
+Butte,1/12/2021,695,California
+Calaveras,1/12/2021,86,California
+Colusa,1/12/2021,11,California
+Contra Costa,1/12/2021,3883,California
+Del Norte,1/12/2021,50,California
+El Dorado,1/12/2021,684,California
+Fresno,1/12/2021,2494,California
+Glenn,1/12/2021,42,California
+Humboldt,1/12/2021,476,California
+Imperial,1/12/2021,404,California
+Inyo,1/12/2021,139,California
+Kern,1/12/2021,1869,California
+Kings,1/12/2021,352,California
+Lake,1/12/2021,70,California
+Lassen,1/12/2021,50,California
+Los Angeles,1/12/2021,28862,California
+Madera,1/12/2021,391,California
+Marin,1/12/2021,936,California
+Mariposa,1/12/2021,15,California
+Mendocino,1/12/2021,385,California
+Merced,1/12/2021,276,California
+Modoc,1/12/2021,94,California
+Mono,1/12/2021,284,California
+Monterey,1/12/2021,458,California
+Napa,1/12/2021,1265,California
+Nevada,1/12/2021,605,California
+Orange,1/12/2021,8660,California
+Outside California,1/12/2021,4030,Not in California
+Placer,1/12/2021,1630,California
+Plumas,1/12/2021,154,California
+Riverside,1/12/2021,3372,California
+Sacramento,1/12/2021,4377,California
+San Benito,1/12/2021,153,California
+San Bernardino,1/12/2021,4212,California
+San Diego,1/12/2021,11057,California
+San Francisco,1/12/2021,3072,California
+San Joaquin,1/12/2021,1394,California
+San Luis Obispo,1/12/2021,598,California
+San Mateo,1/12/2021,3241,California
+Santa Barbara,1/12/2021,1426,California
+Santa Clara,1/12/2021,6591,California
+Santa Cruz,1/12/2021,733,California
+Shasta,1/12/2021,451,California
+Sierra,1/12/2021,40,California
+Siskiyou,1/12/2021,320,California
+Solano,1/12/2021,1522,California
+Sonoma,1/12/2021,1547,California
+Stanislaus,1/12/2021,1444,California
+Sutter,1/12/2021,201,California
+Tehama,1/12/2021,115,California
+Trinity,1/12/2021,8,California
+Tulare,1/12/2021,1388,California
+Tuolumne,1/12/2021,98,California
+Unknown,1/12/2021,11,Not in California
+Ventura,1/12/2021,3022,California
+Yolo,1/12/2021,474,California
+Yuba,1/12/2021,107,California
+Alameda,1/11/2021,4439,California
+Alpine,1/11/2021,30,California
+Amador,1/11/2021,124,California
+Butte,1/11/2021,987,California
+Calaveras,1/11/2021,62,California
+Colusa,1/11/2021,12,California
+Contra Costa,1/11/2021,3790,California
+Del Norte,1/11/2021,40,California
+El Dorado,1/11/2021,648,California
+Fresno,1/11/2021,2127,California
+Glenn,1/11/2021,30,California
+Humboldt,1/11/2021,285,California
+Imperial,1/11/2021,401,California
+Inyo,1/11/2021,97,California
+Kern,1/11/2021,1548,California
+Kings,1/11/2021,515,California
+Lake,1/11/2021,138,California
+Lassen,1/11/2021,27,California
+Los Angeles,1/11/2021,25552,California
+Madera,1/11/2021,224,California
+Marin,1/11/2021,460,California
+Mariposa,1/11/2021,23,California
+Mendocino,1/11/2021,99,California
+Merced,1/11/2021,225,California
+Modoc,1/11/2021,92,California
+Mono,1/11/2021,7,California
+Monterey,1/11/2021,1057,California
+Napa,1/11/2021,804,California
+Nevada,1/11/2021,183,California
+Orange,1/11/2021,9311,California
+Outside California,1/11/2021,3557,Not in California
+Placer,1/11/2021,1422,California
+Plumas,1/11/2021,59,California
+Riverside,1/11/2021,4480,California
+Sacramento,1/11/2021,4299,California
+San Benito,1/11/2021,96,California
+San Bernardino,1/11/2021,4976,California
+San Diego,1/11/2021,10159,California
+San Francisco,1/11/2021,2455,California
+San Joaquin,1/11/2021,1461,California
+San Luis Obispo,1/11/2021,526,California
+San Mateo,1/11/2021,2396,California
+Santa Barbara,1/11/2021,839,California
+Santa Clara,1/11/2021,5550,California
+Santa Cruz,1/11/2021,712,California
+Shasta,1/11/2021,352,California
+Sierra,1/11/2021,3,California
+Siskiyou,1/11/2021,226,California
+Solano,1/11/2021,1314,California
+Sonoma,1/11/2021,1379,California
+Stanislaus,1/11/2021,1504,California
+Sutter,1/11/2021,133,California
+Tehama,1/11/2021,47,California
+Trinity,1/11/2021,40,California
+Tulare,1/11/2021,1201,California
+Tuolumne,1/11/2021,115,California
+Unknown,1/11/2021,19,Not in California
+Ventura,1/11/2021,2443,California
+Yolo,1/11/2021,560,California
+Yuba,1/11/2021,72,California
+Alameda,1/10/2021,1024,California
+Amador,1/10/2021,7,California
+Butte,1/10/2021,19,California
+Calaveras,1/10/2021,2,California
+Colusa,1/10/2021,1,California
+Contra Costa,1/10/2021,351,California
+El Dorado,1/10/2021,180,California
+Fresno,1/10/2021,511,California
+Glenn,1/10/2021,1,California
+Humboldt,1/10/2021,84,California
+Imperial,1/10/2021,1,California
+Inyo,1/10/2021,53,California
+Kern,1/10/2021,190,California
+Kings,1/10/2021,15,California
+Lake,1/10/2021,3,California
+Los Angeles,1/10/2021,4601,California
+Madera,1/10/2021,17,California
+Marin,1/10/2021,123,California
+Mendocino,1/10/2021,8,California
+Merced,1/10/2021,10,California
+Modoc,1/10/2021,1,California
+Mono,1/10/2021,4,California
+Monterey,1/10/2021,271,California
+Napa,1/10/2021,167,California
+Nevada,1/10/2021,17,California
+Orange,1/10/2021,4176,California
+Outside California,1/10/2021,326,Not in California
+Placer,1/10/2021,326,California
+Riverside,1/10/2021,1656,California
+Sacramento,1/10/2021,1239,California
+San Benito,1/10/2021,15,California
+San Bernardino,1/10/2021,1006,California
+San Diego,1/10/2021,1842,California
+San Francisco,1/10/2021,911,California
+San Joaquin,1/10/2021,215,California
+San Luis Obispo,1/10/2021,10,California
+San Mateo,1/10/2021,649,California
+Santa Barbara,1/10/2021,63,California
+Santa Clara,1/10/2021,1825,California
+Santa Cruz,1/10/2021,72,California
+Shasta,1/10/2021,5,California
+Solano,1/10/2021,249,California
+Sonoma,1/10/2021,465,California
+Stanislaus,1/10/2021,45,California
+Sutter,1/10/2021,402,California
+Tehama,1/10/2021,1,California
+Tulare,1/10/2021,49,California
+Tuolumne,1/10/2021,3,California
+Unknown,1/10/2021,1,Not in California
+Ventura,1/10/2021,335,California
+Yolo,1/10/2021,390,California
+Yuba,1/10/2021,116,California
+Alameda,1/9/2021,2018,California
+Alpine,1/9/2021,2,California
+Amador,1/9/2021,11,California
+Butte,1/9/2021,11,California
+Calaveras,1/9/2021,6,California
+Colusa,1/9/2021,3,California
+Contra Costa,1/9/2021,1570,California
+El Dorado,1/9/2021,190,California
+Fresno,1/9/2021,624,California
+Humboldt,1/9/2021,69,California
+Imperial,1/9/2021,24,California
+Inyo,1/9/2021,87,California
+Kern,1/9/2021,226,California
+Kings,1/9/2021,63,California
+Lake,1/9/2021,62,California
+Lassen,1/9/2021,12,California
+Los Angeles,1/9/2021,12278,California
+Madera,1/9/2021,36,California
+Marin,1/9/2021,612,California
+Mariposa,1/9/2021,1,California
+Mendocino,1/9/2021,8,California
+Merced,1/9/2021,24,California
+Mono,1/9/2021,4,California
+Monterey,1/9/2021,962,California
+Napa,1/9/2021,263,California
+Nevada,1/9/2021,63,California
+Orange,1/9/2021,4954,California
+Outside California,1/9/2021,1401,Not in California
+Placer,1/9/2021,443,California
+Plumas,1/9/2021,2,California
+Riverside,1/9/2021,2060,California
+Sacramento,1/9/2021,1282,California
+San Benito,1/9/2021,43,California
+San Bernardino,1/9/2021,1391,California
+San Diego,1/9/2021,2926,California
+San Francisco,1/9/2021,1392,California
+San Joaquin,1/9/2021,369,California
+San Luis Obispo,1/9/2021,206,California
+San Mateo,1/9/2021,1174,California
+Santa Barbara,1/9/2021,567,California
+Santa Clara,1/9/2021,2916,California
+Santa Cruz,1/9/2021,460,California
+Shasta,1/9/2021,72,California
+Siskiyou,1/9/2021,2,California
+Solano,1/9/2021,880,California
+Sonoma,1/9/2021,651,California
+Stanislaus,1/9/2021,288,California
+Sutter,1/9/2021,44,California
+Tehama,1/9/2021,7,California
+Tulare,1/9/2021,738,California
+Tuolumne,1/9/2021,1,California
+Unknown,1/9/2021,4,Not in California
+Ventura,1/9/2021,722,California
+Yolo,1/9/2021,403,California
+Yuba,1/9/2021,19,California
+Alameda,1/8/2021,4703,California
+Alpine,1/8/2021,4,California
+Amador,1/8/2021,84,California
+Butte,1/8/2021,570,California
+Calaveras,1/8/2021,66,California
+Colusa,1/8/2021,9,California
+Contra Costa,1/8/2021,3345,California
+Del Norte,1/8/2021,77,California
+El Dorado,1/8/2021,965,California
+Fresno,1/8/2021,1762,California
+Glenn,1/8/2021,11,California
+Humboldt,1/8/2021,415,California
+Imperial,1/8/2021,190,California
+Inyo,1/8/2021,9,California
+Kern,1/8/2021,1625,California
+Kings,1/8/2021,246,California
+Lake,1/8/2021,139,California
+Lassen,1/8/2021,50,California
+Los Angeles,1/8/2021,32832,California
+Madera,1/8/2021,411,California
+Marin,1/8/2021,964,California
+Mariposa,1/8/2021,106,California
+Mendocino,1/8/2021,94,California
+Merced,1/8/2021,533,California
+Modoc,1/8/2021,105,California
+Mono,1/8/2021,2,California
+Monterey,1/8/2021,1087,California
+Napa,1/8/2021,412,California
+Nevada,1/8/2021,220,California
+Orange,1/8/2021,9307,California
+Outside California,1/8/2021,4630,Not in California
+Placer,1/8/2021,1179,California
+Plumas,1/8/2021,12,California
+Riverside,1/8/2021,4012,California
+Sacramento,1/8/2021,3270,California
+San Benito,1/8/2021,128,California
+San Bernardino,1/8/2021,5342,California
+San Diego,1/8/2021,7705,California
+San Francisco,1/8/2021,2306,California
+San Joaquin,1/8/2021,1171,California
+San Luis Obispo,1/8/2021,880,California
+San Mateo,1/8/2021,1791,California
+Santa Barbara,1/8/2021,1200,California
+Santa Clara,1/8/2021,5782,California
+Santa Cruz,1/8/2021,931,California
+Shasta,1/8/2021,506,California
+Sierra,1/8/2021,1,California
+Siskiyou,1/8/2021,42,California
+Solano,1/8/2021,1124,California
+Sonoma,1/8/2021,1778,California
+Stanislaus,1/8/2021,1265,California
+Sutter,1/8/2021,145,California
+Tehama,1/8/2021,30,California
+Trinity,1/8/2021,49,California
+Tulare,1/8/2021,1264,California
+Tuolumne,1/8/2021,100,California
+Ventura,1/8/2021,2192,California
+Yolo,1/8/2021,626,California
+Yuba,1/8/2021,72,California
+Alameda,1/7/2021,3705,California
+Alpine,1/7/2021,8,California
+Amador,1/7/2021,223,California
+Butte,1/7/2021,760,California
+Calaveras,1/7/2021,106,California
+Colusa,1/7/2021,37,California
+Contra Costa,1/7/2021,3073,California
+Del Norte,1/7/2021,21,California
+El Dorado,1/7/2021,326,California
+Fresno,1/7/2021,1867,California
+Glenn,1/7/2021,66,California
+Humboldt,1/7/2021,382,California
+Imperial,1/7/2021,318,California
+Inyo,1/7/2021,31,California
+Kern,1/7/2021,1402,California
+Kings,1/7/2021,179,California
+Lake,1/7/2021,60,California
+Lassen,1/7/2021,43,California
+Los Angeles,1/7/2021,29183,California
+Madera,1/7/2021,337,California
+Marin,1/7/2021,889,California
+Mariposa,1/7/2021,49,California
+Mendocino,1/7/2021,355,California
+Merced,1/7/2021,188,California
+Modoc,1/7/2021,72,California
+Mono,1/7/2021,55,California
+Monterey,1/7/2021,735,California
+Napa,1/7/2021,484,California
+Nevada,1/7/2021,216,California
+Orange,1/7/2021,9152,California
+Outside California,1/7/2021,4189,Not in California
+Placer,1/7/2021,975,California
+Plumas,1/7/2021,55,California
+Riverside,1/7/2021,2735,California
+Sacramento,1/7/2021,2815,California
+San Benito,1/7/2021,77,California
+San Bernardino,1/7/2021,5353,California
+San Diego,1/7/2021,5572,California
+San Francisco,1/7/2021,2039,California
+San Joaquin,1/7/2021,1041,California
+San Luis Obispo,1/7/2021,1127,California
+San Mateo,1/7/2021,1385,California
+Santa Barbara,1/7/2021,1026,California
+Santa Clara,1/7/2021,4065,California
+Santa Cruz,1/7/2021,529,California
+Shasta,1/7/2021,116,California
+Sierra,1/7/2021,20,California
+Siskiyou,1/7/2021,174,California
+Solano,1/7/2021,1039,California
+Sonoma,1/7/2021,1009,California
+Stanislaus,1/7/2021,1037,California
+Sutter,1/7/2021,249,California
+Tehama,1/7/2021,57,California
+Tulare,1/7/2021,779,California
+Tuolumne,1/7/2021,118,California
+Unknown,1/7/2021,70,Not in California
+Ventura,1/7/2021,2060,California
+Yolo,1/7/2021,705,California
+Yuba,1/7/2021,75,California
+Alameda,1/6/2021,3222,California
+Alpine,1/6/2021,31,California
+Amador,1/6/2021,38,California
+Butte,1/6/2021,622,California
+Calaveras,1/6/2021,107,California
+Colusa,1/6/2021,15,California
+Contra Costa,1/6/2021,3252,California
+Del Norte,1/6/2021,78,California
+El Dorado,1/6/2021,259,California
+Fresno,1/6/2021,958,California
+Glenn,1/6/2021,61,California
+Humboldt,1/6/2021,295,California
+Imperial,1/6/2021,190,California
+Inyo,1/6/2021,69,California
+Kern,1/6/2021,1163,California
+Kings,1/6/2021,274,California
+Lake,1/6/2021,77,California
+Lassen,1/6/2021,94,California
+Los Angeles,1/6/2021,22233,California
+Madera,1/6/2021,184,California
+Maricopa,1/6/2021,1,California
+Marin,1/6/2021,820,California
+Mariposa,1/6/2021,5,California
+Mendocino,1/6/2021,148,California
+Merced,1/6/2021,247,California
+Modoc,1/6/2021,3,California
+Mono,1/6/2021,44,California
+Monterey,1/6/2021,652,California
+Napa,1/6/2021,455,California
+Nevada,1/6/2021,93,California
+Orange,1/6/2021,4931,California
+Outside California,1/6/2021,2744,Not in California
+Placer,1/6/2021,753,California
+Plumas,1/6/2021,125,California
+Riverside,1/6/2021,2458,California
+Sacramento,1/6/2021,2717,California
+San Benito,1/6/2021,94,California
+San Bernardino,1/6/2021,3410,California
+San Diego,1/6/2021,4917,California
+San Francisco,1/6/2021,1867,California
+San Joaquin,1/6/2021,1193,California
+San Luis Obispo,1/6/2021,725,California
+San Mateo,1/6/2021,1417,California
+Santa Barbara,1/6/2021,654,California
+Santa Clara,1/6/2021,3245,California
+Santa Cruz,1/6/2021,804,California
+Shasta,1/6/2021,438,California
+Sierra,1/6/2021,1,California
+Siskiyou,1/6/2021,59,California
+Solano,1/6/2021,814,California
+Sonoma,1/6/2021,944,California
+Stanislaus,1/6/2021,942,California
+Sutter,1/6/2021,206,California
+Tehama,1/6/2021,70,California
+Trinity,1/6/2021,23,California
+Tulare,1/6/2021,862,California
+Tuolumne,1/6/2021,108,California
+Unknown,1/6/2021,6,Not in California
+Ventura,1/6/2021,2045,California
+Yolo,1/6/2021,474,California
+Yuba,1/6/2021,150,California
+Alameda,1/5/2021,2175,California
+Alpine,1/5/2021,9,California
+Amador,1/5/2021,33,California
+Butte,1/5/2021,194,California
+Calaveras,1/5/2021,39,California
+Colusa,1/5/2021,68,California
+Contra Costa,1/5/2021,2089,California
+Del Norte,1/5/2021,33,California
+El Dorado,1/5/2021,200,California
+Fresno,1/5/2021,769,California
+Glenn,1/5/2021,9,California
+Humboldt,1/5/2021,125,California
+Imperial,1/5/2021,172,California
+Inyo,1/5/2021,34,California
+Kern,1/5/2021,1123,California
+Kings,1/5/2021,197,California
+Lake,1/5/2021,62,California
+Lassen,1/5/2021,194,California
+Los Angeles,1/5/2021,15880,California
+Madera,1/5/2021,273,California
+Marin,1/5/2021,363,California
+Mariposa,1/5/2021,23,California
+Mendocino,1/5/2021,71,California
+Merced,1/5/2021,315,California
+Modoc,1/5/2021,3,California
+Mono,1/5/2021,45,California
+Monterey,1/5/2021,748,California
+Napa,1/5/2021,150,California
+Nevada,1/5/2021,271,California
+Orange,1/5/2021,3470,California
+Outside California,1/5/2021,1563,Not in California
+Placer,1/5/2021,709,California
+Plumas,1/5/2021,23,California
+Riverside,1/5/2021,1976,California
+Sacramento,1/5/2021,2190,California
+San Benito,1/5/2021,118,California
+San Bernardino,1/5/2021,2327,California
+San Diego,1/5/2021,4292,California
+San Francisco,1/5/2021,2223,California
+San Joaquin,1/5/2021,938,California
+San Luis Obispo,1/5/2021,978,California
+San Mateo,1/5/2021,1172,California
+Santa Barbara,1/5/2021,748,California
+Santa Clara,1/5/2021,3017,California
+Santa Cruz,1/5/2021,565,California
+Shasta,1/5/2021,335,California
+Sierra,1/5/2021,67,California
+Siskiyou,1/5/2021,117,California
+Solano,1/5/2021,690,California
+Sonoma,1/5/2021,436,California
+Stanislaus,1/5/2021,820,California
+Sutter,1/5/2021,99,California
+Tehama,1/5/2021,71,California
+Trinity,1/5/2021,2,California
+Tulare,1/5/2021,462,California
+Tuolumne,1/5/2021,91,California
+Unknown,1/5/2021,6,Not in California
+Ventura,1/5/2021,1365,California
+Yolo,1/5/2021,610,California
+Yuba,1/5/2021,67,California
+Alameda,1/4/2021,1630,California
+Alpine,1/4/2021,10,California
+Amador,1/4/2021,123,California
+Butte,1/4/2021,206,California
+Calaveras,1/4/2021,33,California
+Colusa,1/4/2021,4,California
+Contra Costa,1/4/2021,1900,California
+Del Norte,1/4/2021,102,California
+El Dorado,1/4/2021,190,California
+Fresno,1/4/2021,618,California
+Glenn,1/4/2021,7,California
+Humboldt,1/4/2021,214,California
+Imperial,1/4/2021,84,California
+Inyo,1/4/2021,1,California
+Kern,1/4/2021,554,California
+Kings,1/4/2021,112,California
+Lake,1/4/2021,15,California
+Lassen,1/4/2021,15,California
+Los Angeles,1/4/2021,12570,California
+Madera,1/4/2021,128,California
+Marin,1/4/2021,284,California
+Mariposa,1/4/2021,8,California
+Mendocino,1/4/2021,834,California
+Merced,1/4/2021,77,California
+Modoc,1/4/2021,8,California
+Mono,1/4/2021,1,California
+Monterey,1/4/2021,411,California
+Napa,1/4/2021,104,California
+Nevada,1/4/2021,71,California
+Orange,1/4/2021,2665,California
+Outside California,1/4/2021,1174,Not in California
+Placer,1/4/2021,614,California
+Plumas,1/4/2021,9,California
+Riverside,1/4/2021,1249,California
+Sacramento,1/4/2021,1958,California
+San Benito,1/4/2021,62,California
+San Bernardino,1/4/2021,2107,California
+San Diego,1/4/2021,3720,California
+San Francisco,1/4/2021,1827,California
+San Joaquin,1/4/2021,464,California
+San Luis Obispo,1/4/2021,674,California
+San Mateo,1/4/2021,1040,California
+Santa Barbara,1/4/2021,303,California
+Santa Clara,1/4/2021,2453,California
+Santa Cruz,1/4/2021,279,California
+Shasta,1/4/2021,346,California
+Siskiyou,1/4/2021,130,California
+Solano,1/4/2021,449,California
+Sonoma,1/4/2021,335,California
+Stanislaus,1/4/2021,101,California
+Sutter,1/4/2021,248,California
+Tehama,1/4/2021,31,California
+Trinity,1/4/2021,27,California
+Tulare,1/4/2021,91,California
+Tuolumne,1/4/2021,67,California
+Unknown,1/4/2021,3,Not in California
+Ventura,1/4/2021,1075,California
+Yolo,1/4/2021,195,California
+Yuba,1/4/2021,91,California
+Alameda,1/3/2021,330,California
+Amador,1/3/2021,64,California
+Butte,1/3/2021,4,California
+Calaveras,1/3/2021,8,California
+Contra Costa,1/3/2021,170,California
+El Dorado,1/3/2021,89,California
+Fresno,1/3/2021,152,California
+Imperial,1/3/2021,90,California
+Inyo,1/3/2021,1,California
+Kern,1/3/2021,22,California
+Los Angeles,1/3/2021,899,California
+Madera,1/3/2021,5,California
+Marin,1/3/2021,55,California
+Merced,1/3/2021,9,California
+Monterey,1/3/2021,30,California
+Napa,1/3/2021,12,California
+Nevada,1/3/2021,128,California
+Orange,1/3/2021,543,California
+Outside California,1/3/2021,179,Not in California
+Placer,1/3/2021,153,California
+Riverside,1/3/2021,344,California
+Sacramento,1/3/2021,404,California
+San Benito,1/3/2021,3,California
+San Bernardino,1/3/2021,133,California
+San Diego,1/3/2021,857,California
+San Francisco,1/3/2021,288,California
+San Joaquin,1/3/2021,32,California
+San Luis Obispo,1/3/2021,16,California
+San Mateo,1/3/2021,275,California
+Santa Barbara,1/3/2021,23,California
+Santa Clara,1/3/2021,569,California
+Santa Cruz,1/3/2021,15,California
+Shasta,1/3/2021,1,California
+Siskiyou,1/3/2021,1,California
+Solano,1/3/2021,56,California
+Sonoma,1/3/2021,21,California
+Stanislaus,1/3/2021,87,California
+Sutter,1/3/2021,1,California
+Tulare,1/3/2021,22,California
+Tuolumne,1/3/2021,3,California
+Unknown,1/3/2021,1,Not in California
+Ventura,1/3/2021,15,California
+Yolo,1/3/2021,43,California
+Yuba,1/3/2021,10,California
+Alameda,1/2/2021,704,California
+Alpine,1/2/2021,1,California
+Amador,1/2/2021,55,California
+Butte,1/2/2021,37,California
+Calaveras,1/2/2021,11,California
+Contra Costa,1/2/2021,331,California
+El Dorado,1/2/2021,148,California
+Fresno,1/2/2021,1024,California
+Glenn,1/2/2021,2,California
+Humboldt,1/2/2021,38,California
+Imperial,1/2/2021,4,California
+Kern,1/2/2021,75,California
+Kings,1/2/2021,10,California
+Lake,1/2/2021,2,California
+Lassen,1/2/2021,1,California
+Los Angeles,1/2/2021,4358,California
+Madera,1/2/2021,76,California
+Marin,1/2/2021,102,California
+Mendocino,1/2/2021,1,California
+Merced,1/2/2021,126,California
+Modoc,1/2/2021,2,California
+Monterey,1/2/2021,136,California
+Napa,1/2/2021,99,California
+Nevada,1/2/2021,1,California
+Orange,1/2/2021,1386,California
+Outside California,1/2/2021,272,Not in California
+Placer,1/2/2021,184,California
+Riverside,1/2/2021,821,California
+Sacramento,1/2/2021,561,California
+San Benito,1/2/2021,25,California
+San Bernardino,1/2/2021,474,California
+San Diego,1/2/2021,3734,California
+San Francisco,1/2/2021,329,California
+San Joaquin,1/2/2021,247,California
+San Luis Obispo,1/2/2021,31,California
+San Mateo,1/2/2021,395,California
+Santa Barbara,1/2/2021,587,California
+Santa Clara,1/2/2021,1076,California
+Santa Cruz,1/2/2021,68,California
+Shasta,1/2/2021,2,California
+Siskiyou,1/2/2021,1,California
+Solano,1/2/2021,211,California
+Sonoma,1/2/2021,132,California
+Stanislaus,1/2/2021,30,California
+Sutter,1/2/2021,134,California
+Tulare,1/2/2021,27,California
+Tuolumne,1/2/2021,118,California
+Unknown,1/2/2021,2,Not in California
+Ventura,1/2/2021,169,California
+Yolo,1/2/2021,67,California
+Yuba,1/2/2021,22,California
+Alameda,1/1/2021,166,California
+Amador,1/1/2021,1,California
+Butte,1/1/2021,7,California
+Contra Costa,1/1/2021,57,California
+El Dorado,1/1/2021,3,California
+Fresno,1/1/2021,7,California
+Imperial,1/1/2021,5,California
+Inyo,1/1/2021,1,California
+Kern,1/1/2021,9,California
+Kings,1/1/2021,1,California
+Lake,1/1/2021,1,California
+Los Angeles,1/1/2021,862,California
+Marin,1/1/2021,5,California
+Mendocino,1/1/2021,2,California
+Mono,1/1/2021,1,California
+Monterey,1/1/2021,8,California
+Napa,1/1/2021,1,California
+Nevada,1/1/2021,1,California
+Orange,1/1/2021,376,California
+Outside California,1/1/2021,104,Not in California
+Placer,1/1/2021,14,California
+Riverside,1/1/2021,97,California
+Sacramento,1/1/2021,68,California
+San Bernardino,1/1/2021,271,California
+San Diego,1/1/2021,1098,California
+San Francisco,1/1/2021,62,California
+San Joaquin,1/1/2021,15,California
+San Luis Obispo,1/1/2021,11,California
+San Mateo,1/1/2021,34,California
+Santa Barbara,1/1/2021,107,California
+Santa Clara,1/1/2021,131,California
+Santa Cruz,1/1/2021,32,California
+Solano,1/1/2021,13,California
+Sonoma,1/1/2021,8,California
+Stanislaus,1/1/2021,5,California
+Sutter,1/1/2021,3,California
+Tehama,1/1/2021,2,California
+Tuolumne,1/1/2021,6,California
+Ventura,1/1/2021,11,California
+Yolo,1/1/2021,53,California
+Alameda,12/31/2020,1771,California
+Alpine,12/31/2020,1,California
+Amador,12/31/2020,192,California
+Butte,12/31/2020,210,California
+Calaveras,12/31/2020,34,California
+Colusa,12/31/2020,18,California
+Contra Costa,12/31/2020,910,California
+Del Norte,12/31/2020,16,California
+El Dorado,12/31/2020,108,California
+Fresno,12/31/2020,888,California
+Glenn,12/31/2020,38,California
+Humboldt,12/31/2020,242,California
+Imperial,12/31/2020,198,California
+Inyo,12/31/2020,29,California
+Kern,12/31/2020,277,California
+Kings,12/31/2020,44,California
+Lake,12/31/2020,67,California
+Lassen,12/31/2020,51,California
+Los Angeles,12/31/2020,7778,California
+Madera,12/31/2020,203,California
+Marin,12/31/2020,198,California
+Mariposa,12/31/2020,13,California
+Mendocino,12/31/2020,128,California
+Merced,12/31/2020,102,California
+Mono,12/31/2020,4,California
+Monterey,12/31/2020,34,California
+Napa,12/31/2020,466,California
+Nevada,12/31/2020,39,California
+Orange,12/31/2020,1433,California
+Outside California,12/31/2020,1148,Not in California
+Placer,12/31/2020,530,California
+Plumas,12/31/2020,4,California
+Riverside,12/31/2020,1014,California
+Sacramento,12/31/2020,1211,California
+San Benito,12/31/2020,19,California
+San Bernardino,12/31/2020,1344,California
+San Diego,12/31/2020,2946,California
+San Francisco,12/31/2020,958,California
+San Joaquin,12/31/2020,445,California
+San Luis Obispo,12/31/2020,106,California
+San Mateo,12/31/2020,696,California
+Santa Barbara,12/31/2020,238,California
+Santa Clara,12/31/2020,1188,California
+Santa Cruz,12/31/2020,313,California
+Shasta,12/31/2020,81,California
+Sierra,12/31/2020,12,California
+Siskiyou,12/31/2020,12,California
+Solano,12/31/2020,530,California
+Sonoma,12/31/2020,514,California
+Stanislaus,12/31/2020,276,California
+Sutter,12/31/2020,70,California
+Tehama,12/31/2020,14,California
+Trinity,12/31/2020,2,California
+Tulare,12/31/2020,93,California
+Tuolumne,12/31/2020,27,California
+Unknown,12/31/2020,2,Not in California
+Ventura,12/31/2020,470,California
+Yolo,12/31/2020,183,California
+Yuba,12/31/2020,36,California
+Alameda,12/30/2020,3092,California
+Alpine,12/30/2020,14,California
+Amador,12/30/2020,120,California
+Butte,12/30/2020,497,California
+Calaveras,12/30/2020,93,California
+Colusa,12/30/2020,50,California
+Contra Costa,12/30/2020,2384,California
+Del Norte,12/30/2020,67,California
+El Dorado,12/30/2020,501,California
+Fresno,12/30/2020,962,California
+Glenn,12/30/2020,129,California
+Humboldt,12/30/2020,219,California
+Imperial,12/30/2020,366,California
+Inyo,12/30/2020,56,California
+Kern,12/30/2020,1199,California
+Kings,12/30/2020,147,California
+Lake,12/30/2020,88,California
+Lassen,12/30/2020,37,California
+Los Angeles,12/30/2020,14779,California
+Madera,12/30/2020,216,California
+Marin,12/30/2020,623,California
+Mariposa,12/30/2020,21,California
+Mendocino,12/30/2020,120,California
+Merced,12/30/2020,219,California
+Modoc,12/30/2020,7,California
+Mono,12/30/2020,76,California
+Monterey,12/30/2020,565,California
+Napa,12/30/2020,634,California
+Nevada,12/30/2020,85,California
+Orange,12/30/2020,5077,California
+Outside California,12/30/2020,1990,Not in California
+Placer,12/30/2020,726,California
+Plumas,12/30/2020,22,California
+Riverside,12/30/2020,2557,California
+Sacramento,12/30/2020,2550,California
+San Benito,12/30/2020,58,California
+San Bernardino,12/30/2020,2887,California
+San Diego,12/30/2020,5869,California
+San Francisco,12/30/2020,1468,California
+San Joaquin,12/30/2020,984,California
+San Luis Obispo,12/30/2020,1176,California
+San Mateo,12/30/2020,1252,California
+Santa Barbara,12/30/2020,579,California
+Santa Clara,12/30/2020,2941,California
+Santa Cruz,12/30/2020,356,California
+Shasta,12/30/2020,177,California
+Sierra,12/30/2020,2,California
+Siskiyou,12/30/2020,93,California
+Solano,12/30/2020,1194,California
+Sonoma,12/30/2020,1092,California
+Stanislaus,12/30/2020,532,California
+Sutter,12/30/2020,136,California
+Tehama,12/30/2020,54,California
+Trinity,12/30/2020,10,California
+Tulare,12/30/2020,472,California
+Tuolumne,12/30/2020,74,California
+Unknown,12/30/2020,55,Not in California
+Ventura,12/30/2020,1983,California
+Yolo,12/30/2020,625,California
+Yuba,12/30/2020,64,California
+Alameda,12/29/2020,2406,California
+Amador,12/29/2020,26,California
+Butte,12/29/2020,203,California
+Calaveras,12/29/2020,167,California
+Clark,12/29/2020,1,California
+Colusa,12/29/2020,11,California
+Contra Costa,12/29/2020,1825,California
+Del Norte,12/29/2020,4,California
+El Dorado,12/29/2020,450,California
+Fresno,12/29/2020,1769,California
+Glenn,12/29/2020,82,California
+Humboldt,12/29/2020,162,California
+Imperial,12/29/2020,190,California
+Inyo,12/29/2020,20,California
+Kern,12/29/2020,746,California
+Kings,12/29/2020,78,California
+Lake,12/29/2020,14,California
+Lassen,12/29/2020,35,California
+Los Angeles,12/29/2020,11471,California
+Madera,12/29/2020,171,California
+Marin,12/29/2020,397,California
+Mariposa,12/29/2020,26,California
+Mendocino,12/29/2020,120,California
+Merced,12/29/2020,178,California
+Modoc,12/29/2020,10,California
+Mono,12/29/2020,29,California
+Monterey,12/29/2020,901,California
+Napa,12/29/2020,271,California
+Nevada,12/29/2020,100,California
+Orange,12/29/2020,3525,California
+Outside California,12/29/2020,1605,Not in California
+Placer,12/29/2020,762,California
+Plumas,12/29/2020,32,California
+Riverside,12/29/2020,1735,California
+Sacramento,12/29/2020,1938,California
+San Benito,12/29/2020,48,California
+San Bernardino,12/29/2020,2199,California
+San Diego,12/29/2020,5845,California
+San Francisco,12/29/2020,1244,California
+San Joaquin,12/29/2020,789,California
+San Luis Obispo,12/29/2020,903,California
+San Mateo,12/29/2020,1116,California
+Santa Barbara,12/29/2020,550,California
+Santa Clara,12/29/2020,2314,California
+Santa Cruz,12/29/2020,790,California
+Shasta,12/29/2020,186,California
+Sierra,12/29/2020,49,California
+Siskiyou,12/29/2020,4,California
+Solano,12/29/2020,881,California
+Sonoma,12/29/2020,1131,California
+Stanislaus,12/29/2020,490,California
+Sutter,12/29/2020,101,California
+Tehama,12/29/2020,31,California
+Trinity,12/29/2020,8,California
+Tulare,12/29/2020,544,California
+Tuolumne,12/29/2020,105,California
+Unknown,12/29/2020,3,Not in California
+Ventura,12/29/2020,1163,California
+Yolo,12/29/2020,483,California
+Yuba,12/29/2020,77,California
+Alameda,12/28/2020,1844,California
+Amador,12/28/2020,31,California
+Butte,12/28/2020,280,California
+Calaveras,12/28/2020,22,California
+Colusa,12/28/2020,7,California
+Contra Costa,12/28/2020,1812,California
+Del Norte,12/28/2020,34,California
+El Dorado,12/28/2020,215,California
+Fresno,12/28/2020,1058,California
+Glenn,12/28/2020,20,California
+Humboldt,12/28/2020,149,California
+Imperial,12/28/2020,214,California
+Inyo,12/28/2020,48,California
+Kern,12/28/2020,826,California
+Kings,12/28/2020,130,California
+Lake,12/28/2020,52,California
+Lassen,12/28/2020,3,California
+Los Angeles,12/28/2020,10181,California
+Madera,12/28/2020,104,California
+Marin,12/28/2020,406,California
+Mariposa,12/28/2020,4,California
+Mendocino,12/28/2020,73,California
+Merced,12/28/2020,124,California
+Modoc,12/28/2020,2,California
+Mono,12/28/2020,94,California
+Monterey,12/28/2020,478,California
+Napa,12/28/2020,248,California
+Nevada,12/28/2020,170,California
+Orange,12/28/2020,3502,California
+Outside California,12/28/2020,1468,Not in California
+Placer,12/28/2020,666,California
+Plumas,12/28/2020,8,California
+Riverside,12/28/2020,1618,California
+Sacramento,12/28/2020,1895,California
+San Benito,12/28/2020,63,California
+San Bernardino,12/28/2020,1549,California
+San Diego,12/28/2020,5879,California
+San Francisco,12/28/2020,1261,California
+San Joaquin,12/28/2020,609,California
+San Luis Obispo,12/28/2020,878,California
+San Mateo,12/28/2020,1033,California
+Santa Barbara,12/28/2020,352,California
+Santa Clara,12/28/2020,2312,California
+Santa Cruz,12/28/2020,483,California
+Shasta,12/28/2020,40,California
+Sierra,12/28/2020,1,California
+Siskiyou,12/28/2020,2,California
+Solano,12/28/2020,855,California
+Sonoma,12/28/2020,990,California
+Stanislaus,12/28/2020,480,California
+Sutter,12/28/2020,82,California
+Tehama,12/28/2020,56,California
+Trinity,12/28/2020,30,California
+Tulare,12/28/2020,484,California
+Tuolumne,12/28/2020,78,California
+Unknown,12/28/2020,3,Not in California
+Ventura,12/28/2020,1062,California
+Yolo,12/28/2020,342,California
+Yuba,12/28/2020,51,California
+Alameda,12/27/2020,491,California
+Amador,12/27/2020,1,California
+Butte,12/27/2020,35,California
+Colusa,12/27/2020,1,California
+Contra Costa,12/27/2020,235,California
+El Dorado,12/27/2020,37,California
+Fresno,12/27/2020,296,California
+Glenn,12/27/2020,4,California
+Humboldt,12/27/2020,1,California
+Imperial,12/27/2020,62,California
+Kern,12/27/2020,35,California
+Kings,12/27/2020,4,California
+Lake,12/27/2020,2,California
+Los Angeles,12/27/2020,1737,California
+Madera,12/27/2020,31,California
+Marin,12/27/2020,93,California
+Mariposa,12/27/2020,1,California
+Mendocino,12/27/2020,1,California
+Merced,12/27/2020,12,California
+Monterey,12/27/2020,6,California
+Napa,12/27/2020,32,California
+Nevada,12/27/2020,88,California
+Orange,12/27/2020,579,California
+Outside California,12/27/2020,180,Not in California
+Placer,12/27/2020,187,California
+Riverside,12/27/2020,362,California
+Sacramento,12/27/2020,348,California
+San Benito,12/27/2020,8,California
+San Bernardino,12/27/2020,343,California
+San Diego,12/27/2020,2494,California
+San Francisco,12/27/2020,269,California
+San Joaquin,12/27/2020,39,California
+San Luis Obispo,12/27/2020,75,California
+San Mateo,12/27/2020,280,California
+Santa Barbara,12/27/2020,62,California
+Santa Clara,12/27/2020,593,California
+Santa Cruz,12/27/2020,32,California
+Shasta,12/27/2020,1,California
+Siskiyou,12/27/2020,2,California
+Solano,12/27/2020,101,California
+Sonoma,12/27/2020,92,California
+Stanislaus,12/27/2020,10,California
+Sutter,12/27/2020,24,California
+Tehama,12/27/2020,2,California
+Tulare,12/27/2020,15,California
+Ventura,12/27/2020,58,California
+Yolo,12/27/2020,46,California
+Yuba,12/27/2020,15,California
+Alameda,12/26/2020,847,California
+Amador,12/26/2020,6,California
+Butte,12/26/2020,93,California
+Calaveras,12/26/2020,3,California
+Contra Costa,12/26/2020,641,California
+El Dorado,12/26/2020,43,California
+Fresno,12/26/2020,720,California
+Glenn,12/26/2020,2,California
+Humboldt,12/26/2020,7,California
+Imperial,12/26/2020,1,California
+Inyo,12/26/2020,74,California
+Kern,12/26/2020,33,California
+Kings,12/26/2020,7,California
+Lake,12/26/2020,2,California
+Los Angeles,12/26/2020,2515,California
+Madera,12/26/2020,28,California
+Marin,12/26/2020,139,California
+Mariposa,12/26/2020,1,California
+Mendocino,12/26/2020,2,California
+Merced,12/26/2020,6,California
+Mono,12/26/2020,3,California
+Monterey,12/26/2020,89,California
+Napa,12/26/2020,39,California
+Nevada,12/26/2020,5,California
+Orange,12/26/2020,1048,California
+Outside California,12/26/2020,313,Not in California
+Placer,12/26/2020,159,California
+Riverside,12/26/2020,401,California
+Sacramento,12/26/2020,507,California
+San Benito,12/26/2020,13,California
+San Bernardino,12/26/2020,461,California
+San Diego,12/26/2020,3288,California
+San Francisco,12/26/2020,237,California
+San Joaquin,12/26/2020,100,California
+San Luis Obispo,12/26/2020,90,California
+San Mateo,12/26/2020,532,California
+Santa Barbara,12/26/2020,328,California
+Santa Clara,12/26/2020,1199,California
+Santa Cruz,12/26/2020,64,California
+Shasta,12/26/2020,4,California
+Siskiyou,12/26/2020,2,California
+Solano,12/26/2020,174,California
+Sonoma,12/26/2020,264,California
+Stanislaus,12/26/2020,47,California
+Sutter,12/26/2020,38,California
+Tehama,12/26/2020,3,California
+Tulare,12/26/2020,9,California
+Tuolumne,12/26/2020,3,California
+Ventura,12/26/2020,106,California
+Yolo,12/26/2020,76,California
+Yuba,12/26/2020,15,California
+Alameda,12/25/2020,157,California
+Contra Costa,12/25/2020,38,California
+El Dorado,12/25/2020,8,California
+Fresno,12/25/2020,2,California
+Humboldt,12/25/2020,1,California
+Inyo,12/25/2020,1,California
+Kern,12/25/2020,1,California
+Los Angeles,12/25/2020,520,California
+Marin,12/25/2020,27,California
+Mendocino,12/25/2020,1,California
+Merced,12/25/2020,4,California
+Monterey,12/25/2020,6,California
+Napa,12/25/2020,1,California
+Nevada,12/25/2020,2,California
+Orange,12/25/2020,14,California
+Outside California,12/25/2020,34,Not in California
+Riverside,12/25/2020,28,California
+Sacramento,12/25/2020,1,California
+San Benito,12/25/2020,3,California
+San Bernardino,12/25/2020,75,California
+San Diego,12/25/2020,880,California
+San Francisco,12/25/2020,30,California
+San Joaquin,12/25/2020,13,California
+San Luis Obispo,12/25/2020,2,California
+San Mateo,12/25/2020,107,California
+Santa Clara,12/25/2020,327,California
+Santa Cruz,12/25/2020,11,California
+Solano,12/25/2020,10,California
+Sonoma,12/25/2020,8,California
+Ventura,12/25/2020,11,California
+Yolo,12/25/2020,1,California
+Alameda,12/24/2020,1206,California
+Amador,12/24/2020,5,California
+Butte,12/24/2020,160,California
+Calaveras,12/24/2020,2,California
+Colusa,12/24/2020,2,California
+Contra Costa,12/24/2020,645,California
+El Dorado,12/24/2020,86,California
+Fresno,12/24/2020,574,California
+Glenn,12/24/2020,9,California
+Humboldt,12/24/2020,24,California
+Imperial,12/24/2020,5,California
+Inyo,12/24/2020,17,California
+Kern,12/24/2020,122,California
+Kings,12/24/2020,11,California
+Lake,12/24/2020,2,California
+Lassen,12/24/2020,11,California
+Los Angeles,12/24/2020,6913,California
+Madera,12/24/2020,43,California
+Marin,12/24/2020,355,California
+Mendocino,12/24/2020,49,California
+Merced,12/24/2020,70,California
+Modoc,12/24/2020,1,California
+Mono,12/24/2020,3,California
+Monterey,12/24/2020,82,California
+Napa,12/24/2020,138,California
+Nevada,12/24/2020,15,California
+Orange,12/24/2020,1311,California
+Outside California,12/24/2020,823,Not in California
+Placer,12/24/2020,395,California
+Plumas,12/24/2020,6,California
+Riverside,12/24/2020,817,California
+Sacramento,12/24/2020,1040,California
+San Benito,12/24/2020,12,California
+San Bernardino,12/24/2020,1157,California
+San Diego,12/24/2020,2730,California
+San Francisco,12/24/2020,829,California
+San Joaquin,12/24/2020,210,California
+San Luis Obispo,12/24/2020,195,California
+San Mateo,12/24/2020,849,California
+Santa Barbara,12/24/2020,87,California
+Santa Clara,12/24/2020,1864,California
+Santa Cruz,12/24/2020,125,California
+Shasta,12/24/2020,18,California
+Siskiyou,12/24/2020,5,California
+Solano,12/24/2020,420,California
+Sonoma,12/24/2020,304,California
+Stanislaus,12/24/2020,97,California
+Sutter,12/24/2020,17,California
+Tehama,12/24/2020,5,California
+Tulare,12/24/2020,18,California
+Unknown,12/24/2020,2,Not in California
+Ventura,12/24/2020,475,California
+Yolo,12/24/2020,151,California
+Yuba,12/24/2020,20,California
+Alameda,12/23/2020,1877,California
+Amador,12/23/2020,39,California
+Butte,12/23/2020,870,California
+Calaveras,12/23/2020,77,California
+Colusa,12/23/2020,10,California
+Contra Costa,12/23/2020,1550,California
+Del Norte,12/23/2020,58,California
+El Dorado,12/23/2020,189,California
+Fresno,12/23/2020,1079,California
+Glenn,12/23/2020,26,California
+Humboldt,12/23/2020,301,California
+Imperial,12/23/2020,212,California
+Inyo,12/23/2020,71,California
+Kern,12/23/2020,557,California
+Kings,12/23/2020,134,California
+Lake,12/23/2020,91,California
+Lassen,12/23/2020,6,California
+Los Angeles,12/23/2020,11836,California
+Madera,12/23/2020,65,California
+Marin,12/23/2020,731,California
+Mariposa,12/23/2020,11,California
+Mendocino,12/23/2020,271,California
+Merced,12/23/2020,250,California
+Modoc,12/23/2020,4,California
+Mono,12/23/2020,70,California
+Monterey,12/23/2020,433,California
+Napa,12/23/2020,397,California
+Nevada,12/23/2020,234,California
+Orange,12/23/2020,3496,California
+Outside California,12/23/2020,1616,Not in California
+Placer,12/23/2020,739,California
+Plumas,12/23/2020,50,California
+Riverside,12/23/2020,2114,California
+Sacramento,12/23/2020,2236,California
+San Benito,12/23/2020,48,California
+San Bernardino,12/23/2020,2643,California
+San Diego,12/23/2020,3186,California
+San Francisco,12/23/2020,1305,California
+San Joaquin,12/23/2020,943,California
+San Luis Obispo,12/23/2020,682,California
+San Mateo,12/23/2020,1532,California
+Santa Barbara,12/23/2020,320,California
+Santa Clara,12/23/2020,3195,California
+Santa Cruz,12/23/2020,370,California
+Shasta,12/23/2020,174,California
+Sierra,12/23/2020,4,California
+Siskiyou,12/23/2020,142,California
+Solano,12/23/2020,847,California
+Sonoma,12/23/2020,1601,California
+Stanislaus,12/23/2020,449,California
+Sutter,12/23/2020,114,California
+Tehama,12/23/2020,48,California
+Trinity,12/23/2020,5,California
+Tulare,12/23/2020,328,California
+Tuolumne,12/23/2020,184,California
+Ventura,12/23/2020,1024,California
+Yolo,12/23/2020,431,California
+Yuba,12/23/2020,64,California
+Alameda,12/22/2020,2070,California
+Amador,12/22/2020,36,California
+Butte,12/22/2020,618,California
+Calaveras,12/22/2020,81,California
+Colusa,12/22/2020,10,California
+Contra Costa,12/22/2020,1664,California
+Del Norte,12/22/2020,46,California
+El Dorado,12/22/2020,238,California
+Fresno,12/22/2020,903,California
+Glenn,12/22/2020,59,California
+Humboldt,12/22/2020,286,California
+Imperial,12/22/2020,241,California
+Inyo,12/22/2020,104,California
+Kern,12/22/2020,530,California
+Kings,12/22/2020,142,California
+Lake,12/22/2020,63,California
+Lassen,12/22/2020,23,California
+Los Angeles,12/22/2020,11471,California
+Madera,12/22/2020,95,California
+Marin,12/22/2020,515,California
+Mariposa,12/22/2020,2,California
+Mendocino,12/22/2020,248,California
+Merced,12/22/2020,155,California
+Modoc,12/22/2020,14,California
+Mono,12/22/2020,67,California
+Monterey,12/22/2020,534,California
+Napa,12/22/2020,278,California
+Nevada,12/22/2020,91,California
+Orange,12/22/2020,3916,California
+Outside California,12/22/2020,2189,Not in California
+Placer,12/22/2020,676,California
+Plumas,12/22/2020,92,California
+Riverside,12/22/2020,2242,California
+Sacramento,12/22/2020,2092,California
+San Benito,12/22/2020,59,California
+San Bernardino,12/22/2020,2268,California
+San Diego,12/22/2020,4052,California
+San Francisco,12/22/2020,1398,California
+San Joaquin,12/22/2020,949,California
+San Luis Obispo,12/22/2020,307,California
+San Mateo,12/22/2020,1481,California
+Santa Barbara,12/22/2020,243,California
+Santa Clara,12/22/2020,3055,California
+Santa Cruz,12/22/2020,422,California
+Shasta,12/22/2020,191,California
+Sierra,12/22/2020,12,California
+Siskiyou,12/22/2020,159,California
+Solano,12/22/2020,662,California
+Sonoma,12/22/2020,1363,California
+Stanislaus,12/22/2020,800,California
+Sutter,12/22/2020,174,California
+Tehama,12/22/2020,68,California
+Trinity,12/22/2020,5,California
+Tulare,12/22/2020,469,California
+Tuolumne,12/22/2020,165,California
+Unknown,12/22/2020,2,Not in California
+Ventura,12/22/2020,1102,California
+Yolo,12/22/2020,385,California
+Yuba,12/22/2020,86,California
+Alameda,12/21/2020,1834,California
+Alpine,12/21/2020,2,California
+Amador,12/21/2020,33,California
+Butte,12/21/2020,633,California
+Calaveras,12/21/2020,55,California
+Colusa,12/21/2020,2,California
+Contra Costa,12/21/2020,1655,California
+Del Norte,12/21/2020,23,California
+El Dorado,12/21/2020,304,California
+Fresno,12/21/2020,925,California
+Glenn,12/21/2020,11,California
+Humboldt,12/21/2020,165,California
+Imperial,12/21/2020,186,California
+Inyo,12/21/2020,88,California
+Kern,12/21/2020,671,California
+Kings,12/21/2020,153,California
+Lake,12/21/2020,50,California
+Lassen,12/21/2020,11,California
+Los Angeles,12/21/2020,13637,California
+Madera,12/21/2020,62,California
+Marin,12/21/2020,238,California
+Mariposa,12/21/2020,3,California
+Mendocino,12/21/2020,245,California
+Merced,12/21/2020,129,California
+Modoc,12/21/2020,100,California
+Mono,12/21/2020,23,California
+Monterey,12/21/2020,719,California
+Napa,12/21/2020,234,California
+Nevada,12/21/2020,69,California
+Orange,12/21/2020,4146,California
+Outside California,12/21/2020,2349,Not in California
+Placer,12/21/2020,494,California
+Plumas,12/21/2020,45,California
+Riverside,12/21/2020,2269,California
+Sacramento,12/21/2020,1670,California
+San Benito,12/21/2020,46,California
+San Bernardino,12/21/2020,2449,California
+San Diego,12/21/2020,3511,California
+San Francisco,12/21/2020,1156,California
+San Joaquin,12/21/2020,517,California
+San Luis Obispo,12/21/2020,551,California
+San Mateo,12/21/2020,1136,California
+Santa Barbara,12/21/2020,650,California
+Santa Clara,12/21/2020,2617,California
+Santa Cruz,12/21/2020,427,California
+Shasta,12/21/2020,78,California
+Sierra,12/21/2020,2,California
+Siskiyou,12/21/2020,132,California
+Solano,12/21/2020,568,California
+Sonoma,12/21/2020,909,California
+Stanislaus,12/21/2020,983,California
+Sutter,12/21/2020,101,California
+Tehama,12/21/2020,33,California
+Trinity,12/21/2020,37,California
+Tulare,12/21/2020,423,California
+Tuolumne,12/21/2020,112,California
+Unknown,12/21/2020,41,Not in California
+Ventura,12/21/2020,1465,California
+Yolo,12/21/2020,252,California
+Yuba,12/21/2020,40,California
+Alameda,12/20/2020,1169,California
+Amador,12/20/2020,4,California
+Butte,12/20/2020,10,California
+Calaveras,12/20/2020,2,California
+Contra Costa,12/20/2020,577,California
+El Dorado,12/20/2020,83,California
+Fresno,12/20/2020,254,California
+Glenn,12/20/2020,1,California
+Humboldt,12/20/2020,28,California
+Imperial,12/20/2020,2,California
+Inyo,12/20/2020,59,California
+Kern,12/20/2020,59,California
+Kings,12/20/2020,13,California
+Lake,12/20/2020,6,California
+Lassen,12/20/2020,2,California
+Los Angeles,12/20/2020,4582,California
+Madera,12/20/2020,14,California
+Marin,12/20/2020,163,California
+Mariposa,12/20/2020,2,California
+Mendocino,12/20/2020,7,California
+Merced,12/20/2020,18,California
+Mono,12/20/2020,6,California
+Monterey,12/20/2020,422,California
+Napa,12/20/2020,137,California
+Nevada,12/20/2020,12,California
+Orange,12/20/2020,1930,California
+Outside California,12/20/2020,744,Not in California
+Placer,12/20/2020,231,California
+Riverside,12/20/2020,1076,California
+Sacramento,12/20/2020,631,California
+San Benito,12/20/2020,22,California
+San Bernardino,12/20/2020,1170,California
+San Diego,12/20/2020,1178,California
+San Francisco,12/20/2020,480,California
+San Joaquin,12/20/2020,111,California
+San Luis Obispo,12/20/2020,215,California
+San Mateo,12/20/2020,494,California
+Santa Barbara,12/20/2020,234,California
+Santa Clara,12/20/2020,1855,California
+Santa Cruz,12/20/2020,94,California
+Siskiyou,12/20/2020,1,California
+Solano,12/20/2020,353,California
+Sonoma,12/20/2020,175,California
+Stanislaus,12/20/2020,84,California
+Sutter,12/20/2020,42,California
+Tulare,12/20/2020,167,California
+Tuolumne,12/20/2020,1,California
+Ventura,12/20/2020,430,California
+Yolo,12/20/2020,100,California
+Yuba,12/20/2020,20,California
+Alameda,12/19/2020,1456,California
+Alpine,12/19/2020,2,California
+Amador,12/19/2020,17,California
+Butte,12/19/2020,7,California
+Calaveras,12/19/2020,3,California
+Contra Costa,12/19/2020,1101,California
+El Dorado,12/19/2020,116,California
+Fresno,12/19/2020,158,California
+Glenn,12/19/2020,1,California
+Humboldt,12/19/2020,10,California
+Inyo,12/19/2020,85,California
+Kern,12/19/2020,100,California
+Kings,12/19/2020,11,California
+Lake,12/19/2020,3,California
+Lassen,12/19/2020,5,California
+Los Angeles,12/19/2020,7210,California
+Madera,12/19/2020,6,California
+Marin,12/19/2020,347,California
+Mendocino,12/19/2020,3,California
+Merced,12/19/2020,38,California
+Mono,12/19/2020,5,California
+Monterey,12/19/2020,579,California
+Napa,12/19/2020,141,California
+Nevada,12/19/2020,55,California
+Orange,12/19/2020,2152,California
+Outside California,12/19/2020,1170,Not in California
+Placer,12/19/2020,248,California
+Plumas,12/19/2020,1,California
+Riverside,12/19/2020,1018,California
+Sacramento,12/19/2020,615,California
+San Benito,12/19/2020,48,California
+San Bernardino,12/19/2020,1064,California
+San Diego,12/19/2020,2299,California
+San Francisco,12/19/2020,599,California
+San Joaquin,12/19/2020,184,California
+San Luis Obispo,12/19/2020,164,California
+San Mateo,12/19/2020,520,California
+Santa Barbara,12/19/2020,325,California
+Santa Clara,12/19/2020,2100,California
+Santa Cruz,12/19/2020,176,California
+Shasta,12/19/2020,1,California
+Siskiyou,12/19/2020,3,California
+Solano,12/19/2020,511,California
+Sonoma,12/19/2020,108,California
+Stanislaus,12/19/2020,136,California
+Sutter,12/19/2020,44,California
+Tulare,12/19/2020,327,California
+Tuolumne,12/19/2020,5,California
+Ventura,12/19/2020,912,California
+Yolo,12/19/2020,85,California
+Yuba,12/19/2020,12,California
+Alameda,12/18/2020,1779,California
+Alpine,12/18/2020,2,California
+Amador,12/18/2020,44,California
+Butte,12/18/2020,50,California
+Calaveras,12/18/2020,38,California
+Colusa,12/18/2020,1,California
+Contra Costa,12/18/2020,1588,California
+El Dorado,12/18/2020,233,California
+Fresno,12/18/2020,342,California
+Humboldt,12/18/2020,171,California
+Imperial,12/18/2020,11,California
+Inyo,12/18/2020,1,California
+Kern,12/18/2020,318,California
+Kings,12/18/2020,11,California
+Lake,12/18/2020,50,California
+Lassen,12/18/2020,1,California
+Los Angeles,12/18/2020,14462,California
+Madera,12/18/2020,60,California
+Marin,12/18/2020,371,California
+Mariposa,12/18/2020,5,California
+Mendocino,12/18/2020,86,California
+Merced,12/18/2020,145,California
+Mono,12/18/2020,1,California
+Monterey,12/18/2020,481,California
+Napa,12/18/2020,103,California
+Nevada,12/18/2020,51,California
+Orange,12/18/2020,4912,California
+Outside California,12/18/2020,2651,Not in California
+Placer,12/18/2020,331,California
+Plumas,12/18/2020,4,California
+Riverside,12/18/2020,1718,California
+Sacramento,12/18/2020,969,California
+San Benito,12/18/2020,33,California
+San Bernardino,12/18/2020,3138,California
+San Diego,12/18/2020,3666,California
+San Francisco,12/18/2020,882,California
+San Joaquin,12/18/2020,511,California
+San Luis Obispo,12/18/2020,223,California
+San Mateo,12/18/2020,760,California
+Santa Barbara,12/18/2020,377,California
+Santa Clara,12/18/2020,1691,California
+Santa Cruz,12/18/2020,465,California
+Shasta,12/18/2020,168,California
+Sierra,12/18/2020,1,California
+Siskiyou,12/18/2020,3,California
+Solano,12/18/2020,449,California
+Sonoma,12/18/2020,419,California
+Stanislaus,12/18/2020,338,California
+Sutter,12/18/2020,20,California
+Tehama,12/18/2020,2,California
+Trinity,12/18/2020,2,California
+Tulare,12/18/2020,292,California
+Tuolumne,12/18/2020,98,California
+Unknown,12/18/2020,52,Not in California
+Ventura,12/18/2020,1407,California
+Yolo,12/18/2020,207,California
+Yuba,12/18/2020,8,California
+Alameda,12/17/2020,440,California
+Amador,12/17/2020,5,California
+Butte,12/17/2020,20,California
+Calaveras,12/17/2020,3,California
+Contra Costa,12/17/2020,901,California
+El Dorado,12/17/2020,31,California
+Fresno,12/17/2020,119,California
+Glenn,12/17/2020,1,California
+Humboldt,12/17/2020,114,California
+Imperial,12/17/2020,4,California
+Kern,12/17/2020,164,California
+Kings,12/17/2020,8,California
+Lake,12/17/2020,3,California
+Lassen,12/17/2020,6,California
+Los Angeles,12/17/2020,10232,California
+Madera,12/17/2020,12,California
+Marin,12/17/2020,259,California
+Mariposa,12/17/2020,2,California
+Mendocino,12/17/2020,71,California
+Merced,12/17/2020,6,California
+Monterey,12/17/2020,80,California
+Napa,12/17/2020,44,California
+Nevada,12/17/2020,6,California
+Orange,12/17/2020,3683,California
+Outside California,12/17/2020,1628,Not in California
+Placer,12/17/2020,139,California
+Riverside,12/17/2020,803,California
+Sacramento,12/17/2020,647,California
+San Benito,12/17/2020,9,California
+San Bernardino,12/17/2020,2337,California
+San Diego,12/17/2020,2354,California
+San Francisco,12/17/2020,397,California
+San Joaquin,12/17/2020,309,California
+San Luis Obispo,12/17/2020,196,California
+San Mateo,12/17/2020,177,California
+Santa Barbara,12/17/2020,51,California
+Santa Clara,12/17/2020,450,California
+Santa Cruz,12/17/2020,390,California
+Shasta,12/17/2020,418,California
+Siskiyou,12/17/2020,4,California
+Solano,12/17/2020,151,California
+Sonoma,12/17/2020,102,California
+Stanislaus,12/17/2020,73,California
+Sutter,12/17/2020,2,California
+Tehama,12/17/2020,12,California
+Trinity,12/17/2020,4,California
+Tulare,12/17/2020,109,California
+Tuolumne,12/17/2020,16,California
+Unknown,12/17/2020,37,Not in California
+Ventura,12/17/2020,248,California
+Yolo,12/17/2020,101,California
+Yuba,12/17/2020,4,California
+Alameda,12/16/2020,201,California
+Amador,12/16/2020,2,California
+Butte,12/16/2020,3,California
+Calaveras,12/16/2020,5,California
+Contra Costa,12/16/2020,522,California
+El Dorado,12/16/2020,40,California
+Fresno,12/16/2020,120,California
+Humboldt,12/16/2020,15,California
+Imperial,12/16/2020,1,California
+Kern,12/16/2020,18,California
+Kings,12/16/2020,1,California
+Lassen,12/16/2020,8,California
+Los Angeles,12/16/2020,3356,California
+Madera,12/16/2020,22,California
+Marin,12/16/2020,107,California
+Merced,12/16/2020,3,California
+Modoc,12/16/2020,1,California
+Monterey,12/16/2020,4,California
+Napa,12/16/2020,12,California
+Nevada,12/16/2020,3,California
+Orange,12/16/2020,364,California
+Outside California,12/16/2020,275,Not in California
+Placer,12/16/2020,52,California
+Riverside,12/16/2020,64,California
+Sacramento,12/16/2020,643,California
+San Benito,12/16/2020,2,California
+San Bernardino,12/16/2020,108,California
+San Diego,12/16/2020,1105,California
+San Francisco,12/16/2020,229,California
+San Joaquin,12/16/2020,300,California
+San Luis Obispo,12/16/2020,4,California
+San Mateo,12/16/2020,103,California
+Santa Barbara,12/16/2020,2,California
+Santa Clara,12/16/2020,128,California
+Santa Cruz,12/16/2020,57,California
+Shasta,12/16/2020,131,California
+Siskiyou,12/16/2020,2,California
+Solano,12/16/2020,71,California
+Sonoma,12/16/2020,29,California
+Stanislaus,12/16/2020,38,California
+Sutter,12/16/2020,4,California
+Tehama,12/16/2020,2,California
+Tulare,12/16/2020,3,California
+Tuolumne,12/16/2020,43,California
+Ventura,12/16/2020,70,California
+Yolo,12/16/2020,78,California
+Yuba,12/16/2020,4,California
+Alameda,12/15/2020,35,California
+Contra Costa,12/15/2020,18,California
+El Dorado,12/15/2020,12,California
+Fresno,12/15/2020,1,California
+Humboldt,12/15/2020,2,California
+Kern,12/15/2020,1,California
+Los Angeles,12/15/2020,391,California
+Marin,12/15/2020,2,California
+Orange,12/15/2020,15,California
+Outside California,12/15/2020,7,Not in California
+Placer,12/15/2020,29,California
+Riverside,12/15/2020,4,California
+Sacramento,12/15/2020,312,California
+San Bernardino,12/15/2020,12,California
+San Diego,12/15/2020,125,California
+San Francisco,12/15/2020,8,California
+San Joaquin,12/15/2020,12,California
+San Mateo,12/15/2020,25,California
+Santa Barbara,12/15/2020,2,California
+Santa Clara,12/15/2020,63,California
+Santa Cruz,12/15/2020,2,California
+Solano,12/15/2020,4,California
+Sonoma,12/15/2020,4,California
+Stanislaus,12/15/2020,2,California
+Sutter,12/15/2020,1,California
+Tehama,12/15/2020,1,California
+Ventura,12/15/2020,5,California
+Yolo,12/15/2020,39,California

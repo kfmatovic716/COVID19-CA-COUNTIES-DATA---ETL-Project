@@ -1,0 +1,92 @@
+COLUMN NAME,FORMAT,DEFINITION
+Date,Date,"Reporting time period
+
+Values:
+Date in YYY-MM-DD format"
+Area,Plain text,"County of Residence of Case, Test, or Death of COVID-19
+
+Value:  
+Text"
+Area_Type,Plain text,"Geographic type of the Area field.
+
+Values:  
+“State” if the Area value is “California”
+“County” for all other values"
+Population,Numeric,"California Department of Finance (DOF) population estimates 2020
+
+Values:
+Positive Numeric"
+Cases,Numeric,"Total number of laboratory-confirmed COVID-19 cases with episode date on the provided date. “Episode date” is defined as the earliest of the following dates (if the dates exist): date received, date of diagnosis, date of symptom onset, specimen collection date, or date of death.
+
+For example, if a case had estimated date of illness onset on 2020-06-01 but the case was reported on 2020-06-07, this case would be included in the Cases total for the row with Date of “2020-06-01”, and the Reported_Cases total for the row with Date of “2020-06-07”.
+
+Values: 
+Positive Numeric"
+Cumulative_Cases,Numeric,"Cumulative total of Cases field.
+
+Values: 
+Positive Numeric"
+Deaths,Numeric,"Total number of confirmed COVID-19 associated deaths with date of death on the provided date. Local health departments use multiple sources to confirm that a death is COVID-associated, including speaking with physicians, reviewing medical records, and consulting with medical examiners. COVID-associated deaths are also counted in the “Cases” field. 
+
+Note: If the cause of death was determined to be unrelated to COVID-19 (e.g. homicide) for an individual with confirmed COVID-19 infection, that case is not counted in the Death count (but counted in the Cases count).
+
+Values:
+Positive Numeric"
+Cumulative_Deaths,Numeric,"Cumulative total of Deaths field.
+
+Values: 
+Positive Numeric"
+Total_Tests,Numeric,"Total number of COVID-19 molecular tests (polymerase chain reaction [PCR] tests only) performed by laboratories with specimen collection date (estimated testing date) on the provided date.
+
+Note: Not de-duplicated by individual; if an individual were tested multiple times in one day by different laboratories, it would be counted multiple times in the test column, but (if the results came back positive) only once in the case column.
+
+Values:
+Positive Numeric"
+Cumulative_Total_Tests,Numeric,"Cumulative total of Total Tests field.
+
+Values: 
+Positive Numeric"
+Positive_Tests,Numeric,"Total number of positive COVID-19 molecular tests (polymerase chain reaction [PCR] tests only) with specimen collection date (estimated testing date) on the provided date.
+
+Values:
+Positive Numeric"
+Cumulative_Positive_Tests,Numeric,"Cumulative total of Positive Tests field.
+
+Values: 
+Positive Numeric"
+Reported_Cases,Numeric,"Total number of laboratory-confirmed COVID-19 cases reported to the California Department of Public Health on the provided date.
+
+For example, if a case had estimated date of illness onset on 2020-06-01 but the case was reported on 2020-06-07, this case would be included in the Cases total for the row with Date of “2020-06-01”, and the Reported_Cases total for the row with Date of “2020-06-07”.
+
+Note: A negative number indicates a correction from a previous day’s report.
+
+Values:
+Positive or Negative Numeric"
+Cumulative_Reported_Cases,Numeric,"Cumulative total of Reported Cases field.
+
+Values: 
+Positive Numeric"
+Reported_Deaths,Numeric,"Total number of confirmed COVID-19 associated deaths reported to the California Department of Public Health on the provided date. Local health departments use multiple sources to confirm that a death is COVID-associated, including speaking with physicians, reviewing medical records, and consulting with medical examiners. COVID-associated deaths are also counted in the “Cases” field. 
+
+Note: If the cause of death was determined to be unrelated to COVID-19 (e.g. homicide) for an individual with confirmed COVID-19 infection, that case is not counted in the Death count (but counted in the Cases count).
+
+Note: A negative number indicates a correction from a previous day’s report.
+
+Values:
+Positive or Negative Numeric"
+Cumulative_Reported_Deaths,Numeric,"Cumulative total of Reported Deaths field.
+
+Values: 
+Positive Numeric"
+Reported_Tests,Numeric,"Total number of COVID-19 molecular tests reported to the California Department of Public Health on the provided date.
+
+Note: Not de-duplicated by individual; if an individual were tested multiple times in one day by different laboratories, it would be counted multiple times in the test column, but (if the results came back positive) only once in the case column.
+
+Note: A negative number indicates a correction from a previous day’s report.
+
+Values:
+Positive or Negative Numeric"
+Cumulative_Reported_Tests,Numeric,"Cumulative total of Reported Tests field.
+
+Values: 
+Positive Numeric"
