@@ -155,7 +155,7 @@
             <li>Final normalized datasets</li>
             <ul>
                 <li>employment/unemployment and vaccine data - normalizing not needed because data is small</li>
-                <li>hospital data - produced 3 smaller datasets, hospitalized covid patients, hospital beds & icu covid patients </li>
+                <li>hospital data - produced 3 smaller datasets, hospitalized covid patients, hospital beds & icu covid patients</li>
                 <li>test cases data - produced 4 smaller datasets, counties, cases, deaths and total tests</li>
         </ul>
 </ol>
@@ -166,18 +166,18 @@
     <li>Created ERD Diagram via QuickDBD that shows how all the different normalized has been related</li>
         <ul>
             <li>Used county and date as primary & foreign composite keys</li>
-            <li>Set the primary composite key from the vaccine data as opposed to the county data because the vaccine data has a broader scope of counties</li>
+            <li>Set the primary composite key from the Counties data </li>
         </ul>
 
 <img src="Load/ERD.png"/>
     <li>Created a new database called covid_db</li>
-    <li>Wrote a Schema to create the tables in the database and set foreign keys constraints </li>
-    <li>Imported csv files in each table after they've been created </li>
+    <li>Wrote a Schema to create the tables in the database and setting primary/foreign composite keys for each dataset</li>
+    <li>Imported all nine normalized datasets successfully in SQL server </li>
     <li>Generated some queries to show how the data can be useful to analysts in the future</li>
 
 <br>
 <h2>SAMPLE OF LOADED DATA</h2>
-<img src="Load/sample_data_loaded.jpg"/>
+<img src="Load/sample_data_loaded.png"/>
 </ol>
 
 ## D. DATA USE CASES

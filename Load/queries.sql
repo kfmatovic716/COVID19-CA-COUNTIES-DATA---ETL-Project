@@ -107,6 +107,6 @@ SELECT
 FROM 
 	Vaccine
 INNER JOIN Cases ON
-	Vaccine.county = Cases.county
-    Vaccine.date = Cases.date
+	(Vaccine.county, Vaccine.date) = (Cases.county, Cases.date)
+    
 
