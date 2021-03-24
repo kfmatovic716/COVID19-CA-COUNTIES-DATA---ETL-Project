@@ -87,7 +87,6 @@
 
 <li> The data in columns record count, area_type, year, month, and status_preliminary_final were were not used. Therefore, these columns were <strong>deleted</strong>.</li>
 
-<li>There were negative numbers in the column “reported_deaths”. Based on the CHHS Open Data Portal field documentation, these were corrections from the previous day’s report (i.e. if the cause of death was determined to be non-COVID related)</li>
 </ul>
 </ol>
 <hr>
