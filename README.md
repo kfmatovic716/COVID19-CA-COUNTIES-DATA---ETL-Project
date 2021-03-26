@@ -41,7 +41,7 @@
 <li> COVID-19 Vaccine Data - covid19vaccinesbycounty.csv</li>
     <ul>
     <li>There were <strong>5,212 total records</strong> collected from <strong>December 15, 2020 through March 16, 2021</strong>. The total number of doses administered per county in CA has been recorded daily.</li>
-    <li>In the vaccine raw data, there were  county records named “Outside California” and “Unknown”. Based on CHHS Open Data Portal, these records are non-California residents who received vaccinations in a specific CA county. We will include these data records since the prospective analysis is focused on the number of doses each county has administered. </li>
+    <li>In the vaccine raw data, there were  county records named “Outside California” and “Unknown”. Based on CHHS Open Data Portal, these records are non-California residents who received vaccinations in a specific CA county. There were also 23 other counties reported that do not belong to California County like Tarrant, Windham, Walla Walla & etc. </li>
     </ul>
 <li> COVID-19 Hospitalization Data - covid19hospitalbycounty.csv</li>
     <ul>
@@ -120,7 +120,8 @@
         <ul>
             <li>Dataset1: covid19vaccinesbycounty.csv </li>
                 <ul>
-                    <li>The column “california_flag” contains “California” or “Not in California”. This colimn is not necessary to keep because all counties are in CA and the records with “Not in California” were already categorized in the county column  as “Outside California” and “Unknown”. Therefore, this column has been deleted.</li>
+                    <li>The column “california_flag” contains “California” or “Not in California”. This column is not necessary to keep because all counties are in CA and the records with “Not in California” were already categorized in the county column  as “Outside California” and “Unknown”. Therefore, this column has been deleted.</li>
+                    <li>Removed records that were "Outside California", "Unknown", "California", "Oxford", "Cottonwood" and the rest of this list are found in the Transform directory, data_notes.xls file
                     <li>Re-formatted dates to a yyyy-mm-dd to sort the data correctly</li>
                     <li>Replaced all NaN's with 0</li>
                     <li>Renamed the columns to match the column names to be used in SQL</li>
